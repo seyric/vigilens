@@ -1,0 +1,62 @@
+{
+  "project": {
+    "name": "Vigilens",
+    "version": "1.0"
+  },
+
+  "person": {
+    "count": 5000,
+
+    "age": {
+      "min": 10,
+      "max": 80,
+      "juvenile_probability": 0.08
+    },
+
+    "height_cm": {
+      "min": 135,
+      "max": 205
+    },
+
+    "weight_kg": {
+      "min": 35,
+      "max": 140
+    },
+
+    "family_size": {
+      "min": 2,
+      "max": 6
+    }
+  },
+
+  "suspect": {
+    "count": 1200,
+    "wanted_probability": 0.12,
+    "gang_probability": 0.18,
+    "alias_probability": 0.40,
+    "repeat_offender_probability": 0.35
+  },
+
+  "victim": {
+    "count": 1800
+  },
+
+  "officer": {
+    "count": 500
+  },
+
+  "case": {
+    "count": 1000,
+
+    "max_suspects": 5,
+    "max_victims": 8,
+    "max_officers": 6,
+
+    "cold_case_probability": 0.15
+  },
+
+  "timeline": {
+    "min_year": 2018,
+    "max_year": 2026
+  }
+}

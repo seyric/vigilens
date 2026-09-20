@@ -1,0 +1,1929 @@
+{
+  "heatmap_data": [
+    {
+      "station_name": "Belagavi Camp",
+      "district_name": "Belagavi",
+      "latitude": null,
+      "longitude": null,
+      "crime_count": 4
+    },
+    {
+      "station_name": "Cubbon Park",
+      "district_name": "Bengaluru Urban",
+      "latitude": null,
+      "longitude": null,
+      "crime_count": 3
+    },
+    {
+      "station_name": "Hubballi North",
+      "district_name": "Dakshina Kannada",
+      "latitude": null,
+      "longitude": null,
+      "crime_count": 4
+    },
+    {
+      "station_name": "Central Station",
+      "district_name": "Dharwad",
+      "latitude": null,
+      "longitude": null,
+      "crime_count": 0
+    },
+    {
+      "station_name": "Udupi Town",
+      "district_name": "Kalaburagi",
+      "latitude": null,
+      "longitude": null,
+      "crime_count": 3
+    },
+    {
+      "station_name": "Vijayanagar",
+      "district_name": "Kodagu",
+      "latitude": null,
+      "longitude": null,
+      "crime_count": 4
+    },
+    {
+      "station_name": "Shivamogga Town",
+      "district_name": "Mysuru",
+      "latitude": null,
+      "longitude": null,
+      "crime_count": 4
+    },
+    {
+      "station_name": "Devaraja",
+      "district_name": "Shivamogga",
+      "latitude": null,
+      "longitude": null,
+      "crime_count": 4
+    },
+    {
+      "station_name": "Mangaluru East",
+      "district_name": "Udupi",
+      "latitude": null,
+      "longitude": null,
+      "crime_count": 4
+    }
+  ],
+  "crime_coordinates": [
+    {
+      "crime_id": "1b5682da-cb39-4900-a8e1-2e9bc525e003",
+      "reported_at": "2025-12-15T12:16:27+00:00",
+      "fir_number": "FIR/2026/67638",
+      "district_name": "Udupi",
+      "station_name": "Mangaluru East",
+      "latitude": null,
+      "longitude": null,
+      "category_name": "Identity Theft",
+      "severity": "Medium",
+      "location_source": "police_station"
+    },
+    {
+      "crime_id": "2dbc192e-7b0a-47ca-8f4b-fff03f5ae4c4",
+      "reported_at": "2025-07-14T19:26:27+00:00",
+      "fir_number": "FIR/2025/81290",
+      "district_name": "Belagavi",
+      "station_name": "Belagavi Camp",
+      "latitude": null,
+      "longitude": null,
+      "category_name": "Burglary",
+      "severity": "Medium",
+      "location_source": "police_station"
+    },
+    {
+      "crime_id": "5108bc79-50c7-4110-a7fc-63a237d3b0e3",
+      "reported_at": "2024-08-26T22:18:27+00:00",
+      "fir_number": "FIR/2019/15116",
+      "district_name": "Kalaburagi",
+      "station_name": "Udupi Town",
+      "latitude": null,
+      "longitude": null,
+      "category_name": "Assault",
+      "severity": "Medium",
+      "location_source": "police_station"
+    },
+    {
+      "crime_id": "3e142b0f-742d-4df9-9fff-d94737aaafde",
+      "reported_at": "2024-07-16T18:07:27+00:00",
+      "fir_number": "FIR/2024/16511",
+      "district_name": "Mysuru",
+      "station_name": "Shivamogga Town",
+      "latitude": null,
+      "longitude": null,
+      "category_name": "Mobile Theft",
+      "severity": "Medium",
+      "location_source": "police_station"
+    },
+    {
+      "crime_id": "e84e8eba-e81b-4e97-956f-736e58c3d902",
+      "reported_at": "2024-05-13T19:47:27+00:00",
+      "fir_number": "FIR/2026/86923",
+      "district_name": "Udupi",
+      "station_name": "Mangaluru East",
+      "latitude": null,
+      "longitude": null,
+      "category_name": "Financial Fraud",
+      "severity": "Medium",
+      "location_source": "police_station"
+    },
+    {
+      "crime_id": "d92cf90b-bbe8-47b5-a2cf-2c411c9bf465",
+      "reported_at": "2024-03-26T16:59:27+00:00",
+      "fir_number": "FIR/2026/55243",
+      "district_name": "Kodagu",
+      "station_name": "Vijayanagar",
+      "latitude": null,
+      "longitude": null,
+      "category_name": "Burglary",
+      "severity": "Medium",
+      "location_source": "police_station"
+    },
+    {
+      "crime_id": "e65cb713-2ad2-4d4b-9e90-2c10bfe406f3",
+      "reported_at": "2023-08-17T00:11:27+00:00",
+      "fir_number": "FIR/2022/91217",
+      "district_name": "Dakshina Kannada",
+      "station_name": "Hubballi North",
+      "latitude": null,
+      "longitude": null,
+      "category_name": "Cyber Crime",
+      "severity": "Medium",
+      "location_source": "police_station"
+    },
+    {
+      "crime_id": "2bf77d79-3cce-457c-aff8-ee333b39f382",
+      "reported_at": "2023-08-03T17:03:27+00:00",
+      "fir_number": "FIR/2026/64356",
+      "district_name": "Udupi",
+      "station_name": "Mangaluru East",
+      "latitude": null,
+      "longitude": null,
+      "category_name": "Chain Snatching",
+      "severity": "Medium",
+      "location_source": "police_station"
+    },
+    {
+      "crime_id": "c6ae9036-5db5-4e26-8b7d-43da5412f855",
+      "reported_at": "2023-03-25T21:52:27+00:00",
+      "fir_number": "FIR/2023/56114",
+      "district_name": "Shivamogga",
+      "station_name": "Devaraja",
+      "latitude": null,
+      "longitude": null,
+      "category_name": "Robbery",
+      "severity": "Medium",
+      "location_source": "police_station"
+    },
+    {
+      "crime_id": "f75e499c-51f4-42e3-8b45-0b749f0c8361",
+      "reported_at": "2023-02-05T12:28:27+00:00",
+      "fir_number": "FIR/2021/61608",
+      "district_name": "Kodagu",
+      "station_name": "Vijayanagar",
+      "latitude": null,
+      "longitude": null,
+      "category_name": "Identity Theft",
+      "severity": "Medium",
+      "location_source": "police_station"
+    },
+    {
+      "crime_id": "c7792b5c-68e7-42dd-a24b-216028a341d2",
+      "reported_at": "2023-01-20T06:59:27+00:00",
+      "fir_number": "FIR/2024/69447",
+      "district_name": "Bengaluru Urban",
+      "station_name": "Cubbon Park",
+      "latitude": null,
+      "longitude": null,
+      "category_name": "Online Scam",
+      "severity": "Medium",
+      "location_source": "police_station"
+    },
+    {
+      "crime_id": "5f71d838-ae3d-4f21-a209-64143ca81937",
+      "reported_at": "2022-01-29T07:52:27+00:00",
+      "fir_number": "FIR/2020/22052",
+      "district_name": "Dakshina Kannada",
+      "station_name": "Hubballi North",
+      "latitude": null,
+      "longitude": null,
+      "category_name": "Kidnapping",
+      "severity": "Medium",
+      "location_source": "police_station"
+    },
+    {
+      "crime_id": "e8db3db0-9b46-4989-802e-85b9f97595a7",
+      "reported_at": "2021-11-01T12:33:27+00:00",
+      "fir_number": "FIR/2017/50380",
+      "district_name": "Shivamogga",
+      "station_name": "Devaraja",
+      "latitude": null,
+      "longitude": null,
+      "category_name": "Kidnapping",
+      "severity": "Medium",
+      "location_source": "police_station"
+    },
+    {
+      "crime_id": "eb09a057-726d-4fe4-bd3d-1a53fc0f66d5",
+      "reported_at": "2021-06-20T03:04:27+00:00",
+      "fir_number": "FIR/2018/90472",
+      "district_name": "Kodagu",
+      "station_name": "Vijayanagar",
+      "latitude": null,
+      "longitude": null,
+      "category_name": "Financial Fraud",
+      "severity": "Medium",
+      "location_source": "police_station"
+    },
+    {
+      "crime_id": "7442f66e-d971-4b9f-beb4-8e2d94d02324",
+      "reported_at": "2021-04-06T05:45:27+00:00",
+      "fir_number": "FIR/2024/88215",
+      "district_name": "Bengaluru Urban",
+      "station_name": "Cubbon Park",
+      "latitude": null,
+      "longitude": null,
+      "category_name": "Missing Person",
+      "severity": "Medium",
+      "location_source": "police_station"
+    },
+    {
+      "crime_id": "a9c80168-1fa9-4dd8-b01a-8038096740f1",
+      "reported_at": "2021-04-04T22:24:27+00:00",
+      "fir_number": "FIR/2022/49240",
+      "district_name": "Udupi",
+      "station_name": "Mangaluru East",
+      "latitude": null,
+      "longitude": null,
+      "category_name": "Vehicle Theft",
+      "severity": "Medium",
+      "location_source": "police_station"
+    },
+    {
+      "crime_id": "8f2d70aa-1631-4bdb-992f-2e705a3bab0f",
+      "reported_at": "2021-02-19T07:01:27+00:00",
+      "fir_number": "FIR/2021/91412",
+      "district_name": "Shivamogga",
+      "station_name": "Devaraja",
+      "latitude": null,
+      "longitude": null,
+      "category_name": "Missing Person",
+      "severity": "Medium",
+      "location_source": "police_station"
+    },
+    {
+      "crime_id": "f63dab93-3f2f-4903-892b-297525be6ac7",
+      "reported_at": "2021-01-16T14:06:27+00:00",
+      "fir_number": "FIR/2021/61396",
+      "district_name": "Shivamogga",
+      "station_name": "Devaraja",
+      "latitude": null,
+      "longitude": null,
+      "category_name": "Mobile Theft",
+      "severity": "Medium",
+      "location_source": "police_station"
+    },
+    {
+      "crime_id": "6a140cd1-5cfe-4e23-99a7-e21c9eabd0ac",
+      "reported_at": "2021-01-03T09:41:27+00:00",
+      "fir_number": "FIR/2021/91596",
+      "district_name": "Belagavi",
+      "station_name": "Belagavi Camp",
+      "latitude": null,
+      "longitude": null,
+      "category_name": "Vehicle Theft",
+      "severity": "Medium",
+      "location_source": "police_station"
+    },
+    {
+      "crime_id": "92db8a73-953c-4507-9ca4-682a39377ba1",
+      "reported_at": "2020-10-01T10:08:27+00:00",
+      "fir_number": "FIR/2021/23854",
+      "district_name": "Kodagu",
+      "station_name": "Vijayanagar",
+      "latitude": null,
+      "longitude": null,
+      "category_name": "Assault",
+      "severity": "Medium",
+      "location_source": "police_station"
+    },
+    {
+      "crime_id": "dcf259a8-1a56-4bf1-9bf1-bc9cafbe735d",
+      "reported_at": "2020-07-03T09:18:27+00:00",
+      "fir_number": "FIR/2025/74438",
+      "district_name": "Dakshina Kannada",
+      "station_name": "Hubballi North",
+      "latitude": null,
+      "longitude": null,
+      "category_name": "Robbery",
+      "severity": "Medium",
+      "location_source": "police_station"
+    },
+    {
+      "crime_id": "0add5353-3563-4e82-843e-09ef9e918538",
+      "reported_at": "2020-05-29T08:19:27+00:00",
+      "fir_number": "FIR/2024/74835",
+      "district_name": "Mysuru",
+      "station_name": "Shivamogga Town",
+      "latitude": null,
+      "longitude": null,
+      "category_name": "Murder",
+      "severity": "High",
+      "location_source": "police_station"
+    },
+    {
+      "crime_id": "4a80c865-d458-4fc0-9da4-e80dd648cbc1",
+      "reported_at": "2019-05-27T09:32:27+00:00",
+      "fir_number": "FIR/2026/13163",
+      "district_name": "Bengaluru Urban",
+      "station_name": "Cubbon Park",
+      "latitude": null,
+      "longitude": null,
+      "category_name": "Mobile Theft",
+      "severity": "Medium",
+      "location_source": "police_station"
+    },
+    {
+      "crime_id": "ee621ac5-2239-42c9-b9be-2936c3a3c91e",
+      "reported_at": "2019-03-03T05:32:27+00:00",
+      "fir_number": "FIR/2024/36691",
+      "district_name": "Kalaburagi",
+      "station_name": "Udupi Town",
+      "latitude": null,
+      "longitude": null,
+      "category_name": "Burglary",
+      "severity": "Medium",
+      "location_source": "police_station"
+    },
+    {
+      "crime_id": "aadaa36a-8dcd-4bd6-a468-077ceec70cd8",
+      "reported_at": "2018-08-30T21:48:27+00:00",
+      "fir_number": "FIR/2017/81073",
+      "district_name": "Mysuru",
+      "station_name": "Shivamogga Town",
+      "latitude": null,
+      "longitude": null,
+      "category_name": "Online Scam",
+      "severity": "Medium",
+      "location_source": "police_station"
+    },
+    {
+      "crime_id": "78ae4b1c-7423-4719-9995-209ad73abb43",
+      "reported_at": "2018-01-25T13:03:27+00:00",
+      "fir_number": "FIR/2022/41237",
+      "district_name": "Belagavi",
+      "station_name": "Belagavi Camp",
+      "latitude": null,
+      "longitude": null,
+      "category_name": "Drug Trafficking",
+      "severity": "Medium",
+      "location_source": "police_station"
+    },
+    {
+      "crime_id": "56a664d8-4bb9-406a-afff-5bb2a45634cc",
+      "reported_at": "2017-11-22T13:15:27+00:00",
+      "fir_number": "FIR/2026/25064",
+      "district_name": "Mysuru",
+      "station_name": "Shivamogga Town",
+      "latitude": null,
+      "longitude": null,
+      "category_name": "Cyber Crime",
+      "severity": "Medium",
+      "location_source": "police_station"
+    },
+    {
+      "crime_id": "dec9a06b-5e83-4ea0-b6f7-b86697420b99",
+      "reported_at": "2017-04-19T02:55:27+00:00",
+      "fir_number": "FIR/2017/65410",
+      "district_name": "Kalaburagi",
+      "station_name": "Udupi Town",
+      "latitude": null,
+      "longitude": null,
+      "category_name": "Drug Trafficking",
+      "severity": "Medium",
+      "location_source": "police_station"
+    },
+    {
+      "crime_id": "12296f05-5ff9-48f4-b1ec-e86a7693e518",
+      "reported_at": "2017-03-23T04:06:27+00:00",
+      "fir_number": "FIR/2022/80648",
+      "district_name": "Dakshina Kannada",
+      "station_name": "Hubballi North",
+      "latitude": null,
+      "longitude": null,
+      "category_name": "Murder",
+      "severity": "High",
+      "location_source": "police_station"
+    },
+    {
+      "crime_id": "31b0774f-15eb-45db-8478-805e16525173",
+      "reported_at": "2016-10-28T17:19:27+00:00",
+      "fir_number": "FIR/2025/53803",
+      "district_name": "Belagavi",
+      "station_name": "Belagavi Camp",
+      "latitude": null,
+      "longitude": null,
+      "category_name": "Chain Snatching",
+      "severity": "Medium",
+      "location_source": "police_station"
+    }
+  ],
+  "district_boundaries": [
+    {
+      "district_id": "f5e6c116-26a0-4ada-bb5c-12eb769f0e03",
+      "district_name": "Belagavi",
+      "region": "Karnataka",
+      "headquarters": "Belagavi",
+      "boundary_geojson": null
+    },
+    {
+      "district_id": "3903135e-abb2-4b2d-b330-f480703fb3e1",
+      "district_name": "Bengaluru Urban",
+      "region": "Karnataka",
+      "headquarters": "Bengaluru Urban",
+      "boundary_geojson": null
+    },
+    {
+      "district_id": "c28e3f98-159e-4dcd-a6f9-80c23a6f6d11",
+      "district_name": "Dakshina Kannada",
+      "region": "Karnataka",
+      "headquarters": "Dakshina Kannada",
+      "boundary_geojson": null
+    },
+    {
+      "district_id": "0e68fc9c-487f-45ab-aa0b-748355b102f2",
+      "district_name": "Dharwad",
+      "region": "Karnataka",
+      "headquarters": "Dharwad",
+      "boundary_geojson": null
+    },
+    {
+      "district_id": "e9454ef3-ed08-4ccb-9f48-381792757022",
+      "district_name": "Kalaburagi",
+      "region": "Karnataka",
+      "headquarters": "Kalaburagi",
+      "boundary_geojson": null
+    },
+    {
+      "district_id": "325a5fde-0f5c-4bc2-8c7d-f28397e9f369",
+      "district_name": "Kodagu",
+      "region": "Karnataka",
+      "headquarters": "Kodagu",
+      "boundary_geojson": null
+    },
+    {
+      "district_id": "890913e3-714d-4964-8438-faaa2741fd13",
+      "district_name": "Mysuru",
+      "region": "Karnataka",
+      "headquarters": "Mysuru",
+      "boundary_geojson": null
+    },
+    {
+      "district_id": "ae812f5b-08ce-489a-a803-844b0cb04727",
+      "district_name": "Shivamogga",
+      "region": "Karnataka",
+      "headquarters": "Shivamogga",
+      "boundary_geojson": null
+    },
+    {
+      "district_id": "7874b33a-ef78-4a3c-8115-ced769665d41",
+      "district_name": "Tumakuru",
+      "region": "Karnataka",
+      "headquarters": "Tumakuru",
+      "boundary_geojson": null
+    },
+    {
+      "district_id": "c5e9d839-5f23-4ab2-8e32-771cf1a56307",
+      "district_name": "Udupi",
+      "region": "Karnataka",
+      "headquarters": "Udupi",
+      "boundary_geojson": null
+    }
+  ],
+  "police_station_coordinates": [
+    {
+      "station_id": "5410de6d-f885-4228-943e-d6d8cf470a3f",
+      "station_name": "Belagavi Camp",
+      "station_code": "PS004",
+      "station_type": "PS",
+      "district_name": "Belagavi",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "station_id": "7585a4ab-241b-42e9-b13e-2e2501dac40b",
+      "station_name": "Cubbon Park",
+      "station_code": "PS007",
+      "station_type": "PS",
+      "district_name": "Bengaluru Urban",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "station_id": "77f985eb-c311-4160-a46a-5d5f65c58387",
+      "station_name": "Hubballi North",
+      "station_code": "PS002",
+      "station_type": "PS",
+      "district_name": "Dakshina Kannada",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "station_id": "4ffb7094-fbc9-40f8-802e-0c22429b065d",
+      "station_name": "Central Station",
+      "station_code": "PS000",
+      "station_type": "PS",
+      "district_name": "Dharwad",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "station_id": "c941cbfd-c916-43e3-bc6f-96a9d7a93918",
+      "station_name": "Udupi Town",
+      "station_code": "PS001",
+      "station_type": "PS",
+      "district_name": "Kalaburagi",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "station_id": "b9b8d363-3544-422b-82ad-74678c9d8148",
+      "station_name": "Vijayanagar",
+      "station_code": "PS006",
+      "station_type": "PS",
+      "district_name": "Kodagu",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "station_id": "7f789646-7941-4328-a294-8ebeceb00352",
+      "station_name": "Shivamogga Town",
+      "station_code": "PS008",
+      "station_type": "PS",
+      "district_name": "Mysuru",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "station_id": "176e4135-0059-43f8-99a5-a5f773f4b5c4",
+      "station_name": "Devaraja",
+      "station_code": "PS005",
+      "station_type": "PS",
+      "district_name": "Shivamogga",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "station_id": "c8994100-160d-49e4-b7a7-246dfc0e551f",
+      "station_name": "Mangaluru East",
+      "station_code": "PS003",
+      "station_type": "PS",
+      "district_name": "Udupi",
+      "latitude": null,
+      "longitude": null
+    }
+  ],
+  "timeline_coordinates": [
+    {
+      "crime_id": "1b5682da-cb39-4900-a8e1-2e9bc525e003",
+      "fir_number": "FIR/2026/67638",
+      "reported_at": "2025-12-15T12:16:27+00:00",
+      "district_name": "Udupi",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "crime_id": "2dbc192e-7b0a-47ca-8f4b-fff03f5ae4c4",
+      "fir_number": "FIR/2025/81290",
+      "reported_at": "2025-07-14T19:26:27+00:00",
+      "district_name": "Belagavi",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "crime_id": "5108bc79-50c7-4110-a7fc-63a237d3b0e3",
+      "fir_number": "FIR/2019/15116",
+      "reported_at": "2024-08-26T22:18:27+00:00",
+      "district_name": "Kalaburagi",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "crime_id": "3e142b0f-742d-4df9-9fff-d94737aaafde",
+      "fir_number": "FIR/2024/16511",
+      "reported_at": "2024-07-16T18:07:27+00:00",
+      "district_name": "Mysuru",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "crime_id": "e84e8eba-e81b-4e97-956f-736e58c3d902",
+      "fir_number": "FIR/2026/86923",
+      "reported_at": "2024-05-13T19:47:27+00:00",
+      "district_name": "Udupi",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "crime_id": "d92cf90b-bbe8-47b5-a2cf-2c411c9bf465",
+      "fir_number": "FIR/2026/55243",
+      "reported_at": "2024-03-26T16:59:27+00:00",
+      "district_name": "Kodagu",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "crime_id": "e65cb713-2ad2-4d4b-9e90-2c10bfe406f3",
+      "fir_number": "FIR/2022/91217",
+      "reported_at": "2023-08-17T00:11:27+00:00",
+      "district_name": "Dakshina Kannada",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "crime_id": "2bf77d79-3cce-457c-aff8-ee333b39f382",
+      "fir_number": "FIR/2026/64356",
+      "reported_at": "2023-08-03T17:03:27+00:00",
+      "district_name": "Udupi",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "crime_id": "c6ae9036-5db5-4e26-8b7d-43da5412f855",
+      "fir_number": "FIR/2023/56114",
+      "reported_at": "2023-03-25T21:52:27+00:00",
+      "district_name": "Shivamogga",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "crime_id": "f75e499c-51f4-42e3-8b45-0b749f0c8361",
+      "fir_number": "FIR/2021/61608",
+      "reported_at": "2023-02-05T12:28:27+00:00",
+      "district_name": "Kodagu",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "crime_id": "c7792b5c-68e7-42dd-a24b-216028a341d2",
+      "fir_number": "FIR/2024/69447",
+      "reported_at": "2023-01-20T06:59:27+00:00",
+      "district_name": "Bengaluru Urban",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "crime_id": "5f71d838-ae3d-4f21-a209-64143ca81937",
+      "fir_number": "FIR/2020/22052",
+      "reported_at": "2022-01-29T07:52:27+00:00",
+      "district_name": "Dakshina Kannada",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "crime_id": "e8db3db0-9b46-4989-802e-85b9f97595a7",
+      "fir_number": "FIR/2017/50380",
+      "reported_at": "2021-11-01T12:33:27+00:00",
+      "district_name": "Shivamogga",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "crime_id": "eb09a057-726d-4fe4-bd3d-1a53fc0f66d5",
+      "fir_number": "FIR/2018/90472",
+      "reported_at": "2021-06-20T03:04:27+00:00",
+      "district_name": "Kodagu",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "crime_id": "7442f66e-d971-4b9f-beb4-8e2d94d02324",
+      "fir_number": "FIR/2024/88215",
+      "reported_at": "2021-04-06T05:45:27+00:00",
+      "district_name": "Bengaluru Urban",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "crime_id": "a9c80168-1fa9-4dd8-b01a-8038096740f1",
+      "fir_number": "FIR/2022/49240",
+      "reported_at": "2021-04-04T22:24:27+00:00",
+      "district_name": "Udupi",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "crime_id": "8f2d70aa-1631-4bdb-992f-2e705a3bab0f",
+      "fir_number": "FIR/2021/91412",
+      "reported_at": "2021-02-19T07:01:27+00:00",
+      "district_name": "Shivamogga",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "crime_id": "f63dab93-3f2f-4903-892b-297525be6ac7",
+      "fir_number": "FIR/2021/61396",
+      "reported_at": "2021-01-16T14:06:27+00:00",
+      "district_name": "Shivamogga",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "crime_id": "6a140cd1-5cfe-4e23-99a7-e21c9eabd0ac",
+      "fir_number": "FIR/2021/91596",
+      "reported_at": "2021-01-03T09:41:27+00:00",
+      "district_name": "Belagavi",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "crime_id": "92db8a73-953c-4507-9ca4-682a39377ba1",
+      "fir_number": "FIR/2021/23854",
+      "reported_at": "2020-10-01T10:08:27+00:00",
+      "district_name": "Kodagu",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "crime_id": "dcf259a8-1a56-4bf1-9bf1-bc9cafbe735d",
+      "fir_number": "FIR/2025/74438",
+      "reported_at": "2020-07-03T09:18:27+00:00",
+      "district_name": "Dakshina Kannada",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "crime_id": "0add5353-3563-4e82-843e-09ef9e918538",
+      "fir_number": "FIR/2024/74835",
+      "reported_at": "2020-05-29T08:19:27+00:00",
+      "district_name": "Mysuru",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "crime_id": "4a80c865-d458-4fc0-9da4-e80dd648cbc1",
+      "fir_number": "FIR/2026/13163",
+      "reported_at": "2019-05-27T09:32:27+00:00",
+      "district_name": "Bengaluru Urban",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "crime_id": "ee621ac5-2239-42c9-b9be-2936c3a3c91e",
+      "fir_number": "FIR/2024/36691",
+      "reported_at": "2019-03-03T05:32:27+00:00",
+      "district_name": "Kalaburagi",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "crime_id": "aadaa36a-8dcd-4bd6-a468-077ceec70cd8",
+      "fir_number": "FIR/2017/81073",
+      "reported_at": "2018-08-30T21:48:27+00:00",
+      "district_name": "Mysuru",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "crime_id": "78ae4b1c-7423-4719-9995-209ad73abb43",
+      "fir_number": "FIR/2022/41237",
+      "reported_at": "2018-01-25T13:03:27+00:00",
+      "district_name": "Belagavi",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "crime_id": "56a664d8-4bb9-406a-afff-5bb2a45634cc",
+      "fir_number": "FIR/2026/25064",
+      "reported_at": "2017-11-22T13:15:27+00:00",
+      "district_name": "Mysuru",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "crime_id": "dec9a06b-5e83-4ea0-b6f7-b86697420b99",
+      "fir_number": "FIR/2017/65410",
+      "reported_at": "2017-04-19T02:55:27+00:00",
+      "district_name": "Kalaburagi",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "crime_id": "12296f05-5ff9-48f4-b1ec-e86a7693e518",
+      "fir_number": "FIR/2022/80648",
+      "reported_at": "2017-03-23T04:06:27+00:00",
+      "district_name": "Dakshina Kannada",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "crime_id": "31b0774f-15eb-45db-8478-805e16525173",
+      "fir_number": "FIR/2025/53803",
+      "reported_at": "2016-10-28T17:19:27+00:00",
+      "district_name": "Belagavi",
+      "latitude": null,
+      "longitude": null
+    }
+  ],
+  "cluster_datasets": [
+    {
+      "district_name": "Udupi",
+      "latitude": null,
+      "longitude": null,
+      "crime_count": 4
+    },
+    {
+      "district_name": "Belagavi",
+      "latitude": null,
+      "longitude": null,
+      "crime_count": 4
+    },
+    {
+      "district_name": "Kalaburagi",
+      "latitude": null,
+      "longitude": null,
+      "crime_count": 3
+    },
+    {
+      "district_name": "Mysuru",
+      "latitude": null,
+      "longitude": null,
+      "crime_count": 4
+    },
+    {
+      "district_name": "Kodagu",
+      "latitude": null,
+      "longitude": null,
+      "crime_count": 4
+    },
+    {
+      "district_name": "Dakshina Kannada",
+      "latitude": null,
+      "longitude": null,
+      "crime_count": 4
+    },
+    {
+      "district_name": "Shivamogga",
+      "latitude": null,
+      "longitude": null,
+      "crime_count": 4
+    },
+    {
+      "district_name": "Bengaluru Urban",
+      "latitude": null,
+      "longitude": null,
+      "crime_count": 3
+    }
+  ],
+  "geojson_exports": {
+    "district_boundaries": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "district_id": "f5e6c116-26a0-4ada-bb5c-12eb769f0e03",
+            "district_name": "Belagavi",
+            "region": "Karnataka",
+            "headquarters": "Belagavi"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "district_id": "3903135e-abb2-4b2d-b330-f480703fb3e1",
+            "district_name": "Bengaluru Urban",
+            "region": "Karnataka",
+            "headquarters": "Bengaluru Urban"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "district_id": "c28e3f98-159e-4dcd-a6f9-80c23a6f6d11",
+            "district_name": "Dakshina Kannada",
+            "region": "Karnataka",
+            "headquarters": "Dakshina Kannada"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "district_id": "0e68fc9c-487f-45ab-aa0b-748355b102f2",
+            "district_name": "Dharwad",
+            "region": "Karnataka",
+            "headquarters": "Dharwad"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "district_id": "e9454ef3-ed08-4ccb-9f48-381792757022",
+            "district_name": "Kalaburagi",
+            "region": "Karnataka",
+            "headquarters": "Kalaburagi"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "district_id": "325a5fde-0f5c-4bc2-8c7d-f28397e9f369",
+            "district_name": "Kodagu",
+            "region": "Karnataka",
+            "headquarters": "Kodagu"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "district_id": "890913e3-714d-4964-8438-faaa2741fd13",
+            "district_name": "Mysuru",
+            "region": "Karnataka",
+            "headquarters": "Mysuru"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "district_id": "ae812f5b-08ce-489a-a803-844b0cb04727",
+            "district_name": "Shivamogga",
+            "region": "Karnataka",
+            "headquarters": "Shivamogga"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "district_id": "7874b33a-ef78-4a3c-8115-ced769665d41",
+            "district_name": "Tumakuru",
+            "region": "Karnataka",
+            "headquarters": "Tumakuru"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "district_id": "c5e9d839-5f23-4ab2-8e32-771cf1a56307",
+            "district_name": "Udupi",
+            "region": "Karnataka",
+            "headquarters": "Udupi"
+          },
+          "geometry": null
+        }
+      ]
+    },
+    "station_markers": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "station_id": "5410de6d-f885-4228-943e-d6d8cf470a3f",
+            "station_name": "Belagavi Camp",
+            "station_code": "PS004",
+            "station_type": "PS",
+            "district_name": "Belagavi"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "station_id": "7585a4ab-241b-42e9-b13e-2e2501dac40b",
+            "station_name": "Cubbon Park",
+            "station_code": "PS007",
+            "station_type": "PS",
+            "district_name": "Bengaluru Urban"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "station_id": "77f985eb-c311-4160-a46a-5d5f65c58387",
+            "station_name": "Hubballi North",
+            "station_code": "PS002",
+            "station_type": "PS",
+            "district_name": "Dakshina Kannada"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "station_id": "4ffb7094-fbc9-40f8-802e-0c22429b065d",
+            "station_name": "Central Station",
+            "station_code": "PS000",
+            "station_type": "PS",
+            "district_name": "Dharwad"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "station_id": "c941cbfd-c916-43e3-bc6f-96a9d7a93918",
+            "station_name": "Udupi Town",
+            "station_code": "PS001",
+            "station_type": "PS",
+            "district_name": "Kalaburagi"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "station_id": "b9b8d363-3544-422b-82ad-74678c9d8148",
+            "station_name": "Vijayanagar",
+            "station_code": "PS006",
+            "station_type": "PS",
+            "district_name": "Kodagu"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "station_id": "7f789646-7941-4328-a294-8ebeceb00352",
+            "station_name": "Shivamogga Town",
+            "station_code": "PS008",
+            "station_type": "PS",
+            "district_name": "Mysuru"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "station_id": "176e4135-0059-43f8-99a5-a5f773f4b5c4",
+            "station_name": "Devaraja",
+            "station_code": "PS005",
+            "station_type": "PS",
+            "district_name": "Shivamogga"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "station_id": "c8994100-160d-49e4-b7a7-246dfc0e551f",
+            "station_name": "Mangaluru East",
+            "station_code": "PS003",
+            "station_type": "PS",
+            "district_name": "Udupi"
+          },
+          "geometry": null
+        }
+      ]
+    },
+    "crime_markers": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "crime_id": "1b5682da-cb39-4900-a8e1-2e9bc525e003",
+            "fir_number": "FIR/2026/67638",
+            "district_name": "Udupi",
+            "station_name": "Mangaluru East",
+            "category_name": "Identity Theft",
+            "severity": "Medium",
+            "reported_at": "2025-12-15T12:16:27+00:00"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "crime_id": "2dbc192e-7b0a-47ca-8f4b-fff03f5ae4c4",
+            "fir_number": "FIR/2025/81290",
+            "district_name": "Belagavi",
+            "station_name": "Belagavi Camp",
+            "category_name": "Burglary",
+            "severity": "Medium",
+            "reported_at": "2025-07-14T19:26:27+00:00"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "crime_id": "5108bc79-50c7-4110-a7fc-63a237d3b0e3",
+            "fir_number": "FIR/2019/15116",
+            "district_name": "Kalaburagi",
+            "station_name": "Udupi Town",
+            "category_name": "Assault",
+            "severity": "Medium",
+            "reported_at": "2024-08-26T22:18:27+00:00"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "crime_id": "3e142b0f-742d-4df9-9fff-d94737aaafde",
+            "fir_number": "FIR/2024/16511",
+            "district_name": "Mysuru",
+            "station_name": "Shivamogga Town",
+            "category_name": "Mobile Theft",
+            "severity": "Medium",
+            "reported_at": "2024-07-16T18:07:27+00:00"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "crime_id": "e84e8eba-e81b-4e97-956f-736e58c3d902",
+            "fir_number": "FIR/2026/86923",
+            "district_name": "Udupi",
+            "station_name": "Mangaluru East",
+            "category_name": "Financial Fraud",
+            "severity": "Medium",
+            "reported_at": "2024-05-13T19:47:27+00:00"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "crime_id": "d92cf90b-bbe8-47b5-a2cf-2c411c9bf465",
+            "fir_number": "FIR/2026/55243",
+            "district_name": "Kodagu",
+            "station_name": "Vijayanagar",
+            "category_name": "Burglary",
+            "severity": "Medium",
+            "reported_at": "2024-03-26T16:59:27+00:00"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "crime_id": "e65cb713-2ad2-4d4b-9e90-2c10bfe406f3",
+            "fir_number": "FIR/2022/91217",
+            "district_name": "Dakshina Kannada",
+            "station_name": "Hubballi North",
+            "category_name": "Cyber Crime",
+            "severity": "Medium",
+            "reported_at": "2023-08-17T00:11:27+00:00"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "crime_id": "2bf77d79-3cce-457c-aff8-ee333b39f382",
+            "fir_number": "FIR/2026/64356",
+            "district_name": "Udupi",
+            "station_name": "Mangaluru East",
+            "category_name": "Chain Snatching",
+            "severity": "Medium",
+            "reported_at": "2023-08-03T17:03:27+00:00"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "crime_id": "c6ae9036-5db5-4e26-8b7d-43da5412f855",
+            "fir_number": "FIR/2023/56114",
+            "district_name": "Shivamogga",
+            "station_name": "Devaraja",
+            "category_name": "Robbery",
+            "severity": "Medium",
+            "reported_at": "2023-03-25T21:52:27+00:00"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "crime_id": "f75e499c-51f4-42e3-8b45-0b749f0c8361",
+            "fir_number": "FIR/2021/61608",
+            "district_name": "Kodagu",
+            "station_name": "Vijayanagar",
+            "category_name": "Identity Theft",
+            "severity": "Medium",
+            "reported_at": "2023-02-05T12:28:27+00:00"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "crime_id": "c7792b5c-68e7-42dd-a24b-216028a341d2",
+            "fir_number": "FIR/2024/69447",
+            "district_name": "Bengaluru Urban",
+            "station_name": "Cubbon Park",
+            "category_name": "Online Scam",
+            "severity": "Medium",
+            "reported_at": "2023-01-20T06:59:27+00:00"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "crime_id": "5f71d838-ae3d-4f21-a209-64143ca81937",
+            "fir_number": "FIR/2020/22052",
+            "district_name": "Dakshina Kannada",
+            "station_name": "Hubballi North",
+            "category_name": "Kidnapping",
+            "severity": "Medium",
+            "reported_at": "2022-01-29T07:52:27+00:00"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "crime_id": "e8db3db0-9b46-4989-802e-85b9f97595a7",
+            "fir_number": "FIR/2017/50380",
+            "district_name": "Shivamogga",
+            "station_name": "Devaraja",
+            "category_name": "Kidnapping",
+            "severity": "Medium",
+            "reported_at": "2021-11-01T12:33:27+00:00"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "crime_id": "eb09a057-726d-4fe4-bd3d-1a53fc0f66d5",
+            "fir_number": "FIR/2018/90472",
+            "district_name": "Kodagu",
+            "station_name": "Vijayanagar",
+            "category_name": "Financial Fraud",
+            "severity": "Medium",
+            "reported_at": "2021-06-20T03:04:27+00:00"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "crime_id": "7442f66e-d971-4b9f-beb4-8e2d94d02324",
+            "fir_number": "FIR/2024/88215",
+            "district_name": "Bengaluru Urban",
+            "station_name": "Cubbon Park",
+            "category_name": "Missing Person",
+            "severity": "Medium",
+            "reported_at": "2021-04-06T05:45:27+00:00"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "crime_id": "a9c80168-1fa9-4dd8-b01a-8038096740f1",
+            "fir_number": "FIR/2022/49240",
+            "district_name": "Udupi",
+            "station_name": "Mangaluru East",
+            "category_name": "Vehicle Theft",
+            "severity": "Medium",
+            "reported_at": "2021-04-04T22:24:27+00:00"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "crime_id": "8f2d70aa-1631-4bdb-992f-2e705a3bab0f",
+            "fir_number": "FIR/2021/91412",
+            "district_name": "Shivamogga",
+            "station_name": "Devaraja",
+            "category_name": "Missing Person",
+            "severity": "Medium",
+            "reported_at": "2021-02-19T07:01:27+00:00"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "crime_id": "f63dab93-3f2f-4903-892b-297525be6ac7",
+            "fir_number": "FIR/2021/61396",
+            "district_name": "Shivamogga",
+            "station_name": "Devaraja",
+            "category_name": "Mobile Theft",
+            "severity": "Medium",
+            "reported_at": "2021-01-16T14:06:27+00:00"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "crime_id": "6a140cd1-5cfe-4e23-99a7-e21c9eabd0ac",
+            "fir_number": "FIR/2021/91596",
+            "district_name": "Belagavi",
+            "station_name": "Belagavi Camp",
+            "category_name": "Vehicle Theft",
+            "severity": "Medium",
+            "reported_at": "2021-01-03T09:41:27+00:00"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "crime_id": "92db8a73-953c-4507-9ca4-682a39377ba1",
+            "fir_number": "FIR/2021/23854",
+            "district_name": "Kodagu",
+            "station_name": "Vijayanagar",
+            "category_name": "Assault",
+            "severity": "Medium",
+            "reported_at": "2020-10-01T10:08:27+00:00"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "crime_id": "dcf259a8-1a56-4bf1-9bf1-bc9cafbe735d",
+            "fir_number": "FIR/2025/74438",
+            "district_name": "Dakshina Kannada",
+            "station_name": "Hubballi North",
+            "category_name": "Robbery",
+            "severity": "Medium",
+            "reported_at": "2020-07-03T09:18:27+00:00"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "crime_id": "0add5353-3563-4e82-843e-09ef9e918538",
+            "fir_number": "FIR/2024/74835",
+            "district_name": "Mysuru",
+            "station_name": "Shivamogga Town",
+            "category_name": "Murder",
+            "severity": "High",
+            "reported_at": "2020-05-29T08:19:27+00:00"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "crime_id": "4a80c865-d458-4fc0-9da4-e80dd648cbc1",
+            "fir_number": "FIR/2026/13163",
+            "district_name": "Bengaluru Urban",
+            "station_name": "Cubbon Park",
+            "category_name": "Mobile Theft",
+            "severity": "Medium",
+            "reported_at": "2019-05-27T09:32:27+00:00"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "crime_id": "ee621ac5-2239-42c9-b9be-2936c3a3c91e",
+            "fir_number": "FIR/2024/36691",
+            "district_name": "Kalaburagi",
+            "station_name": "Udupi Town",
+            "category_name": "Burglary",
+            "severity": "Medium",
+            "reported_at": "2019-03-03T05:32:27+00:00"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "crime_id": "aadaa36a-8dcd-4bd6-a468-077ceec70cd8",
+            "fir_number": "FIR/2017/81073",
+            "district_name": "Mysuru",
+            "station_name": "Shivamogga Town",
+            "category_name": "Online Scam",
+            "severity": "Medium",
+            "reported_at": "2018-08-30T21:48:27+00:00"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "crime_id": "78ae4b1c-7423-4719-9995-209ad73abb43",
+            "fir_number": "FIR/2022/41237",
+            "district_name": "Belagavi",
+            "station_name": "Belagavi Camp",
+            "category_name": "Drug Trafficking",
+            "severity": "Medium",
+            "reported_at": "2018-01-25T13:03:27+00:00"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "crime_id": "56a664d8-4bb9-406a-afff-5bb2a45634cc",
+            "fir_number": "FIR/2026/25064",
+            "district_name": "Mysuru",
+            "station_name": "Shivamogga Town",
+            "category_name": "Cyber Crime",
+            "severity": "Medium",
+            "reported_at": "2017-11-22T13:15:27+00:00"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "crime_id": "dec9a06b-5e83-4ea0-b6f7-b86697420b99",
+            "fir_number": "FIR/2017/65410",
+            "district_name": "Kalaburagi",
+            "station_name": "Udupi Town",
+            "category_name": "Drug Trafficking",
+            "severity": "Medium",
+            "reported_at": "2017-04-19T02:55:27+00:00"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "crime_id": "12296f05-5ff9-48f4-b1ec-e86a7693e518",
+            "fir_number": "FIR/2022/80648",
+            "district_name": "Dakshina Kannada",
+            "station_name": "Hubballi North",
+            "category_name": "Murder",
+            "severity": "High",
+            "reported_at": "2017-03-23T04:06:27+00:00"
+          },
+          "geometry": null
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "crime_id": "31b0774f-15eb-45db-8478-805e16525173",
+            "fir_number": "FIR/2025/53803",
+            "district_name": "Belagavi",
+            "station_name": "Belagavi Camp",
+            "category_name": "Chain Snatching",
+            "severity": "Medium",
+            "reported_at": "2016-10-28T17:19:27+00:00"
+          },
+          "geometry": null
+        }
+      ]
+    }
+  },
+  "marker_datasets": {
+    "station_markers": [
+      {
+        "station_id": "5410de6d-f885-4228-943e-d6d8cf470a3f",
+        "station_name": "Belagavi Camp",
+        "station_code": "PS004",
+        "station_type": "PS",
+        "district_name": "Belagavi",
+        "latitude": null,
+        "longitude": null
+      },
+      {
+        "station_id": "7585a4ab-241b-42e9-b13e-2e2501dac40b",
+        "station_name": "Cubbon Park",
+        "station_code": "PS007",
+        "station_type": "PS",
+        "district_name": "Bengaluru Urban",
+        "latitude": null,
+        "longitude": null
+      },
+      {
+        "station_id": "77f985eb-c311-4160-a46a-5d5f65c58387",
+        "station_name": "Hubballi North",
+        "station_code": "PS002",
+        "station_type": "PS",
+        "district_name": "Dakshina Kannada",
+        "latitude": null,
+        "longitude": null
+      },
+      {
+        "station_id": "4ffb7094-fbc9-40f8-802e-0c22429b065d",
+        "station_name": "Central Station",
+        "station_code": "PS000",
+        "station_type": "PS",
+        "district_name": "Dharwad",
+        "latitude": null,
+        "longitude": null
+      },
+      {
+        "station_id": "c941cbfd-c916-43e3-bc6f-96a9d7a93918",
+        "station_name": "Udupi Town",
+        "station_code": "PS001",
+        "station_type": "PS",
+        "district_name": "Kalaburagi",
+        "latitude": null,
+        "longitude": null
+      },
+      {
+        "station_id": "b9b8d363-3544-422b-82ad-74678c9d8148",
+        "station_name": "Vijayanagar",
+        "station_code": "PS006",
+        "station_type": "PS",
+        "district_name": "Kodagu",
+        "latitude": null,
+        "longitude": null
+      },
+      {
+        "station_id": "7f789646-7941-4328-a294-8ebeceb00352",
+        "station_name": "Shivamogga Town",
+        "station_code": "PS008",
+        "station_type": "PS",
+        "district_name": "Mysuru",
+        "latitude": null,
+        "longitude": null
+      },
+      {
+        "station_id": "176e4135-0059-43f8-99a5-a5f773f4b5c4",
+        "station_name": "Devaraja",
+        "station_code": "PS005",
+        "station_type": "PS",
+        "district_name": "Shivamogga",
+        "latitude": null,
+        "longitude": null
+      },
+      {
+        "station_id": "c8994100-160d-49e4-b7a7-246dfc0e551f",
+        "station_name": "Mangaluru East",
+        "station_code": "PS003",
+        "station_type": "PS",
+        "district_name": "Udupi",
+        "latitude": null,
+        "longitude": null
+      }
+    ],
+    "crime_markers": [
+      {
+        "crime_id": "1b5682da-cb39-4900-a8e1-2e9bc525e003",
+        "reported_at": "2025-12-15T12:16:27+00:00",
+        "fir_number": "FIR/2026/67638",
+        "district_name": "Udupi",
+        "station_name": "Mangaluru East",
+        "latitude": null,
+        "longitude": null,
+        "category_name": "Identity Theft",
+        "severity": "Medium",
+        "location_source": "police_station"
+      },
+      {
+        "crime_id": "2dbc192e-7b0a-47ca-8f4b-fff03f5ae4c4",
+        "reported_at": "2025-07-14T19:26:27+00:00",
+        "fir_number": "FIR/2025/81290",
+        "district_name": "Belagavi",
+        "station_name": "Belagavi Camp",
+        "latitude": null,
+        "longitude": null,
+        "category_name": "Burglary",
+        "severity": "Medium",
+        "location_source": "police_station"
+      },
+      {
+        "crime_id": "5108bc79-50c7-4110-a7fc-63a237d3b0e3",
+        "reported_at": "2024-08-26T22:18:27+00:00",
+        "fir_number": "FIR/2019/15116",
+        "district_name": "Kalaburagi",
+        "station_name": "Udupi Town",
+        "latitude": null,
+        "longitude": null,
+        "category_name": "Assault",
+        "severity": "Medium",
+        "location_source": "police_station"
+      },
+      {
+        "crime_id": "3e142b0f-742d-4df9-9fff-d94737aaafde",
+        "reported_at": "2024-07-16T18:07:27+00:00",
+        "fir_number": "FIR/2024/16511",
+        "district_name": "Mysuru",
+        "station_name": "Shivamogga Town",
+        "latitude": null,
+        "longitude": null,
+        "category_name": "Mobile Theft",
+        "severity": "Medium",
+        "location_source": "police_station"
+      },
+      {
+        "crime_id": "e84e8eba-e81b-4e97-956f-736e58c3d902",
+        "reported_at": "2024-05-13T19:47:27+00:00",
+        "fir_number": "FIR/2026/86923",
+        "district_name": "Udupi",
+        "station_name": "Mangaluru East",
+        "latitude": null,
+        "longitude": null,
+        "category_name": "Financial Fraud",
+        "severity": "Medium",
+        "location_source": "police_station"
+      },
+      {
+        "crime_id": "d92cf90b-bbe8-47b5-a2cf-2c411c9bf465",
+        "reported_at": "2024-03-26T16:59:27+00:00",
+        "fir_number": "FIR/2026/55243",
+        "district_name": "Kodagu",
+        "station_name": "Vijayanagar",
+        "latitude": null,
+        "longitude": null,
+        "category_name": "Burglary",
+        "severity": "Medium",
+        "location_source": "police_station"
+      },
+      {
+        "crime_id": "e65cb713-2ad2-4d4b-9e90-2c10bfe406f3",
+        "reported_at": "2023-08-17T00:11:27+00:00",
+        "fir_number": "FIR/2022/91217",
+        "district_name": "Dakshina Kannada",
+        "station_name": "Hubballi North",
+        "latitude": null,
+        "longitude": null,
+        "category_name": "Cyber Crime",
+        "severity": "Medium",
+        "location_source": "police_station"
+      },
+      {
+        "crime_id": "2bf77d79-3cce-457c-aff8-ee333b39f382",
+        "reported_at": "2023-08-03T17:03:27+00:00",
+        "fir_number": "FIR/2026/64356",
+        "district_name": "Udupi",
+        "station_name": "Mangaluru East",
+        "latitude": null,
+        "longitude": null,
+        "category_name": "Chain Snatching",
+        "severity": "Medium",
+        "location_source": "police_station"
+      },
+      {
+        "crime_id": "c6ae9036-5db5-4e26-8b7d-43da5412f855",
+        "reported_at": "2023-03-25T21:52:27+00:00",
+        "fir_number": "FIR/2023/56114",
+        "district_name": "Shivamogga",
+        "station_name": "Devaraja",
+        "latitude": null,
+        "longitude": null,
+        "category_name": "Robbery",
+        "severity": "Medium",
+        "location_source": "police_station"
+      },
+      {
+        "crime_id": "f75e499c-51f4-42e3-8b45-0b749f0c8361",
+        "reported_at": "2023-02-05T12:28:27+00:00",
+        "fir_number": "FIR/2021/61608",
+        "district_name": "Kodagu",
+        "station_name": "Vijayanagar",
+        "latitude": null,
+        "longitude": null,
+        "category_name": "Identity Theft",
+        "severity": "Medium",
+        "location_source": "police_station"
+      },
+      {
+        "crime_id": "c7792b5c-68e7-42dd-a24b-216028a341d2",
+        "reported_at": "2023-01-20T06:59:27+00:00",
+        "fir_number": "FIR/2024/69447",
+        "district_name": "Bengaluru Urban",
+        "station_name": "Cubbon Park",
+        "latitude": null,
+        "longitude": null,
+        "category_name": "Online Scam",
+        "severity": "Medium",
+        "location_source": "police_station"
+      },
+      {
+        "crime_id": "5f71d838-ae3d-4f21-a209-64143ca81937",
+        "reported_at": "2022-01-29T07:52:27+00:00",
+        "fir_number": "FIR/2020/22052",
+        "district_name": "Dakshina Kannada",
+        "station_name": "Hubballi North",
+        "latitude": null,
+        "longitude": null,
+        "category_name": "Kidnapping",
+        "severity": "Medium",
+        "location_source": "police_station"
+      },
+      {
+        "crime_id": "e8db3db0-9b46-4989-802e-85b9f97595a7",
+        "reported_at": "2021-11-01T12:33:27+00:00",
+        "fir_number": "FIR/2017/50380",
+        "district_name": "Shivamogga",
+        "station_name": "Devaraja",
+        "latitude": null,
+        "longitude": null,
+        "category_name": "Kidnapping",
+        "severity": "Medium",
+        "location_source": "police_station"
+      },
+      {
+        "crime_id": "eb09a057-726d-4fe4-bd3d-1a53fc0f66d5",
+        "reported_at": "2021-06-20T03:04:27+00:00",
+        "fir_number": "FIR/2018/90472",
+        "district_name": "Kodagu",
+        "station_name": "Vijayanagar",
+        "latitude": null,
+        "longitude": null,
+        "category_name": "Financial Fraud",
+        "severity": "Medium",
+        "location_source": "police_station"
+      },
+      {
+        "crime_id": "7442f66e-d971-4b9f-beb4-8e2d94d02324",
+        "reported_at": "2021-04-06T05:45:27+00:00",
+        "fir_number": "FIR/2024/88215",
+        "district_name": "Bengaluru Urban",
+        "station_name": "Cubbon Park",
+        "latitude": null,
+        "longitude": null,
+        "category_name": "Missing Person",
+        "severity": "Medium",
+        "location_source": "police_station"
+      },
+      {
+        "crime_id": "a9c80168-1fa9-4dd8-b01a-8038096740f1",
+        "reported_at": "2021-04-04T22:24:27+00:00",
+        "fir_number": "FIR/2022/49240",
+        "district_name": "Udupi",
+        "station_name": "Mangaluru East",
+        "latitude": null,
+        "longitude": null,
+        "category_name": "Vehicle Theft",
+        "severity": "Medium",
+        "location_source": "police_station"
+      },
+      {
+        "crime_id": "8f2d70aa-1631-4bdb-992f-2e705a3bab0f",
+        "reported_at": "2021-02-19T07:01:27+00:00",
+        "fir_number": "FIR/2021/91412",
+        "district_name": "Shivamogga",
+        "station_name": "Devaraja",
+        "latitude": null,
+        "longitude": null,
+        "category_name": "Missing Person",
+        "severity": "Medium",
+        "location_source": "police_station"
+      },
+      {
+        "crime_id": "f63dab93-3f2f-4903-892b-297525be6ac7",
+        "reported_at": "2021-01-16T14:06:27+00:00",
+        "fir_number": "FIR/2021/61396",
+        "district_name": "Shivamogga",
+        "station_name": "Devaraja",
+        "latitude": null,
+        "longitude": null,
+        "category_name": "Mobile Theft",
+        "severity": "Medium",
+        "location_source": "police_station"
+      },
+      {
+        "crime_id": "6a140cd1-5cfe-4e23-99a7-e21c9eabd0ac",
+        "reported_at": "2021-01-03T09:41:27+00:00",
+        "fir_number": "FIR/2021/91596",
+        "district_name": "Belagavi",
+        "station_name": "Belagavi Camp",
+        "latitude": null,
+        "longitude": null,
+        "category_name": "Vehicle Theft",
+        "severity": "Medium",
+        "location_source": "police_station"
+      },
+      {
+        "crime_id": "92db8a73-953c-4507-9ca4-682a39377ba1",
+        "reported_at": "2020-10-01T10:08:27+00:00",
+        "fir_number": "FIR/2021/23854",
+        "district_name": "Kodagu",
+        "station_name": "Vijayanagar",
+        "latitude": null,
+        "longitude": null,
+        "category_name": "Assault",
+        "severity": "Medium",
+        "location_source": "police_station"
+      },
+      {
+        "crime_id": "dcf259a8-1a56-4bf1-9bf1-bc9cafbe735d",
+        "reported_at": "2020-07-03T09:18:27+00:00",
+        "fir_number": "FIR/2025/74438",
+        "district_name": "Dakshina Kannada",
+        "station_name": "Hubballi North",
+        "latitude": null,
+        "longitude": null,
+        "category_name": "Robbery",
+        "severity": "Medium",
+        "location_source": "police_station"
+      },
+      {
+        "crime_id": "0add5353-3563-4e82-843e-09ef9e918538",
+        "reported_at": "2020-05-29T08:19:27+00:00",
+        "fir_number": "FIR/2024/74835",
+        "district_name": "Mysuru",
+        "station_name": "Shivamogga Town",
+        "latitude": null,
+        "longitude": null,
+        "category_name": "Murder",
+        "severity": "High",
+        "location_source": "police_station"
+      },
+      {
+        "crime_id": "4a80c865-d458-4fc0-9da4-e80dd648cbc1",
+        "reported_at": "2019-05-27T09:32:27+00:00",
+        "fir_number": "FIR/2026/13163",
+        "district_name": "Bengaluru Urban",
+        "station_name": "Cubbon Park",
+        "latitude": null,
+        "longitude": null,
+        "category_name": "Mobile Theft",
+        "severity": "Medium",
+        "location_source": "police_station"
+      },
+      {
+        "crime_id": "ee621ac5-2239-42c9-b9be-2936c3a3c91e",
+        "reported_at": "2019-03-03T05:32:27+00:00",
+        "fir_number": "FIR/2024/36691",
+        "district_name": "Kalaburagi",
+        "station_name": "Udupi Town",
+        "latitude": null,
+        "longitude": null,
+        "category_name": "Burglary",
+        "severity": "Medium",
+        "location_source": "police_station"
+      },
+      {
+        "crime_id": "aadaa36a-8dcd-4bd6-a468-077ceec70cd8",
+        "reported_at": "2018-08-30T21:48:27+00:00",
+        "fir_number": "FIR/2017/81073",
+        "district_name": "Mysuru",
+        "station_name": "Shivamogga Town",
+        "latitude": null,
+        "longitude": null,
+        "category_name": "Online Scam",
+        "severity": "Medium",
+        "location_source": "police_station"
+      },
+      {
+        "crime_id": "78ae4b1c-7423-4719-9995-209ad73abb43",
+        "reported_at": "2018-01-25T13:03:27+00:00",
+        "fir_number": "FIR/2022/41237",
+        "district_name": "Belagavi",
+        "station_name": "Belagavi Camp",
+        "latitude": null,
+        "longitude": null,
+        "category_name": "Drug Trafficking",
+        "severity": "Medium",
+        "location_source": "police_station"
+      },
+      {
+        "crime_id": "56a664d8-4bb9-406a-afff-5bb2a45634cc",
+        "reported_at": "2017-11-22T13:15:27+00:00",
+        "fir_number": "FIR/2026/25064",
+        "district_name": "Mysuru",
+        "station_name": "Shivamogga Town",
+        "latitude": null,
+        "longitude": null,
+        "category_name": "Cyber Crime",
+        "severity": "Medium",
+        "location_source": "police_station"
+      },
+      {
+        "crime_id": "dec9a06b-5e83-4ea0-b6f7-b86697420b99",
+        "reported_at": "2017-04-19T02:55:27+00:00",
+        "fir_number": "FIR/2017/65410",
+        "district_name": "Kalaburagi",
+        "station_name": "Udupi Town",
+        "latitude": null,
+        "longitude": null,
+        "category_name": "Drug Trafficking",
+        "severity": "Medium",
+        "location_source": "police_station"
+      },
+      {
+        "crime_id": "12296f05-5ff9-48f4-b1ec-e86a7693e518",
+        "reported_at": "2017-03-23T04:06:27+00:00",
+        "fir_number": "FIR/2022/80648",
+        "district_name": "Dakshina Kannada",
+        "station_name": "Hubballi North",
+        "latitude": null,
+        "longitude": null,
+        "category_name": "Murder",
+        "severity": "High",
+        "location_source": "police_station"
+      },
+      {
+        "crime_id": "31b0774f-15eb-45db-8478-805e16525173",
+        "reported_at": "2016-10-28T17:19:27+00:00",
+        "fir_number": "FIR/2025/53803",
+        "district_name": "Belagavi",
+        "station_name": "Belagavi Camp",
+        "latitude": null,
+        "longitude": null,
+        "category_name": "Chain Snatching",
+        "severity": "Medium",
+        "location_source": "police_station"
+      }
+    ]
+  }
+}

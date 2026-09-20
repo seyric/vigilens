@@ -1,0 +1,1 @@
+export { MultilingualSettings } from './MultilingualSettings'

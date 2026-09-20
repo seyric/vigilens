@@ -1,0 +1,82 @@
+{
+  "name": "vigilens",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Vigilens investigation workspace desktop application",
+  "author": "Vigilens",
+  "type": "module",
+  "main": "electron/main.cjs",
+  "scripts": {
+    "dev": "vite",
+    "desktop:dev": "cross-env VIGILENS_START_BACKEND=true SECRET_KEY=vigilens-local-development-key-change-me VIGILENS_FRONTEND_URL=http://127.0.0.1:5199 concurrently -k \"npm run dev -- --host 127.0.0.1 --port 5199 --strictPort\" \"wait-on http://127.0.0.1:5199 && electron .\"",
+    "admin:dev": "cross-env VIGILENS_START_BACKEND=true SECRET_KEY=vigilens-local-development-key-change-me VIGILENS_DESKTOP_MODE=admin VIGILENS_FRONTEND_URL=http://127.0.0.1:5199 concurrently -k \"npm run dev -- --host 127.0.0.1 --port 5199 --strictPort\" \"wait-on http://127.0.0.1:5199 && electron .\"",
+    "build": "tsc -b && vite build",
+    "desktop:build": "npm run build && npm run server:build && electron-builder",
+    "server:build": ".venv\\Scripts\\python.exe -m PyInstaller --noconfirm --clean --onefile --name vigilens-server --distpath dist-server --workpath build-server --specpath build-server server_entry.py",
+    "admin:build": "npm run build && npm run server:build && electron-builder --config.extraMetadata.main=electron/admin.cjs --config.productName=Vigilens Admin --config.appId=com.vigilens.admin --config.directories.output=release-admin",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/typography": "^0.5.20",
+    "@tailwindcss/vite": "^4.3.2",
+    "axios": "^1.18.1",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^4.2.1",
+    "jspdf-autotable": "^5.0.8",
+    "lottie-react": "^2.4.1",
+    "lucide-react": "^1.24.0",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "react-is": "^19.2.7",
+    "react-markdown": "^10.1.0",
+    "react-router-dom": "^7.18.1",
+    "recharts": "^3.9.2",
+    "remark-gfm": "^4.0.1",
+    "tailwindcss": "^4.3.2",
+    "zustand": "^5.0.15"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/node": "^24.13.2",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.3",
+    "concurrently": "^9.2.1",
+    "cross-env": "^10.1.0",
+    "electron": "^38.1.0",
+    "electron-builder": "^26.0.12",
+    "eslint": "^10.6.0",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.3",
+    "globals": "^17.7.0",
+    "typescript": "~6.0.2",
+    "typescript-eslint": "^8.62.0",
+    "vite": "^8.1.1",
+    "wait-on": "^8.0.3"
+  },
+  "build": {
+    "appId": "com.vigilens.desktop",
+    "productName": "Vigilens",
+    "files": [
+      "dist/**/*",
+      "electron/**/*",
+      "package.json"
+    ],
+    "extraResources": [
+      {
+        "from": "dist-server/vigilens-server.exe",
+        "to": "server/vigilens-server.exe"
+      }
+    ],
+    "win": {
+      "target": "nsis",
+      "artifactName": "Vigilens-Setup-${version}.${ext}"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true
+    }
+  }
+}

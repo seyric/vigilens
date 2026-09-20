@@ -1,0 +1,543 @@
+{
+  "summary": {
+    "total_crimes": 30,
+    "total_firs": 30,
+    "active_cases": 15,
+    "solved_cases": 8,
+    "pending_cases": 15,
+    "arrest_rate": 33.33,
+    "high_risk_districts": [
+      "Belagavi",
+      "Dakshina Kannada",
+      "Kodagu",
+      "Udupi",
+      "Bengaluru Urban"
+    ],
+    "crime_growth_rate": -50.0
+  },
+  "crime_category_distribution": [
+    {
+      "category_name": "Mobile Theft",
+      "crime_count": 3
+    },
+    {
+      "category_name": "Burglary",
+      "crime_count": 3
+    },
+    {
+      "category_name": "Online Scam",
+      "crime_count": 2
+    },
+    {
+      "category_name": "Identity Theft",
+      "crime_count": 2
+    },
+    {
+      "category_name": "Cyber Crime",
+      "crime_count": 2
+    },
+    {
+      "category_name": "Missing Person",
+      "crime_count": 2
+    },
+    {
+      "category_name": "Assault",
+      "crime_count": 2
+    },
+    {
+      "category_name": "Robbery",
+      "crime_count": 2
+    },
+    {
+      "category_name": "Drug Trafficking",
+      "crime_count": 2
+    },
+    {
+      "category_name": "Vehicle Theft",
+      "crime_count": 2
+    },
+    {
+      "category_name": "Kidnapping",
+      "crime_count": 2
+    },
+    {
+      "category_name": "Murder",
+      "crime_count": 2
+    },
+    {
+      "category_name": "Financial Fraud",
+      "crime_count": 2
+    },
+    {
+      "category_name": "Chain Snatching",
+      "crime_count": 2
+    }
+  ],
+  "monthly_crime_trends": [
+    {
+      "month": "2016-10-01T00:00:00+00:00",
+      "crime_count": 1
+    },
+    {
+      "month": "2017-03-01T00:00:00+00:00",
+      "crime_count": 1
+    },
+    {
+      "month": "2017-04-01T00:00:00+00:00",
+      "crime_count": 1
+    },
+    {
+      "month": "2017-11-01T00:00:00+00:00",
+      "crime_count": 1
+    },
+    {
+      "month": "2018-01-01T00:00:00+00:00",
+      "crime_count": 1
+    },
+    {
+      "month": "2018-08-01T00:00:00+00:00",
+      "crime_count": 1
+    },
+    {
+      "month": "2019-03-01T00:00:00+00:00",
+      "crime_count": 1
+    },
+    {
+      "month": "2019-05-01T00:00:00+00:00",
+      "crime_count": 1
+    },
+    {
+      "month": "2020-05-01T00:00:00+00:00",
+      "crime_count": 1
+    },
+    {
+      "month": "2020-07-01T00:00:00+00:00",
+      "crime_count": 1
+    },
+    {
+      "month": "2020-10-01T00:00:00+00:00",
+      "crime_count": 1
+    },
+    {
+      "month": "2021-01-01T00:00:00+00:00",
+      "crime_count": 2
+    },
+    {
+      "month": "2021-02-01T00:00:00+00:00",
+      "crime_count": 1
+    },
+    {
+      "month": "2021-04-01T00:00:00+00:00",
+      "crime_count": 2
+    },
+    {
+      "month": "2021-06-01T00:00:00+00:00",
+      "crime_count": 1
+    },
+    {
+      "month": "2021-11-01T00:00:00+00:00",
+      "crime_count": 1
+    },
+    {
+      "month": "2022-01-01T00:00:00+00:00",
+      "crime_count": 1
+    },
+    {
+      "month": "2023-01-01T00:00:00+00:00",
+      "crime_count": 1
+    },
+    {
+      "month": "2023-02-01T00:00:00+00:00",
+      "crime_count": 1
+    },
+    {
+      "month": "2023-03-01T00:00:00+00:00",
+      "crime_count": 1
+    },
+    {
+      "month": "2023-08-01T00:00:00+00:00",
+      "crime_count": 2
+    },
+    {
+      "month": "2024-03-01T00:00:00+00:00",
+      "crime_count": 1
+    },
+    {
+      "month": "2024-05-01T00:00:00+00:00",
+      "crime_count": 1
+    },
+    {
+      "month": "2024-07-01T00:00:00+00:00",
+      "crime_count": 1
+    },
+    {
+      "month": "2024-08-01T00:00:00+00:00",
+      "crime_count": 1
+    },
+    {
+      "month": "2025-07-01T00:00:00+00:00",
+      "crime_count": 1
+    },
+    {
+      "month": "2025-12-01T00:00:00+00:00",
+      "crime_count": 1
+    }
+  ],
+  "yearly_crime_trends": [
+    {
+      "year": 2016,
+      "crime_count": 1
+    },
+    {
+      "year": 2017,
+      "crime_count": 3
+    },
+    {
+      "year": 2018,
+      "crime_count": 2
+    },
+    {
+      "year": 2019,
+      "crime_count": 2
+    },
+    {
+      "year": 2020,
+      "crime_count": 3
+    },
+    {
+      "year": 2021,
+      "crime_count": 7
+    },
+    {
+      "year": 2022,
+      "crime_count": 1
+    },
+    {
+      "year": 2023,
+      "crime_count": 5
+    },
+    {
+      "year": 2024,
+      "crime_count": 4
+    },
+    {
+      "year": 2025,
+      "crime_count": 2
+    }
+  ],
+  "top_crime_districts": [
+    {
+      "district_name": "Mysuru",
+      "crime_count": 4
+    },
+    {
+      "district_name": "Belagavi",
+      "crime_count": 4
+    },
+    {
+      "district_name": "Udupi",
+      "crime_count": 4
+    },
+    {
+      "district_name": "Kodagu",
+      "crime_count": 4
+    },
+    {
+      "district_name": "Shivamogga",
+      "crime_count": 4
+    },
+    {
+      "district_name": "Dakshina Kannada",
+      "crime_count": 4
+    },
+    {
+      "district_name": "Bengaluru Urban",
+      "crime_count": 3
+    },
+    {
+      "district_name": "Kalaburagi",
+      "crime_count": 3
+    }
+  ],
+  "crime_growth_by_month": [
+    {
+      "month": "2016-10-01T00:00:00+00:00",
+      "crime_count": 1,
+      "growth_rate": 0.0
+    },
+    {
+      "month": "2017-03-01T00:00:00+00:00",
+      "crime_count": 1,
+      "growth_rate": 0.0
+    },
+    {
+      "month": "2017-04-01T00:00:00+00:00",
+      "crime_count": 1,
+      "growth_rate": 0.0
+    },
+    {
+      "month": "2017-11-01T00:00:00+00:00",
+      "crime_count": 1,
+      "growth_rate": 0.0
+    },
+    {
+      "month": "2018-01-01T00:00:00+00:00",
+      "crime_count": 1,
+      "growth_rate": 0.0
+    },
+    {
+      "month": "2018-08-01T00:00:00+00:00",
+      "crime_count": 1,
+      "growth_rate": 0.0
+    },
+    {
+      "month": "2019-03-01T00:00:00+00:00",
+      "crime_count": 1,
+      "growth_rate": 0.0
+    },
+    {
+      "month": "2019-05-01T00:00:00+00:00",
+      "crime_count": 1,
+      "growth_rate": 0.0
+    },
+    {
+      "month": "2020-05-01T00:00:00+00:00",
+      "crime_count": 1,
+      "growth_rate": 0.0
+    },
+    {
+      "month": "2020-07-01T00:00:00+00:00",
+      "crime_count": 1,
+      "growth_rate": 0.0
+    },
+    {
+      "month": "2020-10-01T00:00:00+00:00",
+      "crime_count": 1,
+      "growth_rate": 0.0
+    },
+    {
+      "month": "2021-01-01T00:00:00+00:00",
+      "crime_count": 2,
+      "growth_rate": 100.0
+    },
+    {
+      "month": "2021-02-01T00:00:00+00:00",
+      "crime_count": 1,
+      "growth_rate": -50.0
+    },
+    {
+      "month": "2021-04-01T00:00:00+00:00",
+      "crime_count": 2,
+      "growth_rate": 100.0
+    },
+    {
+      "month": "2021-06-01T00:00:00+00:00",
+      "crime_count": 1,
+      "growth_rate": -50.0
+    },
+    {
+      "month": "2021-11-01T00:00:00+00:00",
+      "crime_count": 1,
+      "growth_rate": 0.0
+    },
+    {
+      "month": "2022-01-01T00:00:00+00:00",
+      "crime_count": 1,
+      "growth_rate": 0.0
+    },
+    {
+      "month": "2023-01-01T00:00:00+00:00",
+      "crime_count": 1,
+      "growth_rate": 0.0
+    },
+    {
+      "month": "2023-02-01T00:00:00+00:00",
+      "crime_count": 1,
+      "growth_rate": 0.0
+    },
+    {
+      "month": "2023-03-01T00:00:00+00:00",
+      "crime_count": 1,
+      "growth_rate": 0.0
+    },
+    {
+      "month": "2023-08-01T00:00:00+00:00",
+      "crime_count": 2,
+      "growth_rate": 100.0
+    },
+    {
+      "month": "2024-03-01T00:00:00+00:00",
+      "crime_count": 1,
+      "growth_rate": -50.0
+    },
+    {
+      "month": "2024-05-01T00:00:00+00:00",
+      "crime_count": 1,
+      "growth_rate": 0.0
+    },
+    {
+      "month": "2024-07-01T00:00:00+00:00",
+      "crime_count": 1,
+      "growth_rate": 0.0
+    },
+    {
+      "month": "2024-08-01T00:00:00+00:00",
+      "crime_count": 1,
+      "growth_rate": 0.0
+    },
+    {
+      "month": "2025-07-01T00:00:00+00:00",
+      "crime_count": 1,
+      "growth_rate": 0.0
+    },
+    {
+      "month": "2025-12-01T00:00:00+00:00",
+      "crime_count": 1,
+      "growth_rate": 0.0
+    }
+  ],
+  "officer_workload": [
+    {
+      "officer_name": "IO Belagavi",
+      "assigned_firs": 4
+    },
+    {
+      "officer_name": "IO Shivamogga",
+      "assigned_firs": 4
+    },
+    {
+      "officer_name": "IO Dakshina Kannada",
+      "assigned_firs": 4
+    },
+    {
+      "officer_name": "IO Kodagu",
+      "assigned_firs": 4
+    },
+    {
+      "officer_name": "IO Mysuru",
+      "assigned_firs": 4
+    },
+    {
+      "officer_name": "IO Udupi",
+      "assigned_firs": 4
+    },
+    {
+      "officer_name": "IO Kalaburagi",
+      "assigned_firs": 3
+    },
+    {
+      "officer_name": "IO Bengaluru Urban",
+      "assigned_firs": 3
+    }
+  ],
+  "fir_registration_trends": [
+    {
+      "month": "2016-10-01",
+      "fir_count": 1
+    },
+    {
+      "month": "2017-03-01",
+      "fir_count": 1
+    },
+    {
+      "month": "2017-04-01",
+      "fir_count": 1
+    },
+    {
+      "month": "2017-11-01",
+      "fir_count": 1
+    },
+    {
+      "month": "2018-01-01",
+      "fir_count": 1
+    },
+    {
+      "month": "2018-09-01",
+      "fir_count": 1
+    },
+    {
+      "month": "2019-03-01",
+      "fir_count": 1
+    },
+    {
+      "month": "2019-05-01",
+      "fir_count": 1
+    },
+    {
+      "month": "2020-05-01",
+      "fir_count": 1
+    },
+    {
+      "month": "2020-07-01",
+      "fir_count": 1
+    },
+    {
+      "month": "2020-10-01",
+      "fir_count": 1
+    },
+    {
+      "month": "2021-01-01",
+      "fir_count": 2
+    },
+    {
+      "month": "2021-02-01",
+      "fir_count": 1
+    },
+    {
+      "month": "2021-04-01",
+      "fir_count": 2
+    },
+    {
+      "month": "2021-06-01",
+      "fir_count": 1
+    },
+    {
+      "month": "2021-11-01",
+      "fir_count": 1
+    },
+    {
+      "month": "2022-01-01",
+      "fir_count": 1
+    },
+    {
+      "month": "2023-01-01",
+      "fir_count": 1
+    },
+    {
+      "month": "2023-02-01",
+      "fir_count": 1
+    },
+    {
+      "month": "2023-03-01",
+      "fir_count": 1
+    },
+    {
+      "month": "2023-08-01",
+      "fir_count": 2
+    },
+    {
+      "month": "2024-03-01",
+      "fir_count": 1
+    },
+    {
+      "month": "2024-05-01",
+      "fir_count": 1
+    },
+    {
+      "month": "2024-07-01",
+      "fir_count": 1
+    },
+    {
+      "month": "2024-08-01",
+      "fir_count": 1
+    },
+    {
+      "month": "2025-07-01",
+      "fir_count": 1
+    },
+    {
+      "month": "2025-12-01",
+      "fir_count": 1
+    }
+  ]
+}

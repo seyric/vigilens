@@ -1,0 +1,13 @@
+Case ID: FIR-001
+
+Crime Type: Burglary
+
+Location: Connaught Place, New Delhi
+
+Date: 15 July 2026
+
+Description:
+A jewellery shop was broken into during the night.
+The suspect entered through the back door and stole gold ornaments worth ₹15 lakh.
+CCTV footage shows a person wearing a black hoodie leaving the area on a motorcycle.
+No arrests have been made yet.

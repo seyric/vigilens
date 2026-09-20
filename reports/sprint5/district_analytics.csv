@@ -1,0 +1,11 @@
+active_cases,arrest_rate,crime_categories,crime_density,crime_growth,district_id,district_name,fir_count,headquarters,officer_count,region,risk_score,solved_cases,station_count,total_crimes
+4,0.0,"[""Chain Snatching"", ""Vehicle Theft"", ""Drug Trafficking"", ""Burglary""]",4.0,0.0,f5e6c116-26a0-4ada-bb5c-12eb769f0e03,Belagavi,4,Belagavi,1,Karnataka,44.0,0,1,4
+3,0.0,"[""Missing Person"", ""Mobile Theft"", ""Online Scam""]",3.0,0.0,3903135e-abb2-4b2d-b330-f480703fb3e1,Bengaluru Urban,3,Bengaluru Urban,2,Karnataka,33.5,0,1,3
+4,0.0,"[""Robbery"", ""Murder"", ""Kidnapping"", ""Cyber Crime""]",4.0,0.0,c28e3f98-159e-4dcd-a6f9-80c23a6f6d11,Dakshina Kannada,4,Dakshina Kannada,1,Karnataka,44.0,0,1,4
+0,0.0,[],0.0,0.0,0e68fc9c-487f-45ab-aa0b-748355b102f2,Dharwad,0,Dharwad,1,Karnataka,0.0,0,1,0
+3,0.0,"[""Assault"", ""Burglary"", ""Drug Trafficking""]",3.0,0.0,e9454ef3-ed08-4ccb-9f48-381792757022,Kalaburagi,3,Kalaburagi,1,Karnataka,25.5,0,1,3
+4,0.0,"[""Identity Theft"", ""Burglary"", ""Assault"", ""Financial Fraud""]",4.0,0.0,325a5fde-0f5c-4bc2-8c7d-f28397e9f369,Kodagu,4,Kodagu,1,Karnataka,44.0,0,1,4
+0,0.0,"[""Cyber Crime"", ""Online Scam"", ""Mobile Theft"", ""Murder""]",4.0,0.0,890913e3-714d-4964-8438-faaa2741fd13,Mysuru,4,Mysuru,1,Karnataka,28.0,4,1,4
+0,0.0,"[""Mobile Theft"", ""Robbery"", ""Kidnapping"", ""Missing Person""]",4.0,-66.67,ae812f5b-08ce-489a-a803-844b0cb04727,Shivamogga,4,Shivamogga,1,Karnataka,28.0,4,1,4
+0,0.0,[],0.0,0.0,7874b33a-ef78-4a3c-8115-ced769665d41,Tumakuru,0,Tumakuru,1,Karnataka,0.5,0,0,0
+4,0.0,"[""Identity Theft"", ""Financial Fraud"", ""Vehicle Theft"", ""Chain Snatching""]",4.0,0.0,c5e9d839-5f23-4ab2-8e32-771cf1a56307,Udupi,4,Udupi,1,Karnataka,34.0,0,1,4

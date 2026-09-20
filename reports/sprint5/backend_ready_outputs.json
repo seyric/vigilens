@@ -1,0 +1,1440 @@
+{
+  "dashboard_summary": {
+    "total_crimes": 30,
+    "total_firs": 30,
+    "active_cases": 15,
+    "solved_cases": 8,
+    "pending_cases": 15,
+    "arrest_rate": 33.33,
+    "high_risk_districts": [
+      "Belagavi",
+      "Dakshina Kannada",
+      "Kodagu",
+      "Udupi",
+      "Bengaluru Urban"
+    ],
+    "crime_growth_rate": -50.0
+  },
+  "crime_search": [
+    {
+      "fir_id": "c803203b-d40b-4a56-b65c-dfc0a3f2dfd4",
+      "fir_number": "FIR/2026/55243",
+      "complainant_name": "Ananya Hegde",
+      "status": "Under Investigation"
+    },
+    {
+      "fir_id": "78622cab-1686-4ea3-aa7a-25a88e04c065",
+      "fir_number": "FIR/2021/61396",
+      "complainant_name": "Vikram Murthy",
+      "status": "Charge Sheet Filed"
+    },
+    {
+      "fir_id": "0aefaf4a-06ef-4984-a7e4-311805c2181e",
+      "fir_number": "FIR/2026/86923",
+      "complainant_name": "Meera Sharma",
+      "status": "Pending Trial"
+    },
+    {
+      "fir_id": "eea23483-854e-4938-8310-ae00222e68cf",
+      "fir_number": "FIR/2020/22052",
+      "complainant_name": "Rohan Shetty",
+      "status": "Registered"
+    },
+    {
+      "fir_id": "9197bc05-9e2e-4e78-9705-9ba049deeeef",
+      "fir_number": "FIR/2025/53803",
+      "complainant_name": "Kavya Reddy",
+      "status": "Under Investigation"
+    },
+    {
+      "fir_id": "2473fdf3-a138-4fb0-aaed-c08c62a4e40e",
+      "fir_number": "FIR/2024/74835",
+      "complainant_name": "Arjun Hegde",
+      "status": "Charge Sheet Filed"
+    },
+    {
+      "fir_id": "46e0d4c4-51b7-43fd-aff9-86e903296f0f",
+      "fir_number": "FIR/2017/65410",
+      "complainant_name": "Nandini Murthy",
+      "status": "Pending Trial"
+    },
+    {
+      "fir_id": "c715944e-3b16-480f-aa1b-bf17eed2a4bd",
+      "fir_number": "FIR/2024/69447",
+      "complainant_name": "Prakash Sharma",
+      "status": "Registered"
+    },
+    {
+      "fir_id": "c511f0b6-e9eb-4e60-b978-abc3cb75f471",
+      "fir_number": "FIR/2021/23854",
+      "complainant_name": "Shruthi Shetty",
+      "status": "Under Investigation"
+    },
+    {
+      "fir_id": "e9cac0ad-f04d-45eb-a747-2201c630fbc3",
+      "fir_number": "FIR/2021/91412",
+      "complainant_name": "Siddharth Reddy",
+      "status": "Charge Sheet Filed"
+    },
+    {
+      "fir_id": "4e9eb900-9fc0-4a4c-8932-cef4fadec4c5",
+      "fir_number": "FIR/2026/67638",
+      "complainant_name": "Deepa Hegde",
+      "status": "Pending Trial"
+    },
+    {
+      "fir_id": "36dd8465-a21a-4c86-88e7-f142c5206ed8",
+      "fir_number": "FIR/2025/74438",
+      "complainant_name": "Manoj Murthy",
+      "status": "Registered"
+    },
+    {
+      "fir_id": "c0907902-2b86-41a4-87ab-4f3625c6ee99",
+      "fir_number": "FIR/2021/91596",
+      "complainant_name": "Pooja Sharma",
+      "status": "Under Investigation"
+    },
+    {
+      "fir_id": "e399da81-1442-4dd5-9b1b-76a1eae3c733",
+      "fir_number": "FIR/2026/25064",
+      "complainant_name": "Kiran Shetty",
+      "status": "Charge Sheet Filed"
+    },
+    {
+      "fir_id": "b846a78b-da3b-4292-b788-f02140a4cc4f",
+      "fir_number": "FIR/2024/36691",
+      "complainant_name": "Aishwarya Reddy",
+      "status": "Pending Trial"
+    },
+    {
+      "fir_id": "30c4c820-4dcc-4a06-ba56-7f6115eecc92",
+      "fir_number": "FIR/2026/13163",
+      "complainant_name": "Rahul Hegde",
+      "status": "Registered"
+    },
+    {
+      "fir_id": "ca1cb6dd-2c6c-49fe-866e-9790d94c93a6",
+      "fir_number": "FIR/2018/90472",
+      "complainant_name": "Divya Murthy",
+      "status": "Under Investigation"
+    },
+    {
+      "fir_id": "40bedf0e-b442-420c-8153-ff224cb5a710",
+      "fir_number": "FIR/2017/50380",
+      "complainant_name": "Harish Sharma",
+      "status": "Charge Sheet Filed"
+    },
+    {
+      "fir_id": "91f63c94-0e2a-4714-bc57-405f67092ddd",
+      "fir_number": "FIR/2026/64356",
+      "complainant_name": "Lakshmi Shetty",
+      "status": "Pending Trial"
+    },
+    {
+      "fir_id": "4d6e19f2-5a2c-4ba8-8853-eba7de4d4db8",
+      "fir_number": "FIR/2022/80648",
+      "complainant_name": "Aarav Reddy",
+      "status": "Registered"
+    },
+    {
+      "fir_id": "60e72d5c-09a9-4322-98ac-924b80e8c4dd",
+      "fir_number": "FIR/2022/41237",
+      "complainant_name": "Ananya Hegde",
+      "status": "Under Investigation"
+    },
+    {
+      "fir_id": "a68fcc0f-312e-46b0-b61c-4d8a693ab4fd",
+      "fir_number": "FIR/2017/81073",
+      "complainant_name": "Vikram Murthy",
+      "status": "Charge Sheet Filed"
+    },
+    {
+      "fir_id": "e86689b6-5fb3-4402-b40b-2a18a2c0e6be",
+      "fir_number": "FIR/2019/15116",
+      "complainant_name": "Meera Sharma",
+      "status": "Pending Trial"
+    },
+    {
+      "fir_id": "513196c2-f959-431b-ae7b-bdb9d098fcb3",
+      "fir_number": "FIR/2024/88215",
+      "complainant_name": "Rohan Shetty",
+      "status": "Registered"
+    },
+    {
+      "fir_id": "17740a1f-34f6-4611-8035-02cc39d1155a",
+      "fir_number": "FIR/2021/61608",
+      "complainant_name": "Kavya Reddy",
+      "status": "Under Investigation"
+    },
+    {
+      "fir_id": "66e5b89e-71c9-492d-8d08-b3c8c1c4ffba",
+      "fir_number": "FIR/2023/56114",
+      "complainant_name": "Arjun Hegde",
+      "status": "Charge Sheet Filed"
+    },
+    {
+      "fir_id": "f53f0a08-0329-4bca-8d4d-99356dcbe3b3",
+      "fir_number": "FIR/2022/49240",
+      "complainant_name": "Nandini Murthy",
+      "status": "Pending Trial"
+    },
+    {
+      "fir_id": "c69d1a7e-5fe0-4ec4-813b-37880677db1e",
+      "fir_number": "FIR/2022/91217",
+      "complainant_name": "Prakash Sharma",
+      "status": "Registered"
+    },
+    {
+      "fir_id": "d047a5c1-6b83-4730-8f25-7f9bf75e2b57",
+      "fir_number": "FIR/2025/81290",
+      "complainant_name": "Shruthi Shetty",
+      "status": "Under Investigation"
+    },
+    {
+      "fir_id": "b54aba8b-afdc-4c13-9f60-4ce10fd64e04",
+      "fir_number": "FIR/2024/16511",
+      "complainant_name": "Siddharth Reddy",
+      "status": "Charge Sheet Filed"
+    }
+  ],
+  "district_search": [
+    {
+      "district_name": "Belagavi",
+      "firs": 4,
+      "crimes": 4
+    },
+    {
+      "district_name": "Bengaluru Urban",
+      "firs": 3,
+      "crimes": 3
+    },
+    {
+      "district_name": "Dakshina Kannada",
+      "firs": 4,
+      "crimes": 4
+    },
+    {
+      "district_name": "Dharwad",
+      "firs": 0,
+      "crimes": 0
+    },
+    {
+      "district_name": "Kalaburagi",
+      "firs": 3,
+      "crimes": 3
+    },
+    {
+      "district_name": "Kodagu",
+      "firs": 4,
+      "crimes": 4
+    },
+    {
+      "district_name": "Mysuru",
+      "firs": 4,
+      "crimes": 4
+    },
+    {
+      "district_name": "Shivamogga",
+      "firs": 4,
+      "crimes": 4
+    },
+    {
+      "district_name": "Tumakuru",
+      "firs": 0,
+      "crimes": 0
+    },
+    {
+      "district_name": "Udupi",
+      "firs": 4,
+      "crimes": 4
+    }
+  ],
+  "officer_search": [
+    {
+      "officer_id": "3f32e175-ce73-4133-af75-6b4adbb25181",
+      "officer_name": "Asha Patil",
+      "badge_number": null,
+      "rank": "Inspector",
+      "district_name": "Bengaluru Urban"
+    },
+    {
+      "officer_id": "da58832c-446f-4a8a-9d29-068c43bd279c",
+      "officer_name": "IO Belagavi",
+      "badge_number": null,
+      "rank": "Inspector",
+      "district_name": "Belagavi"
+    },
+    {
+      "officer_id": "601d7f4d-f954-4b79-ae4f-3867a9036ae8",
+      "officer_name": "IO Bengaluru Urban",
+      "badge_number": null,
+      "rank": "Inspector",
+      "district_name": "Bengaluru Urban"
+    },
+    {
+      "officer_id": "4f676af3-2cf5-4e71-833f-18492954e4d4",
+      "officer_name": "IO Dakshina Kannada",
+      "badge_number": null,
+      "rank": "Inspector",
+      "district_name": "Dakshina Kannada"
+    },
+    {
+      "officer_id": "25bc2b56-9fba-43ea-93d7-d5388f292a3b",
+      "officer_name": "IO Dharwad",
+      "badge_number": null,
+      "rank": "Inspector",
+      "district_name": "Dharwad"
+    },
+    {
+      "officer_id": "4c239efc-e896-4d02-9f7c-b97e24d21e24",
+      "officer_name": "IO Kalaburagi",
+      "badge_number": null,
+      "rank": "Inspector",
+      "district_name": "Kalaburagi"
+    },
+    {
+      "officer_id": "a50b0397-fdb6-472e-bcfc-ffecf3f26aea",
+      "officer_name": "IO Kodagu",
+      "badge_number": null,
+      "rank": "Inspector",
+      "district_name": "Kodagu"
+    },
+    {
+      "officer_id": "e964809d-a493-473b-9e4b-0e5e74688376",
+      "officer_name": "IO Mysuru",
+      "badge_number": null,
+      "rank": "Inspector",
+      "district_name": "Mysuru"
+    },
+    {
+      "officer_id": "6fd04e4c-c774-4580-bc6c-02bdbd301bca",
+      "officer_name": "IO Shivamogga",
+      "badge_number": null,
+      "rank": "Inspector",
+      "district_name": "Shivamogga"
+    },
+    {
+      "officer_id": "72d21456-fad3-4c3e-a1d3-d1318ee677a6",
+      "officer_name": "IO Tumakuru",
+      "badge_number": null,
+      "rank": "Inspector",
+      "district_name": "Tumakuru"
+    },
+    {
+      "officer_id": "c72886c6-5a56-432b-8852-1c7aa1833421",
+      "officer_name": "IO Udupi",
+      "badge_number": null,
+      "rank": "Inspector",
+      "district_name": "Udupi"
+    }
+  ],
+  "evidence_search": [
+    {
+      "evidence_id": "16f62e55-8809-497e-a42f-41217ecaaa07",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Laptop",
+      "storage_location": "Evidence Room",
+      "description": "Location: Unknown"
+    },
+    {
+      "evidence_id": "218e7b1d-8cc8-4c69-bfdf-6f41cb4d6b7f",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Mobile Phone",
+      "storage_location": "Evidence Room",
+      "description": "Location: Unknown"
+    },
+    {
+      "evidence_id": "2796ea8e-df0b-4b49-a229-154f48779337",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Weapon",
+      "storage_location": "Evidence Room",
+      "description": "Location: Unknown"
+    },
+    {
+      "evidence_id": "2fe075be-aa2d-48b9-a4f2-b54359222f3a",
+      "evidence_type": "Physical",
+      "evidence_subtype": "SIM Card",
+      "storage_location": "Evidence Room",
+      "description": "Location: Unknown"
+    },
+    {
+      "evidence_id": "2fe7d72b-b576-4f82-9e25-b619c7301889",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Laptop",
+      "storage_location": "Evidence Room",
+      "description": "Location: Unknown"
+    },
+    {
+      "evidence_id": "3628f883-6a89-4460-9c25-65dac8c33613",
+      "evidence_type": "Physical",
+      "evidence_subtype": "DNA Sample",
+      "storage_location": "Evidence Room",
+      "description": "Location: Unknown"
+    },
+    {
+      "evidence_id": "3b0b4edd-4a90-4bd7-83d1-e314e3c5c4dd",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Blood Sample",
+      "storage_location": "Evidence Room",
+      "description": "Location: Unknown"
+    },
+    {
+      "evidence_id": "3e3d92b1-3b38-4463-9c1d-3bba06f7f558",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Fingerprints",
+      "storage_location": "Evidence Room",
+      "description": "Location: Unknown"
+    },
+    {
+      "evidence_id": "4ac6562c-2e25-465d-a70a-2c5873832fe1",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Photographs",
+      "storage_location": "Evidence Room",
+      "description": "Location: Unknown"
+    },
+    {
+      "evidence_id": "5661c48b-9e7f-4d61-a4c1-05216c3c9ea4",
+      "evidence_type": "Physical",
+      "evidence_subtype": "USB Drive",
+      "storage_location": "Evidence Room",
+      "description": "Location: Unknown"
+    },
+    {
+      "evidence_id": "595fec58-cdf1-48c6-8857-32843c7d70c3",
+      "evidence_type": "Physical",
+      "evidence_subtype": "DNA Sample",
+      "storage_location": "Evidence Room",
+      "description": "Location: Unknown"
+    },
+    {
+      "evidence_id": "676ba625-95f0-41b6-a1e9-3c933a36f778",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Weapon",
+      "storage_location": "Evidence Room",
+      "description": "Location: Unknown"
+    },
+    {
+      "evidence_id": "86de0405-0e5a-4570-af82-a2b035a5eebb",
+      "evidence_type": "Physical",
+      "evidence_subtype": "SIM Card",
+      "storage_location": "Evidence Room",
+      "description": "Location: Unknown"
+    },
+    {
+      "evidence_id": "97d71fd6-3990-44af-a369-5bb03edddee2",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Audio Recording",
+      "storage_location": "Evidence Room",
+      "description": "Location: Unknown"
+    },
+    {
+      "evidence_id": "a885e543-13fd-4c4e-9454-bd2d6341cfe8",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Fingerprints",
+      "storage_location": "Evidence Room",
+      "description": "Location: Unknown"
+    },
+    {
+      "evidence_id": "a9678ef1-e069-49d5-b503-cb1e81b7e54e",
+      "evidence_type": "Physical",
+      "evidence_subtype": "DNA Sample",
+      "storage_location": "Evidence Room",
+      "description": "Location: Unknown"
+    },
+    {
+      "evidence_id": "b6ac0bc1-7d75-42af-8652-e306f7d72dd4",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Mobile Phone",
+      "storage_location": "Evidence Room",
+      "description": "Location: Unknown"
+    },
+    {
+      "evidence_id": "b70d938b-810a-424b-b872-ae12913a7ec9",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Vehicle",
+      "storage_location": "Evidence Room",
+      "description": "Location: Unknown"
+    },
+    {
+      "evidence_id": "b75926eb-41a3-4da1-8518-36dd07c16f00",
+      "evidence_type": "Physical",
+      "evidence_subtype": "CCTV Footage",
+      "storage_location": "Evidence Room",
+      "description": "Location: Unknown"
+    },
+    {
+      "evidence_id": "bd764274-fd20-4089-bbd3-1cf3fff7f84b",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Photographs",
+      "storage_location": "Evidence Room",
+      "description": "Location: Unknown"
+    },
+    {
+      "evidence_id": "c2fcd3a4-a79b-4253-b636-52daa56df1b3",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Audio Recording",
+      "storage_location": "Evidence Room",
+      "description": "Location: Unknown"
+    },
+    {
+      "evidence_id": "c488bf99-46c6-4766-b2b4-fa61f03e96ab",
+      "evidence_type": "Physical",
+      "evidence_subtype": "CCTV Footage",
+      "storage_location": "Evidence Room",
+      "description": "Location: Unknown"
+    },
+    {
+      "evidence_id": "ce0ae7dc-a4c7-41eb-a250-040559013aa8",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Fingerprints",
+      "storage_location": "Evidence Room",
+      "description": "Location: Unknown"
+    },
+    {
+      "evidence_id": "cee8b961-ccd2-4c9e-8eb0-71a73684343d",
+      "evidence_type": "Physical",
+      "evidence_subtype": "USB Drive",
+      "storage_location": "Evidence Room",
+      "description": "Location: Unknown"
+    },
+    {
+      "evidence_id": "d8dde326-e2fd-4d43-9557-ef33916c93ec",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Hard Disk",
+      "storage_location": "Evidence Room",
+      "description": "Location: Unknown"
+    },
+    {
+      "evidence_id": "e03cd565-a072-4bc8-9c9a-6e89029a4e3c",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Bank Statements",
+      "storage_location": "Evidence Room",
+      "description": "Location: Unknown"
+    },
+    {
+      "evidence_id": "e723306c-511f-48c3-99dd-32097af1bba5",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Blood Sample",
+      "storage_location": "Evidence Room",
+      "description": "Location: Unknown"
+    },
+    {
+      "evidence_id": "f1a6db14-be22-4704-93ef-60e7a8ed6c33",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Bank Statements",
+      "storage_location": "Evidence Room",
+      "description": "Location: Unknown"
+    },
+    {
+      "evidence_id": "f72405a3-6632-4a73-93f3-a0765f5d1e56",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Hard Disk",
+      "storage_location": "Evidence Room",
+      "description": "Location: Unknown"
+    },
+    {
+      "evidence_id": "fd2941ba-a6a9-43c0-a6ec-811e21f49ccd",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Vehicle",
+      "storage_location": "Evidence Room",
+      "description": "Location: Unknown"
+    }
+  ],
+  "analytics_summary": {
+    "crime_trends": {
+      "monthly_trends": [
+        {
+          "month": "2016-10-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "month": "2017-03-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "month": "2017-04-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "month": "2017-11-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "month": "2018-01-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "month": "2018-08-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "month": "2019-03-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "month": "2019-05-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "month": "2020-05-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "month": "2020-07-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "month": "2020-10-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "month": "2021-01-01T00:00:00+00:00",
+          "crime_count": 2
+        },
+        {
+          "month": "2021-02-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "month": "2021-04-01T00:00:00+00:00",
+          "crime_count": 2
+        },
+        {
+          "month": "2021-06-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "month": "2021-11-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "month": "2022-01-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "month": "2023-01-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "month": "2023-02-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "month": "2023-03-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "month": "2023-08-01T00:00:00+00:00",
+          "crime_count": 2
+        },
+        {
+          "month": "2024-03-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "month": "2024-05-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "month": "2024-07-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "month": "2024-08-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "month": "2025-07-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "month": "2025-12-01T00:00:00+00:00",
+          "crime_count": 1
+        }
+      ],
+      "yearly_trends": [
+        {
+          "year": 2016,
+          "crime_count": 1
+        },
+        {
+          "year": 2017,
+          "crime_count": 3
+        },
+        {
+          "year": 2018,
+          "crime_count": 2
+        },
+        {
+          "year": 2019,
+          "crime_count": 2
+        },
+        {
+          "year": 2020,
+          "crime_count": 3
+        },
+        {
+          "year": 2021,
+          "crime_count": 7
+        },
+        {
+          "year": 2022,
+          "crime_count": 1
+        },
+        {
+          "year": 2023,
+          "crime_count": 5
+        },
+        {
+          "year": 2024,
+          "crime_count": 4
+        },
+        {
+          "year": 2025,
+          "crime_count": 2
+        }
+      ],
+      "crime_categories": [
+        {
+          "category_name": "Mobile Theft",
+          "crime_count": 3
+        },
+        {
+          "category_name": "Burglary",
+          "crime_count": 3
+        },
+        {
+          "category_name": "Online Scam",
+          "crime_count": 2
+        },
+        {
+          "category_name": "Identity Theft",
+          "crime_count": 2
+        },
+        {
+          "category_name": "Cyber Crime",
+          "crime_count": 2
+        },
+        {
+          "category_name": "Missing Person",
+          "crime_count": 2
+        },
+        {
+          "category_name": "Assault",
+          "crime_count": 2
+        },
+        {
+          "category_name": "Robbery",
+          "crime_count": 2
+        },
+        {
+          "category_name": "Drug Trafficking",
+          "crime_count": 2
+        },
+        {
+          "category_name": "Vehicle Theft",
+          "crime_count": 2
+        },
+        {
+          "category_name": "Kidnapping",
+          "crime_count": 2
+        },
+        {
+          "category_name": "Murder",
+          "crime_count": 2
+        },
+        {
+          "category_name": "Financial Fraud",
+          "crime_count": 2
+        },
+        {
+          "category_name": "Chain Snatching",
+          "crime_count": 2
+        }
+      ],
+      "district_comparisons": [
+        {
+          "district_name": "Mysuru",
+          "crime_count": 4
+        },
+        {
+          "district_name": "Belagavi",
+          "crime_count": 4
+        },
+        {
+          "district_name": "Udupi",
+          "crime_count": 4
+        },
+        {
+          "district_name": "Kodagu",
+          "crime_count": 4
+        },
+        {
+          "district_name": "Shivamogga",
+          "crime_count": 4
+        },
+        {
+          "district_name": "Dakshina Kannada",
+          "crime_count": 4
+        },
+        {
+          "district_name": "Bengaluru Urban",
+          "crime_count": 3
+        },
+        {
+          "district_name": "Kalaburagi",
+          "crime_count": 3
+        }
+      ],
+      "officer_performance": [
+        {
+          "officer_name": "IO Belagavi",
+          "assigned_firs": 4
+        },
+        {
+          "officer_name": "IO Shivamogga",
+          "assigned_firs": 4
+        },
+        {
+          "officer_name": "IO Dakshina Kannada",
+          "assigned_firs": 4
+        },
+        {
+          "officer_name": "IO Kodagu",
+          "assigned_firs": 4
+        },
+        {
+          "officer_name": "IO Mysuru",
+          "assigned_firs": 4
+        },
+        {
+          "officer_name": "IO Udupi",
+          "assigned_firs": 4
+        },
+        {
+          "officer_name": "IO Kalaburagi",
+          "assigned_firs": 3
+        },
+        {
+          "officer_name": "IO Bengaluru Urban",
+          "assigned_firs": 3
+        }
+      ],
+      "crime_frequency": [
+        {
+          "period": "2016-10-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "period": "2017-03-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "period": "2017-04-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "period": "2017-11-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "period": "2018-01-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "period": "2018-08-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "period": "2019-03-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "period": "2019-05-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "period": "2020-05-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "period": "2020-07-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "period": "2020-10-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "period": "2021-01-01T00:00:00+00:00",
+          "crime_count": 2
+        },
+        {
+          "period": "2021-02-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "period": "2021-04-01T00:00:00+00:00",
+          "crime_count": 2
+        },
+        {
+          "period": "2021-06-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "period": "2021-11-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "period": "2022-01-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "period": "2023-01-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "period": "2023-02-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "period": "2023-03-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "period": "2023-08-01T00:00:00+00:00",
+          "crime_count": 2
+        },
+        {
+          "period": "2024-03-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "period": "2024-05-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "period": "2024-07-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "period": "2024-08-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "period": "2025-07-01T00:00:00+00:00",
+          "crime_count": 1
+        },
+        {
+          "period": "2025-12-01T00:00:00+00:00",
+          "crime_count": 1
+        }
+      ],
+      "seasonal_crime_analysis": [
+        {
+          "season": "summer",
+          "crime_count": 10
+        },
+        {
+          "season": "winter",
+          "crime_count": 8
+        },
+        {
+          "season": "post_monsoon",
+          "crime_count": 4
+        },
+        {
+          "season": "monsoon",
+          "crime_count": 8
+        }
+      ]
+    },
+    "district_overview": [
+      {
+        "district_id": "f5e6c116-26a0-4ada-bb5c-12eb769f0e03",
+        "district_name": "Belagavi",
+        "region": "Karnataka",
+        "headquarters": "Belagavi",
+        "total_crimes": 4,
+        "crime_categories": [
+          "Chain Snatching",
+          "Vehicle Theft",
+          "Drug Trafficking",
+          "Burglary"
+        ],
+        "crime_growth": 0.0,
+        "solved_cases": 0,
+        "active_cases": 4,
+        "crime_density": 4.0,
+        "arrest_rate": 0.0,
+        "risk_score": 44.0,
+        "fir_count": 4,
+        "station_count": 1,
+        "officer_count": 1
+      },
+      {
+        "district_id": "3903135e-abb2-4b2d-b330-f480703fb3e1",
+        "district_name": "Bengaluru Urban",
+        "region": "Karnataka",
+        "headquarters": "Bengaluru Urban",
+        "total_crimes": 3,
+        "crime_categories": [
+          "Missing Person",
+          "Mobile Theft",
+          "Online Scam"
+        ],
+        "crime_growth": 0.0,
+        "solved_cases": 0,
+        "active_cases": 3,
+        "crime_density": 3.0,
+        "arrest_rate": 0.0,
+        "risk_score": 33.5,
+        "fir_count": 3,
+        "station_count": 1,
+        "officer_count": 2
+      },
+      {
+        "district_id": "c28e3f98-159e-4dcd-a6f9-80c23a6f6d11",
+        "district_name": "Dakshina Kannada",
+        "region": "Karnataka",
+        "headquarters": "Dakshina Kannada",
+        "total_crimes": 4,
+        "crime_categories": [
+          "Robbery",
+          "Murder",
+          "Kidnapping",
+          "Cyber Crime"
+        ],
+        "crime_growth": 0.0,
+        "solved_cases": 0,
+        "active_cases": 4,
+        "crime_density": 4.0,
+        "arrest_rate": 0.0,
+        "risk_score": 44.0,
+        "fir_count": 4,
+        "station_count": 1,
+        "officer_count": 1
+      },
+      {
+        "district_id": "0e68fc9c-487f-45ab-aa0b-748355b102f2",
+        "district_name": "Dharwad",
+        "region": "Karnataka",
+        "headquarters": "Dharwad",
+        "total_crimes": 0,
+        "crime_categories": [],
+        "crime_growth": 0.0,
+        "solved_cases": 0,
+        "active_cases": 0,
+        "crime_density": 0.0,
+        "arrest_rate": 0.0,
+        "risk_score": 0.0,
+        "fir_count": 0,
+        "station_count": 1,
+        "officer_count": 1
+      },
+      {
+        "district_id": "e9454ef3-ed08-4ccb-9f48-381792757022",
+        "district_name": "Kalaburagi",
+        "region": "Karnataka",
+        "headquarters": "Kalaburagi",
+        "total_crimes": 3,
+        "crime_categories": [
+          "Assault",
+          "Burglary",
+          "Drug Trafficking"
+        ],
+        "crime_growth": 0.0,
+        "solved_cases": 0,
+        "active_cases": 3,
+        "crime_density": 3.0,
+        "arrest_rate": 0.0,
+        "risk_score": 25.5,
+        "fir_count": 3,
+        "station_count": 1,
+        "officer_count": 1
+      },
+      {
+        "district_id": "325a5fde-0f5c-4bc2-8c7d-f28397e9f369",
+        "district_name": "Kodagu",
+        "region": "Karnataka",
+        "headquarters": "Kodagu",
+        "total_crimes": 4,
+        "crime_categories": [
+          "Identity Theft",
+          "Burglary",
+          "Assault",
+          "Financial Fraud"
+        ],
+        "crime_growth": 0.0,
+        "solved_cases": 0,
+        "active_cases": 4,
+        "crime_density": 4.0,
+        "arrest_rate": 0.0,
+        "risk_score": 44.0,
+        "fir_count": 4,
+        "station_count": 1,
+        "officer_count": 1
+      },
+      {
+        "district_id": "890913e3-714d-4964-8438-faaa2741fd13",
+        "district_name": "Mysuru",
+        "region": "Karnataka",
+        "headquarters": "Mysuru",
+        "total_crimes": 4,
+        "crime_categories": [
+          "Cyber Crime",
+          "Online Scam",
+          "Mobile Theft",
+          "Murder"
+        ],
+        "crime_growth": 0.0,
+        "solved_cases": 4,
+        "active_cases": 0,
+        "crime_density": 4.0,
+        "arrest_rate": 0.0,
+        "risk_score": 28.0,
+        "fir_count": 4,
+        "station_count": 1,
+        "officer_count": 1
+      },
+      {
+        "district_id": "ae812f5b-08ce-489a-a803-844b0cb04727",
+        "district_name": "Shivamogga",
+        "region": "Karnataka",
+        "headquarters": "Shivamogga",
+        "total_crimes": 4,
+        "crime_categories": [
+          "Mobile Theft",
+          "Robbery",
+          "Kidnapping",
+          "Missing Person"
+        ],
+        "crime_growth": -66.67,
+        "solved_cases": 4,
+        "active_cases": 0,
+        "crime_density": 4.0,
+        "arrest_rate": 0.0,
+        "risk_score": 28.0,
+        "fir_count": 4,
+        "station_count": 1,
+        "officer_count": 1
+      },
+      {
+        "district_id": "7874b33a-ef78-4a3c-8115-ced769665d41",
+        "district_name": "Tumakuru",
+        "region": "Karnataka",
+        "headquarters": "Tumakuru",
+        "total_crimes": 0,
+        "crime_categories": [],
+        "crime_growth": 0.0,
+        "solved_cases": 0,
+        "active_cases": 0,
+        "crime_density": 0.0,
+        "arrest_rate": 0.0,
+        "risk_score": 0.5,
+        "fir_count": 0,
+        "station_count": 0,
+        "officer_count": 1
+      },
+      {
+        "district_id": "c5e9d839-5f23-4ab2-8e32-771cf1a56307",
+        "district_name": "Udupi",
+        "region": "Karnataka",
+        "headquarters": "Udupi",
+        "total_crimes": 4,
+        "crime_categories": [
+          "Identity Theft",
+          "Financial Fraud",
+          "Vehicle Theft",
+          "Chain Snatching"
+        ],
+        "crime_growth": 0.0,
+        "solved_cases": 0,
+        "active_cases": 4,
+        "crime_density": 4.0,
+        "arrest_rate": 0.0,
+        "risk_score": 34.0,
+        "fir_count": 4,
+        "station_count": 1,
+        "officer_count": 1
+      }
+    ]
+  },
+  "heatmap_data": [
+    {
+      "station_name": "Belagavi Camp",
+      "district_name": "Belagavi",
+      "latitude": null,
+      "longitude": null,
+      "crime_count": 4
+    },
+    {
+      "station_name": "Cubbon Park",
+      "district_name": "Bengaluru Urban",
+      "latitude": null,
+      "longitude": null,
+      "crime_count": 3
+    },
+    {
+      "station_name": "Hubballi North",
+      "district_name": "Dakshina Kannada",
+      "latitude": null,
+      "longitude": null,
+      "crime_count": 4
+    },
+    {
+      "station_name": "Central Station",
+      "district_name": "Dharwad",
+      "latitude": null,
+      "longitude": null,
+      "crime_count": 0
+    },
+    {
+      "station_name": "Udupi Town",
+      "district_name": "Kalaburagi",
+      "latitude": null,
+      "longitude": null,
+      "crime_count": 3
+    },
+    {
+      "station_name": "Vijayanagar",
+      "district_name": "Kodagu",
+      "latitude": null,
+      "longitude": null,
+      "crime_count": 4
+    },
+    {
+      "station_name": "Shivamogga Town",
+      "district_name": "Mysuru",
+      "latitude": null,
+      "longitude": null,
+      "crime_count": 4
+    },
+    {
+      "station_name": "Devaraja",
+      "district_name": "Shivamogga",
+      "latitude": null,
+      "longitude": null,
+      "crime_count": 4
+    },
+    {
+      "station_name": "Mangaluru East",
+      "district_name": "Udupi",
+      "latitude": null,
+      "longitude": null,
+      "crime_count": 4
+    }
+  ],
+  "investigation_timeline": [
+    {
+      "fir_number": "FIR/2025/53803",
+      "fir_date": "2016-10-30T17:19:27+00:00",
+      "status": "Under Investigation",
+      "investigating_officer": "IO Belagavi",
+      "district_name": "Belagavi"
+    },
+    {
+      "fir_number": "FIR/2022/80648",
+      "fir_date": "2017-03-25T04:06:27+00:00",
+      "status": "Registered",
+      "investigating_officer": "IO Dakshina Kannada",
+      "district_name": "Dakshina Kannada"
+    },
+    {
+      "fir_number": "FIR/2017/65410",
+      "fir_date": "2017-04-21T02:55:27+00:00",
+      "status": "Pending Trial",
+      "investigating_officer": "IO Kalaburagi",
+      "district_name": "Kalaburagi"
+    },
+    {
+      "fir_number": "FIR/2026/25064",
+      "fir_date": "2017-11-24T13:15:27+00:00",
+      "status": "Charge Sheet Filed",
+      "investigating_officer": "IO Mysuru",
+      "district_name": "Mysuru"
+    },
+    {
+      "fir_number": "FIR/2022/41237",
+      "fir_date": "2018-01-27T13:03:27+00:00",
+      "status": "Under Investigation",
+      "investigating_officer": "IO Belagavi",
+      "district_name": "Belagavi"
+    },
+    {
+      "fir_number": "FIR/2017/81073",
+      "fir_date": "2018-09-01T21:48:27+00:00",
+      "status": "Charge Sheet Filed",
+      "investigating_officer": "IO Mysuru",
+      "district_name": "Mysuru"
+    },
+    {
+      "fir_number": "FIR/2024/36691",
+      "fir_date": "2019-03-05T05:32:27+00:00",
+      "status": "Pending Trial",
+      "investigating_officer": "IO Kalaburagi",
+      "district_name": "Kalaburagi"
+    },
+    {
+      "fir_number": "FIR/2026/13163",
+      "fir_date": "2019-05-29T09:32:27+00:00",
+      "status": "Registered",
+      "investigating_officer": "IO Bengaluru Urban",
+      "district_name": "Bengaluru Urban"
+    },
+    {
+      "fir_number": "FIR/2024/74835",
+      "fir_date": "2020-05-31T08:19:27+00:00",
+      "status": "Charge Sheet Filed",
+      "investigating_officer": "IO Mysuru",
+      "district_name": "Mysuru"
+    },
+    {
+      "fir_number": "FIR/2025/74438",
+      "fir_date": "2020-07-05T09:18:27+00:00",
+      "status": "Registered",
+      "investigating_officer": "IO Dakshina Kannada",
+      "district_name": "Dakshina Kannada"
+    },
+    {
+      "fir_number": "FIR/2021/23854",
+      "fir_date": "2020-10-03T10:08:27+00:00",
+      "status": "Under Investigation",
+      "investigating_officer": "IO Kodagu",
+      "district_name": "Kodagu"
+    },
+    {
+      "fir_number": "FIR/2021/91596",
+      "fir_date": "2021-01-05T09:41:27+00:00",
+      "status": "Under Investigation",
+      "investigating_officer": "IO Belagavi",
+      "district_name": "Belagavi"
+    },
+    {
+      "fir_number": "FIR/2021/61396",
+      "fir_date": "2021-01-18T14:06:27+00:00",
+      "status": "Charge Sheet Filed",
+      "investigating_officer": "IO Shivamogga",
+      "district_name": "Shivamogga"
+    },
+    {
+      "fir_number": "FIR/2021/91412",
+      "fir_date": "2021-02-21T07:01:27+00:00",
+      "status": "Charge Sheet Filed",
+      "investigating_officer": "IO Shivamogga",
+      "district_name": "Shivamogga"
+    },
+    {
+      "fir_number": "FIR/2022/49240",
+      "fir_date": "2021-04-06T22:24:27+00:00",
+      "status": "Pending Trial",
+      "investigating_officer": "IO Udupi",
+      "district_name": "Udupi"
+    },
+    {
+      "fir_number": "FIR/2024/88215",
+      "fir_date": "2021-04-08T05:45:27+00:00",
+      "status": "Registered",
+      "investigating_officer": "IO Bengaluru Urban",
+      "district_name": "Bengaluru Urban"
+    },
+    {
+      "fir_number": "FIR/2018/90472",
+      "fir_date": "2021-06-22T03:04:27+00:00",
+      "status": "Under Investigation",
+      "investigating_officer": "IO Kodagu",
+      "district_name": "Kodagu"
+    },
+    {
+      "fir_number": "FIR/2017/50380",
+      "fir_date": "2021-11-03T12:33:27+00:00",
+      "status": "Charge Sheet Filed",
+      "investigating_officer": "IO Shivamogga",
+      "district_name": "Shivamogga"
+    },
+    {
+      "fir_number": "FIR/2020/22052",
+      "fir_date": "2022-01-31T07:52:27+00:00",
+      "status": "Registered",
+      "investigating_officer": "IO Dakshina Kannada",
+      "district_name": "Dakshina Kannada"
+    },
+    {
+      "fir_number": "FIR/2024/69447",
+      "fir_date": "2023-01-22T06:59:27+00:00",
+      "status": "Registered",
+      "investigating_officer": "IO Bengaluru Urban",
+      "district_name": "Bengaluru Urban"
+    },
+    {
+      "fir_number": "FIR/2021/61608",
+      "fir_date": "2023-02-07T12:28:27+00:00",
+      "status": "Under Investigation",
+      "investigating_officer": "IO Kodagu",
+      "district_name": "Kodagu"
+    },
+    {
+      "fir_number": "FIR/2023/56114",
+      "fir_date": "2023-03-27T21:52:27+00:00",
+      "status": "Charge Sheet Filed",
+      "investigating_officer": "IO Shivamogga",
+      "district_name": "Shivamogga"
+    },
+    {
+      "fir_number": "FIR/2026/64356",
+      "fir_date": "2023-08-05T17:03:27+00:00",
+      "status": "Pending Trial",
+      "investigating_officer": "IO Udupi",
+      "district_name": "Udupi"
+    },
+    {
+      "fir_number": "FIR/2022/91217",
+      "fir_date": "2023-08-19T00:11:27+00:00",
+      "status": "Registered",
+      "investigating_officer": "IO Dakshina Kannada",
+      "district_name": "Dakshina Kannada"
+    },
+    {
+      "fir_number": "FIR/2026/55243",
+      "fir_date": "2024-03-28T16:59:27+00:00",
+      "status": "Under Investigation",
+      "investigating_officer": "IO Kodagu",
+      "district_name": "Kodagu"
+    },
+    {
+      "fir_number": "FIR/2026/86923",
+      "fir_date": "2024-05-15T19:47:27+00:00",
+      "status": "Pending Trial",
+      "investigating_officer": "IO Udupi",
+      "district_name": "Udupi"
+    },
+    {
+      "fir_number": "FIR/2024/16511",
+      "fir_date": "2024-07-18T18:07:27+00:00",
+      "status": "Charge Sheet Filed",
+      "investigating_officer": "IO Mysuru",
+      "district_name": "Mysuru"
+    },
+    {
+      "fir_number": "FIR/2019/15116",
+      "fir_date": "2024-08-28T22:18:27+00:00",
+      "status": "Pending Trial",
+      "investigating_officer": "IO Kalaburagi",
+      "district_name": "Kalaburagi"
+    },
+    {
+      "fir_number": "FIR/2025/81290",
+      "fir_date": "2025-07-16T19:26:27+00:00",
+      "status": "Under Investigation",
+      "investigating_officer": "IO Belagavi",
+      "district_name": "Belagavi"
+    },
+    {
+      "fir_number": "FIR/2026/67638",
+      "fir_date": "2025-12-17T12:16:27+00:00",
+      "status": "Pending Trial",
+      "investigating_officer": "IO Udupi",
+      "district_name": "Udupi"
+    }
+  ]
+}

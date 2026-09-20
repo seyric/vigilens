@@ -1,0 +1,22 @@
+[
+    {
+        "time": "2026-07-17 09:30",
+        "event": "FIR Registered"
+    },
+    {
+        "time": "2026-07-17 10:15",
+        "event": "Crime Scene Visited"
+    },
+    {
+        "time": "2026-07-17 11:00",
+        "event": "Evidence Collected"
+    },
+    {
+        "time": "2026-07-17 12:30",
+        "event": "Witness Statement Recorded"
+    },
+    {
+        "time": "2026-07-17 14:00",
+        "event": "Vehicle Identified"
+    }
+]

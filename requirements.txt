@@ -1,0 +1,51 @@
+# ============================================================
+# Vigilens ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Data & Intelligence Module
+# Production Dependencies (compatible with Python 3.13)
+# ============================================================
+
+# Data Engineering
+pandas
+numpy
+openpyxl
+
+# Database
+sqlalchemy
+psycopg2-binary
+alembic
+
+# Backend authentication and API
+fastapi
+python-multipart
+PyJWT
+pwdlib[argon2]
+uvicorn[standard]
+
+# Neo4j
+neo4j
+
+# GIS
+geopandas
+shapely
+
+# Document and image ingestion
+Pillow
+PyMuPDF
+pytesseract
+easyocr
+rapidfuzz
+spacy
+google-genai
+
+# Visualization
+plotly
+
+# Configuration
+python-dotenv
+pydantic
+pydantic-settings
+
+# Utilities
+loguru
+tqdm
+pyyaml
+psutil

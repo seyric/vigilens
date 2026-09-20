@@ -1,0 +1,2 @@
+from backend.crime_pattern.controllers.upload_controller import CrimePatternUploadController
+__all__=["CrimePatternUploadController"]

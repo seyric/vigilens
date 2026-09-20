@@ -1,0 +1,14 @@
+{
+    "suspect": "Unknown",
+    "phone_number": "+91-9876543210",
+    "imei": "356789123456789",
+    "last_ip": "103.25.84.112",
+    "last_location": "Connaught Place",
+    "vehicle": "Black Motorcycle",
+    "known_associates": [
+        "Rahul",
+        "Amit"
+    ],
+    "previous_cases": 3,
+    "last_seen": "2026-07-17 20:45"
+}

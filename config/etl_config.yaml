@@ -1,0 +1,192 @@
+# Vigilens AI — ETL Configuration (YAML)
+
+version: "1.0"
+description: "ETL Configuration and DAG for Vigilens AI"
+
+global_settings:
+  chunk_size: 10000
+  max_retries: 3
+  retry_delay_seconds: 5
+  checkpoint_dir: "metadata/checkpoints"
+  log_dir: "logs"
+  report_dir: "reports"
+  metrics_file: "reports/etl_metrics.json"
+
+# Schema versions for backward compatibility tracking
+schemas:
+  districts: "v1.0"
+  roles: "v1.0"
+  crime_categories: "v1.0"
+  police_stations: "v1.0"
+  officers: "v1.0"
+  firs: "v1.0"
+  crimes: "v1.0"
+  suspects: "v1.0"
+  victims: "v1.0"
+  witnesses: "v1.0"
+  vehicles: "v1.0"
+  weapons: "v1.0"
+  evidence: "v1.0"
+  users: "v1.0"
+  fir_suspects: "v1.0"
+  fir_victims: "v1.0"
+  fir_witnesses: "v1.0"
+  fir_vehicles: "v1.0"
+  fir_weapons: "v1.0"
+  fir_evidence: "v1.0"
+  crime_suspects: "v1.0"
+  user_roles: "v1.0"
+
+# The Directed Acyclic Graph (DAG) defines dependencies and execution order
+dag:
+  # ── Tier 1: Independent Reference Data ──
+  districts:
+    path: "datasets/raw/districts/districts.csv"
+    table: "districts"
+    primary_key: "district_id"
+    dependencies: []
+  roles:
+    path: "datasets/raw/roles/roles.csv"
+    table: "roles"
+    primary_key: "role_id"
+    dependencies: []
+  crime_categories:
+    path: "datasets/raw/crime_categories/crime_categories.csv"
+    table: "crime_categories"
+    primary_key: "category_id"
+    dependencies: []
+
+  # ── Tier 2: Level 1 Dependencies ──
+  police_stations:
+    path: "datasets/raw/police_stations/police_stations.csv"
+    table: "police_stations"
+    primary_key: "station_id"
+    dependencies:
+      - districts
+  suspects:
+    path: "datasets/raw/suspects/suspects.csv"
+    table: "suspects"
+    primary_key: "suspect_id"
+    dependencies:
+      - districts
+  victims:
+    path: "datasets/raw/victims/victims.csv"
+    table: "victims"
+    primary_key: "victim_id"
+    dependencies:
+      - districts
+  witnesses:
+    path: "datasets/raw/witnesses/witnesses.csv"
+    table: "witnesses"
+    primary_key: "witness_id"
+    dependencies:
+      - districts
+  vehicles:
+    path: "datasets/raw/vehicles/vehicles.csv"
+    table: "vehicles"
+    primary_key: "vehicle_id"
+    dependencies: []
+  weapons:
+    path: "datasets/raw/weapons/weapons.csv"
+    table: "weapons"
+    primary_key: "weapon_id"
+    dependencies: []
+
+  # ── Tier 3: Level 2 Dependencies ──
+  officers:
+    path: "datasets/raw/officers/officers.csv"
+    table: "officers"
+    primary_key: "officer_id"
+    dependencies:
+      - police_stations
+      - districts
+
+  # ── Tier 4: Incidents ──
+  firs:
+    path: "datasets/raw/firs/firs.csv"
+    table: "firs"
+    primary_key: "fir_id"
+    dependencies:
+      - police_stations
+      - districts
+      - officers
+
+  # ── Tier 5: Crimes and Evidence ──
+  crimes:
+    path: "datasets/raw/crimes/crimes.csv"
+    table: "crimes"
+    primary_key: "crime_id"
+    dependencies:
+      - firs
+      - crime_categories
+  evidence:
+    path: "datasets/raw/evidence/evidence.csv"
+    table: "evidence"
+    primary_key: "evidence_id"
+    dependencies:
+      - officers
+  users:
+    path: "datasets/raw/users/users.csv"
+    table: "users"
+    primary_key: "user_id"
+    dependencies:
+      - roles
+      - officers
+
+  # ── Tier 6: Junction Tables ──
+  fir_suspects:
+    path: "datasets/raw/junctions/fir_suspects/fir_suspects.csv"
+    table: "fir_suspects"
+    primary_key: "fir_suspect_id"
+    dependencies:
+      - firs
+      - suspects
+  fir_victims:
+    path: "datasets/raw/junctions/fir_victims/fir_victims.csv"
+    table: "fir_victims"
+    primary_key: "fir_victim_id"
+    dependencies:
+      - firs
+      - victims
+  fir_witnesses:
+    path: "datasets/raw/junctions/fir_witnesses/fir_witnesses.csv"
+    table: "fir_witnesses"
+    primary_key: "fir_witness_id"
+    dependencies:
+      - firs
+      - witnesses
+  fir_vehicles:
+    path: "datasets/raw/junctions/fir_vehicles/fir_vehicles.csv"
+    table: "fir_vehicles"
+    primary_key: "fir_vehicle_id"
+    dependencies:
+      - firs
+      - vehicles
+  fir_weapons:
+    path: "datasets/raw/junctions/fir_weapons/fir_weapons.csv"
+    table: "fir_weapons"
+    primary_key: "fir_weapon_id"
+    dependencies:
+      - firs
+      - weapons
+  fir_evidence:
+    path: "datasets/raw/junctions/fir_evidence/fir_evidence.csv"
+    table: "fir_evidence"
+    primary_key: "fir_evidence_id"
+    dependencies:
+      - firs
+      - evidence
+  crime_suspects:
+    path: "datasets/raw/junctions/crime_suspects/crime_suspects.csv"
+    table: "crime_suspects"
+    primary_key: "crime_suspect_id"
+    dependencies:
+      - crimes
+      - suspects
+  user_roles:
+    path: "datasets/raw/junctions/user_roles/user_roles.csv"
+    table: "user_roles"
+    primary_key: "user_role_id"
+    dependencies:
+      - users
+      - roles

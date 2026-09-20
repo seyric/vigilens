@@ -1,0 +1,237 @@
+/* Custom loading screen styling matching premium police operating systems */
+.loading-screen {
+  position: relative;
+  isolation: isolate;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  color: #f8fafc;
+  background: radial-gradient(circle at center, #0B1220 0%, #050816 100%);
+  font-family: 'Inter', system-ui, sans-serif;
+  opacity: 1;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.loading-screen--granted {
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+
+/* Subtle background grid */
+.loading-screen__grid {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  background-image: linear-gradient(rgba(37, 99, 235, 0.015) 1px, transparent 1px),
+                    linear-gradient(90deg, rgba(37, 99, 235, 0.015) 1px, transparent 1px);
+  background-size: 36px 36px;
+  mask-image: radial-gradient(ellipse at center, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 80%);
+  pointer-events: none;
+}
+
+/* Very subtle dust particles moving slowly */
+.loading-screen__dust {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  background-image: radial-gradient(rgba(56, 189, 248, 0.03) 1px, transparent 1px);
+  background-size: 80px 80px;
+  animation: dustShift 30s linear infinite;
+  pointer-events: none;
+}
+
+@keyframes dustShift {
+  from { background-position: 0 0; }
+  to { background-position: 80px 160px; }
+}
+
+/* Content block layout spacing */
+.loading-screen__content {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 520px;
+  padding: 0 24px;
+  text-align: center;
+}
+
+/* Logo container & entry */
+.loading-screen__logo-container {
+  width: 80px;
+  height: 80px;
+  margin-bottom: 24px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 0 20px rgba(37, 99, 235, 0.15);
+  animation: logoFadeIn 1s ease-out forwards;
+}
+
+.loading-screen__logo {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Typography styles */
+.loading-screen__title {
+  margin: 0 0 8px 0;
+  font-size: 2.25rem;
+  font-weight: 800;
+  letter-spacing: 0.25em;
+  text-indent: 0.25em;
+  color: #ffffff;
+  text-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+  animation: textFadeIn 1.2s ease-out 0.2s both;
+}
+
+.loading-screen__tagline {
+  margin: 0 0 32px 0;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: #94a3b8;
+  letter-spacing: 0.08em;
+  animation: textFadeIn 1.2s ease-out 0.4s both;
+}
+
+/* Handcuffs animation centering */
+.loading-screen__animation {
+  margin-bottom: 32px;
+  height: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: scaleFadeIn 1.2s cubic-bezier(0.16, 1, 0.3, 1) 0.6s both;
+}
+
+/* Thin premium progress bar track */
+.loading-screen__progress-wrapper {
+  width: 100%;
+  max-width: 440px;
+  margin-bottom: 16px;
+  animation: textFadeIn 1.2s ease-out 0.8s both;
+}
+
+.loading-screen__progress-track {
+  height: 4px;
+  width: 100%;
+  border-radius: 2px;
+  background-color: rgba(255, 255, 255, 0.05);
+  overflow: hidden;
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+/* Smooth progress progression fill */
+.loading-screen__progress-bar {
+  height: 100%;
+  border-radius: 2px;
+  background: linear-gradient(90deg, #2563eb, #38bdf8);
+  box-shadow: 0 0 8px rgba(56, 189, 248, 0.5);
+  transition: width 0.1s linear;
+}
+
+/* Percentage numbers styling */
+.loading-screen__percentage {
+  font-family: ui-monospace, SFMono-Regular, monospace;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #cbd5e1;
+  letter-spacing: 0.1em;
+  margin-bottom: 24px;
+  animation: textFadeIn 1.2s ease-out 0.8s both;
+}
+
+/* Status message rotation wrapping */
+.loading-screen__status-wrapper {
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: textFadeIn 1.2s ease-out 0.8s both;
+}
+
+.loading-screen__status {
+  font-size: 0.8rem;
+  font-weight: 500;
+  font-family: ui-monospace, monospace;
+  color: #64748b;
+  letter-spacing: 0.05em;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.opacity-0 {
+  opacity: 0;
+}
+
+.opacity-100 {
+  opacity: 1;
+}
+
+/* Animations for staggered entrance sequencing */
+@keyframes logoFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes textFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes scaleFadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* Full access transitions screen flash overlay */
+.loading-screen__transition-overlay {
+  position: absolute;
+  inset: 0;
+  z-index: 100;
+  background-color: rgba(3, 7, 18, 0.95);
+  animation: overlayFlash 0.5s ease-out forwards;
+}
+
+@keyframes overlayFlash {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* Responsive constraints on mobile screens */
+@media (max-width: 640px) {
+  .loading-screen__title {
+    font-size: 1.75rem;
+    letter-spacing: 0.2em;
+    text-indent: 0.2em;
+  }
+  .loading-screen__tagline {
+    font-size: 0.75rem;
+  }
+  .loading-screen__progress-wrapper {
+    max-width: 320px;
+  }
+}

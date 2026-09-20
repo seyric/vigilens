@@ -1,0 +1,2271 @@
+{
+  "clean_fir_text": [
+    "fir 2026 67638 deepa hegde case case 2026 46410 identity theft reported",
+    "fir 2025 81290 shruthi shetty case case 2024 54061 burglary reported",
+    "fir 2019 15116 meera sharma case case 2025 15799 assault reported",
+    "fir 2024 16511 siddharth reddy case case 2025 66895 mobile theft reported",
+    "fir 2026 86923 meera sharma case case 2021 22011 financial fraud reported",
+    "fir 2026 55243 ananya hegde case case 2021 90950 burglary reported",
+    "fir 2022 91217 prakash sharma case case 2022 30360 cyber crime reported",
+    "fir 2026 64356 lakshmi shetty case case 2023 35934 chain snatching reported",
+    "fir 2023 56114 arjun hegde case case 2020 60718 robbery reported",
+    "fir 2021 61608 kavya reddy case case 2024 15965 identity theft reported",
+    "fir 2024 69447 prakash sharma case case 2020 24619 online scam reported",
+    "fir 2020 22052 rohan shetty case case 2020 55252 kidnapping reported",
+    "fir 2017 50380 harish sharma case case 2026 63535 kidnapping reported",
+    "fir 2018 90472 divya murthy case case 2025 57744 financial fraud reported",
+    "fir 2024 88215 rohan shetty case case 2023 78233 missing person reported",
+    "fir 2022 49240 nandini murthy case case 2024 76881 vehicle theft reported",
+    "fir 2021 91412 siddharth reddy case case 2020 77853 missing person reported",
+    "fir 2021 61396 vikram murthy case case 2020 37151 mobile theft reported",
+    "fir 2021 91596 pooja sharma case case 2023 78737 vehicle theft reported",
+    "fir 2021 23854 shruthi shetty case case 2021 58100 assault reported",
+    "fir 2025 74438 manoj murthy case case 2025 64613 robbery reported",
+    "fir 2024 74835 arjun hegde case case 2022 48506 murder reported",
+    "fir 2026 13163 rahul hegde case case 2026 71546 mobile theft reported",
+    "fir 2024 36691 aishwarya reddy case case 2020 66653 burglary reported",
+    "fir 2017 81073 vikram murthy case case 2025 99497 online scam reported",
+    "fir 2022 41237 ananya hegde case case 2023 92284 drug trafficking reported",
+    "fir 2026 25064 kiran shetty case case 2025 37119 cyber crime reported",
+    "fir 2017 65410 nandini murthy case case 2022 50461 drug trafficking reported",
+    "fir 2022 80648 aarav reddy case case 2022 49683 murder reported",
+    "fir 2025 53803 kavya reddy case case 2023 29285 chain snatching reported"
+  ],
+  "ocr_processed_fields": [
+    {
+      "fir_number": "FIR/2026/67638",
+      "complainant_name": "Deepa Hegde",
+      "status": "Pending Trial",
+      "district_name": "Udupi"
+    },
+    {
+      "fir_number": "FIR/2025/81290",
+      "complainant_name": "Shruthi Shetty",
+      "status": "Under Investigation",
+      "district_name": "Belagavi"
+    },
+    {
+      "fir_number": "FIR/2019/15116",
+      "complainant_name": "Meera Sharma",
+      "status": "Pending Trial",
+      "district_name": "Kalaburagi"
+    },
+    {
+      "fir_number": "FIR/2024/16511",
+      "complainant_name": "Siddharth Reddy",
+      "status": "Charge Sheet Filed",
+      "district_name": "Mysuru"
+    },
+    {
+      "fir_number": "FIR/2026/86923",
+      "complainant_name": "Meera Sharma",
+      "status": "Pending Trial",
+      "district_name": "Udupi"
+    },
+    {
+      "fir_number": "FIR/2026/55243",
+      "complainant_name": "Ananya Hegde",
+      "status": "Under Investigation",
+      "district_name": "Kodagu"
+    },
+    {
+      "fir_number": "FIR/2022/91217",
+      "complainant_name": "Prakash Sharma",
+      "status": "Registered",
+      "district_name": "Dakshina Kannada"
+    },
+    {
+      "fir_number": "FIR/2026/64356",
+      "complainant_name": "Lakshmi Shetty",
+      "status": "Pending Trial",
+      "district_name": "Udupi"
+    },
+    {
+      "fir_number": "FIR/2023/56114",
+      "complainant_name": "Arjun Hegde",
+      "status": "Charge Sheet Filed",
+      "district_name": "Shivamogga"
+    },
+    {
+      "fir_number": "FIR/2021/61608",
+      "complainant_name": "Kavya Reddy",
+      "status": "Under Investigation",
+      "district_name": "Kodagu"
+    },
+    {
+      "fir_number": "FIR/2024/69447",
+      "complainant_name": "Prakash Sharma",
+      "status": "Registered",
+      "district_name": "Bengaluru Urban"
+    },
+    {
+      "fir_number": "FIR/2020/22052",
+      "complainant_name": "Rohan Shetty",
+      "status": "Registered",
+      "district_name": "Dakshina Kannada"
+    },
+    {
+      "fir_number": "FIR/2017/50380",
+      "complainant_name": "Harish Sharma",
+      "status": "Charge Sheet Filed",
+      "district_name": "Shivamogga"
+    },
+    {
+      "fir_number": "FIR/2018/90472",
+      "complainant_name": "Divya Murthy",
+      "status": "Under Investigation",
+      "district_name": "Kodagu"
+    },
+    {
+      "fir_number": "FIR/2024/88215",
+      "complainant_name": "Rohan Shetty",
+      "status": "Registered",
+      "district_name": "Bengaluru Urban"
+    },
+    {
+      "fir_number": "FIR/2022/49240",
+      "complainant_name": "Nandini Murthy",
+      "status": "Pending Trial",
+      "district_name": "Udupi"
+    },
+    {
+      "fir_number": "FIR/2021/91412",
+      "complainant_name": "Siddharth Reddy",
+      "status": "Charge Sheet Filed",
+      "district_name": "Shivamogga"
+    },
+    {
+      "fir_number": "FIR/2021/61396",
+      "complainant_name": "Vikram Murthy",
+      "status": "Charge Sheet Filed",
+      "district_name": "Shivamogga"
+    },
+    {
+      "fir_number": "FIR/2021/91596",
+      "complainant_name": "Pooja Sharma",
+      "status": "Under Investigation",
+      "district_name": "Belagavi"
+    },
+    {
+      "fir_number": "FIR/2021/23854",
+      "complainant_name": "Shruthi Shetty",
+      "status": "Under Investigation",
+      "district_name": "Kodagu"
+    },
+    {
+      "fir_number": "FIR/2025/74438",
+      "complainant_name": "Manoj Murthy",
+      "status": "Registered",
+      "district_name": "Dakshina Kannada"
+    },
+    {
+      "fir_number": "FIR/2024/74835",
+      "complainant_name": "Arjun Hegde",
+      "status": "Charge Sheet Filed",
+      "district_name": "Mysuru"
+    },
+    {
+      "fir_number": "FIR/2026/13163",
+      "complainant_name": "Rahul Hegde",
+      "status": "Registered",
+      "district_name": "Bengaluru Urban"
+    },
+    {
+      "fir_number": "FIR/2024/36691",
+      "complainant_name": "Aishwarya Reddy",
+      "status": "Pending Trial",
+      "district_name": "Kalaburagi"
+    },
+    {
+      "fir_number": "FIR/2017/81073",
+      "complainant_name": "Vikram Murthy",
+      "status": "Charge Sheet Filed",
+      "district_name": "Mysuru"
+    },
+    {
+      "fir_number": "FIR/2022/41237",
+      "complainant_name": "Ananya Hegde",
+      "status": "Under Investigation",
+      "district_name": "Belagavi"
+    },
+    {
+      "fir_number": "FIR/2026/25064",
+      "complainant_name": "Kiran Shetty",
+      "status": "Charge Sheet Filed",
+      "district_name": "Mysuru"
+    },
+    {
+      "fir_number": "FIR/2017/65410",
+      "complainant_name": "Nandini Murthy",
+      "status": "Pending Trial",
+      "district_name": "Kalaburagi"
+    },
+    {
+      "fir_number": "FIR/2022/80648",
+      "complainant_name": "Aarav Reddy",
+      "status": "Registered",
+      "district_name": "Dakshina Kannada"
+    },
+    {
+      "fir_number": "FIR/2025/53803",
+      "complainant_name": "Kavya Reddy",
+      "status": "Under Investigation",
+      "district_name": "Belagavi"
+    }
+  ],
+  "crime_metadata": [
+    {
+      "crime_id": "2bf77d79-3cce-457c-aff8-ee333b39f382",
+      "fir_number": "FIR/2026/64356",
+      "category_name": "Chain Snatching",
+      "severity": "Medium",
+      "district_name": "Udupi",
+      "reported_at": "2023-08-03T17:03:27+00:00"
+    },
+    {
+      "crime_id": "31b0774f-15eb-45db-8478-805e16525173",
+      "fir_number": "FIR/2025/53803",
+      "category_name": "Chain Snatching",
+      "severity": "Medium",
+      "district_name": "Belagavi",
+      "reported_at": "2016-10-28T17:19:27+00:00"
+    },
+    {
+      "crime_id": "5108bc79-50c7-4110-a7fc-63a237d3b0e3",
+      "fir_number": "FIR/2019/15116",
+      "category_name": "Assault",
+      "severity": "Medium",
+      "district_name": "Kalaburagi",
+      "reported_at": "2024-08-26T22:18:27+00:00"
+    },
+    {
+      "crime_id": "92db8a73-953c-4507-9ca4-682a39377ba1",
+      "fir_number": "FIR/2021/23854",
+      "category_name": "Assault",
+      "severity": "Medium",
+      "district_name": "Kodagu",
+      "reported_at": "2020-10-01T10:08:27+00:00"
+    },
+    {
+      "crime_id": "eb09a057-726d-4fe4-bd3d-1a53fc0f66d5",
+      "fir_number": "FIR/2018/90472",
+      "category_name": "Financial Fraud",
+      "severity": "Medium",
+      "district_name": "Kodagu",
+      "reported_at": "2021-06-20T03:04:27+00:00"
+    },
+    {
+      "crime_id": "e84e8eba-e81b-4e97-956f-736e58c3d902",
+      "fir_number": "FIR/2026/86923",
+      "category_name": "Financial Fraud",
+      "severity": "Medium",
+      "district_name": "Udupi",
+      "reported_at": "2024-05-13T19:47:27+00:00"
+    },
+    {
+      "crime_id": "e8db3db0-9b46-4989-802e-85b9f97595a7",
+      "fir_number": "FIR/2017/50380",
+      "category_name": "Kidnapping",
+      "severity": "Medium",
+      "district_name": "Shivamogga",
+      "reported_at": "2021-11-01T12:33:27+00:00"
+    },
+    {
+      "crime_id": "5f71d838-ae3d-4f21-a209-64143ca81937",
+      "fir_number": "FIR/2020/22052",
+      "category_name": "Kidnapping",
+      "severity": "Medium",
+      "district_name": "Dakshina Kannada",
+      "reported_at": "2022-01-29T07:52:27+00:00"
+    },
+    {
+      "crime_id": "a9c80168-1fa9-4dd8-b01a-8038096740f1",
+      "fir_number": "FIR/2022/49240",
+      "category_name": "Vehicle Theft",
+      "severity": "Medium",
+      "district_name": "Udupi",
+      "reported_at": "2021-04-04T22:24:27+00:00"
+    },
+    {
+      "crime_id": "6a140cd1-5cfe-4e23-99a7-e21c9eabd0ac",
+      "fir_number": "FIR/2021/91596",
+      "category_name": "Vehicle Theft",
+      "severity": "Medium",
+      "district_name": "Belagavi",
+      "reported_at": "2021-01-03T09:41:27+00:00"
+    },
+    {
+      "crime_id": "aadaa36a-8dcd-4bd6-a468-077ceec70cd8",
+      "fir_number": "FIR/2017/81073",
+      "category_name": "Online Scam",
+      "severity": "Medium",
+      "district_name": "Mysuru",
+      "reported_at": "2018-08-30T21:48:27+00:00"
+    },
+    {
+      "crime_id": "c7792b5c-68e7-42dd-a24b-216028a341d2",
+      "fir_number": "FIR/2024/69447",
+      "category_name": "Online Scam",
+      "severity": "Medium",
+      "district_name": "Bengaluru Urban",
+      "reported_at": "2023-01-20T06:59:27+00:00"
+    },
+    {
+      "crime_id": "78ae4b1c-7423-4719-9995-209ad73abb43",
+      "fir_number": "FIR/2022/41237",
+      "category_name": "Drug Trafficking",
+      "severity": "Medium",
+      "district_name": "Belagavi",
+      "reported_at": "2018-01-25T13:03:27+00:00"
+    },
+    {
+      "crime_id": "dec9a06b-5e83-4ea0-b6f7-b86697420b99",
+      "fir_number": "FIR/2017/65410",
+      "category_name": "Drug Trafficking",
+      "severity": "Medium",
+      "district_name": "Kalaburagi",
+      "reported_at": "2017-04-19T02:55:27+00:00"
+    },
+    {
+      "crime_id": "e65cb713-2ad2-4d4b-9e90-2c10bfe406f3",
+      "fir_number": "FIR/2022/91217",
+      "category_name": "Cyber Crime",
+      "severity": "Medium",
+      "district_name": "Dakshina Kannada",
+      "reported_at": "2023-08-17T00:11:27+00:00"
+    },
+    {
+      "crime_id": "56a664d8-4bb9-406a-afff-5bb2a45634cc",
+      "fir_number": "FIR/2026/25064",
+      "category_name": "Cyber Crime",
+      "severity": "Medium",
+      "district_name": "Mysuru",
+      "reported_at": "2017-11-22T13:15:27+00:00"
+    },
+    {
+      "crime_id": "f75e499c-51f4-42e3-8b45-0b749f0c8361",
+      "fir_number": "FIR/2021/61608",
+      "category_name": "Identity Theft",
+      "severity": "Medium",
+      "district_name": "Kodagu",
+      "reported_at": "2023-02-05T12:28:27+00:00"
+    },
+    {
+      "crime_id": "1b5682da-cb39-4900-a8e1-2e9bc525e003",
+      "fir_number": "FIR/2026/67638",
+      "category_name": "Identity Theft",
+      "severity": "Medium",
+      "district_name": "Udupi",
+      "reported_at": "2025-12-15T12:16:27+00:00"
+    },
+    {
+      "crime_id": "2dbc192e-7b0a-47ca-8f4b-fff03f5ae4c4",
+      "fir_number": "FIR/2025/81290",
+      "category_name": "Burglary",
+      "severity": "Medium",
+      "district_name": "Belagavi",
+      "reported_at": "2025-07-14T19:26:27+00:00"
+    },
+    {
+      "crime_id": "ee621ac5-2239-42c9-b9be-2936c3a3c91e",
+      "fir_number": "FIR/2024/36691",
+      "category_name": "Burglary",
+      "severity": "Medium",
+      "district_name": "Kalaburagi",
+      "reported_at": "2019-03-03T05:32:27+00:00"
+    },
+    {
+      "crime_id": "d92cf90b-bbe8-47b5-a2cf-2c411c9bf465",
+      "fir_number": "FIR/2026/55243",
+      "category_name": "Burglary",
+      "severity": "Medium",
+      "district_name": "Kodagu",
+      "reported_at": "2024-03-26T16:59:27+00:00"
+    },
+    {
+      "crime_id": "c6ae9036-5db5-4e26-8b7d-43da5412f855",
+      "fir_number": "FIR/2023/56114",
+      "category_name": "Robbery",
+      "severity": "Medium",
+      "district_name": "Shivamogga",
+      "reported_at": "2023-03-25T21:52:27+00:00"
+    },
+    {
+      "crime_id": "dcf259a8-1a56-4bf1-9bf1-bc9cafbe735d",
+      "fir_number": "FIR/2025/74438",
+      "category_name": "Robbery",
+      "severity": "Medium",
+      "district_name": "Dakshina Kannada",
+      "reported_at": "2020-07-03T09:18:27+00:00"
+    },
+    {
+      "crime_id": "12296f05-5ff9-48f4-b1ec-e86a7693e518",
+      "fir_number": "FIR/2022/80648",
+      "category_name": "Murder",
+      "severity": "High",
+      "district_name": "Dakshina Kannada",
+      "reported_at": "2017-03-23T04:06:27+00:00"
+    },
+    {
+      "crime_id": "0add5353-3563-4e82-843e-09ef9e918538",
+      "fir_number": "FIR/2024/74835",
+      "category_name": "Murder",
+      "severity": "High",
+      "district_name": "Mysuru",
+      "reported_at": "2020-05-29T08:19:27+00:00"
+    },
+    {
+      "crime_id": "7442f66e-d971-4b9f-beb4-8e2d94d02324",
+      "fir_number": "FIR/2024/88215",
+      "category_name": "Missing Person",
+      "severity": "Medium",
+      "district_name": "Bengaluru Urban",
+      "reported_at": "2021-04-06T05:45:27+00:00"
+    },
+    {
+      "crime_id": "8f2d70aa-1631-4bdb-992f-2e705a3bab0f",
+      "fir_number": "FIR/2021/91412",
+      "category_name": "Missing Person",
+      "severity": "Medium",
+      "district_name": "Shivamogga",
+      "reported_at": "2021-02-19T07:01:27+00:00"
+    },
+    {
+      "crime_id": "3e142b0f-742d-4df9-9fff-d94737aaafde",
+      "fir_number": "FIR/2024/16511",
+      "category_name": "Mobile Theft",
+      "severity": "Medium",
+      "district_name": "Mysuru",
+      "reported_at": "2024-07-16T18:07:27+00:00"
+    },
+    {
+      "crime_id": "4a80c865-d458-4fc0-9da4-e80dd648cbc1",
+      "fir_number": "FIR/2026/13163",
+      "category_name": "Mobile Theft",
+      "severity": "Medium",
+      "district_name": "Bengaluru Urban",
+      "reported_at": "2019-05-27T09:32:27+00:00"
+    },
+    {
+      "crime_id": "f63dab93-3f2f-4903-892b-297525be6ac7",
+      "fir_number": "FIR/2021/61396",
+      "category_name": "Mobile Theft",
+      "severity": "Medium",
+      "district_name": "Shivamogga",
+      "reported_at": "2021-01-16T14:06:27+00:00"
+    }
+  ],
+  "evidence_metadata": [
+    {
+      "evidence_id": "a9678ef1-e069-49d5-b503-cb1e81b7e54e",
+      "evidence_type": "Physical",
+      "evidence_subtype": "DNA Sample",
+      "storage_location": "Evidence Room",
+      "collected_by": "IO Dharwad"
+    },
+    {
+      "evidence_id": "3e3d92b1-3b38-4463-9c1d-3bba06f7f558",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Fingerprints",
+      "storage_location": "Evidence Room",
+      "collected_by": "IO Dharwad"
+    },
+    {
+      "evidence_id": "b75926eb-41a3-4da1-8518-36dd07c16f00",
+      "evidence_type": "Physical",
+      "evidence_subtype": "CCTV Footage",
+      "storage_location": "Evidence Room",
+      "collected_by": "IO Dharwad"
+    },
+    {
+      "evidence_id": "b70d938b-810a-424b-b872-ae12913a7ec9",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Vehicle",
+      "storage_location": "Evidence Room",
+      "collected_by": "IO Dharwad"
+    },
+    {
+      "evidence_id": "c2fcd3a4-a79b-4253-b636-52daa56df1b3",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Audio Recording",
+      "storage_location": "Evidence Room",
+      "collected_by": "IO Dharwad"
+    },
+    {
+      "evidence_id": "bd764274-fd20-4089-bbd3-1cf3fff7f84b",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Photographs",
+      "storage_location": "Evidence Room",
+      "collected_by": "IO Dharwad"
+    },
+    {
+      "evidence_id": "e03cd565-a072-4bc8-9c9a-6e89029a4e3c",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Bank Statements",
+      "storage_location": "Evidence Room",
+      "collected_by": "IO Dharwad"
+    },
+    {
+      "evidence_id": "cee8b961-ccd2-4c9e-8eb0-71a73684343d",
+      "evidence_type": "Physical",
+      "evidence_subtype": "USB Drive",
+      "storage_location": "Evidence Room",
+      "collected_by": "IO Dharwad"
+    },
+    {
+      "evidence_id": "f72405a3-6632-4a73-93f3-a0765f5d1e56",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Hard Disk",
+      "storage_location": "Evidence Room",
+      "collected_by": "IO Dharwad"
+    },
+    {
+      "evidence_id": "2fe075be-aa2d-48b9-a4f2-b54359222f3a",
+      "evidence_type": "Physical",
+      "evidence_subtype": "SIM Card",
+      "storage_location": "Evidence Room",
+      "collected_by": "IO Dharwad"
+    },
+    {
+      "evidence_id": "b6ac0bc1-7d75-42af-8652-e306f7d72dd4",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Mobile Phone",
+      "storage_location": "Evidence Room",
+      "collected_by": "IO Dharwad"
+    },
+    {
+      "evidence_id": "16f62e55-8809-497e-a42f-41217ecaaa07",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Laptop",
+      "storage_location": "Evidence Room",
+      "collected_by": "IO Dharwad"
+    },
+    {
+      "evidence_id": "676ba625-95f0-41b6-a1e9-3c933a36f778",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Weapon",
+      "storage_location": "Evidence Room",
+      "collected_by": "IO Dharwad"
+    },
+    {
+      "evidence_id": "e723306c-511f-48c3-99dd-32097af1bba5",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Blood Sample",
+      "storage_location": "Evidence Room",
+      "collected_by": "IO Dharwad"
+    },
+    {
+      "evidence_id": "3628f883-6a89-4460-9c25-65dac8c33613",
+      "evidence_type": "Physical",
+      "evidence_subtype": "DNA Sample",
+      "storage_location": "Evidence Room",
+      "collected_by": "IO Dharwad"
+    },
+    {
+      "evidence_id": "ce0ae7dc-a4c7-41eb-a250-040559013aa8",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Fingerprints",
+      "storage_location": "Evidence Room",
+      "collected_by": "IO Dharwad"
+    },
+    {
+      "evidence_id": "c488bf99-46c6-4766-b2b4-fa61f03e96ab",
+      "evidence_type": "Physical",
+      "evidence_subtype": "CCTV Footage",
+      "storage_location": "Evidence Room",
+      "collected_by": "IO Dharwad"
+    },
+    {
+      "evidence_id": "fd2941ba-a6a9-43c0-a6ec-811e21f49ccd",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Vehicle",
+      "storage_location": "Evidence Room",
+      "collected_by": "IO Dharwad"
+    },
+    {
+      "evidence_id": "97d71fd6-3990-44af-a369-5bb03edddee2",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Audio Recording",
+      "storage_location": "Evidence Room",
+      "collected_by": "IO Dharwad"
+    },
+    {
+      "evidence_id": "4ac6562c-2e25-465d-a70a-2c5873832fe1",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Photographs",
+      "storage_location": "Evidence Room",
+      "collected_by": "IO Dharwad"
+    },
+    {
+      "evidence_id": "f1a6db14-be22-4704-93ef-60e7a8ed6c33",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Bank Statements",
+      "storage_location": "Evidence Room",
+      "collected_by": "IO Dharwad"
+    },
+    {
+      "evidence_id": "5661c48b-9e7f-4d61-a4c1-05216c3c9ea4",
+      "evidence_type": "Physical",
+      "evidence_subtype": "USB Drive",
+      "storage_location": "Evidence Room",
+      "collected_by": "IO Dharwad"
+    },
+    {
+      "evidence_id": "d8dde326-e2fd-4d43-9557-ef33916c93ec",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Hard Disk",
+      "storage_location": "Evidence Room",
+      "collected_by": "IO Dharwad"
+    },
+    {
+      "evidence_id": "86de0405-0e5a-4570-af82-a2b035a5eebb",
+      "evidence_type": "Physical",
+      "evidence_subtype": "SIM Card",
+      "storage_location": "Evidence Room",
+      "collected_by": "IO Dharwad"
+    },
+    {
+      "evidence_id": "218e7b1d-8cc8-4c69-bfdf-6f41cb4d6b7f",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Mobile Phone",
+      "storage_location": "Evidence Room",
+      "collected_by": "IO Dharwad"
+    },
+    {
+      "evidence_id": "2fe7d72b-b576-4f82-9e25-b619c7301889",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Laptop",
+      "storage_location": "Evidence Room",
+      "collected_by": "IO Dharwad"
+    },
+    {
+      "evidence_id": "2796ea8e-df0b-4b49-a229-154f48779337",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Weapon",
+      "storage_location": "Evidence Room",
+      "collected_by": "IO Dharwad"
+    },
+    {
+      "evidence_id": "3b0b4edd-4a90-4bd7-83d1-e314e3c5c4dd",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Blood Sample",
+      "storage_location": "Evidence Room",
+      "collected_by": "IO Dharwad"
+    },
+    {
+      "evidence_id": "595fec58-cdf1-48c6-8857-32843c7d70c3",
+      "evidence_type": "Physical",
+      "evidence_subtype": "DNA Sample",
+      "storage_location": "Evidence Room",
+      "collected_by": "IO Dharwad"
+    },
+    {
+      "evidence_id": "a885e543-13fd-4c4e-9454-bd2d6341cfe8",
+      "evidence_type": "Physical",
+      "evidence_subtype": "Fingerprints",
+      "storage_location": "Evidence Room",
+      "collected_by": "IO Dharwad"
+    }
+  ],
+  "investigation_metadata": [],
+  "historical_crime_records": [
+    {
+      "crime_id": "2bf77d79-3cce-457c-aff8-ee333b39f382",
+      "severity": "Medium",
+      "reported_at": "2023-08-03T17:03:27+00:00",
+      "category_name": "Chain Snatching",
+      "district_name": "Udupi",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "31b0774f-15eb-45db-8478-805e16525173",
+      "severity": "Medium",
+      "reported_at": "2016-10-28T17:19:27+00:00",
+      "category_name": "Chain Snatching",
+      "district_name": "Belagavi",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "5108bc79-50c7-4110-a7fc-63a237d3b0e3",
+      "severity": "Medium",
+      "reported_at": "2024-08-26T22:18:27+00:00",
+      "category_name": "Assault",
+      "district_name": "Kalaburagi",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "92db8a73-953c-4507-9ca4-682a39377ba1",
+      "severity": "Medium",
+      "reported_at": "2020-10-01T10:08:27+00:00",
+      "category_name": "Assault",
+      "district_name": "Kodagu",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "eb09a057-726d-4fe4-bd3d-1a53fc0f66d5",
+      "severity": "Medium",
+      "reported_at": "2021-06-20T03:04:27+00:00",
+      "category_name": "Financial Fraud",
+      "district_name": "Kodagu",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "e84e8eba-e81b-4e97-956f-736e58c3d902",
+      "severity": "Medium",
+      "reported_at": "2024-05-13T19:47:27+00:00",
+      "category_name": "Financial Fraud",
+      "district_name": "Udupi",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "e8db3db0-9b46-4989-802e-85b9f97595a7",
+      "severity": "Medium",
+      "reported_at": "2021-11-01T12:33:27+00:00",
+      "category_name": "Kidnapping",
+      "district_name": "Shivamogga",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "5f71d838-ae3d-4f21-a209-64143ca81937",
+      "severity": "Medium",
+      "reported_at": "2022-01-29T07:52:27+00:00",
+      "category_name": "Kidnapping",
+      "district_name": "Dakshina Kannada",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "a9c80168-1fa9-4dd8-b01a-8038096740f1",
+      "severity": "Medium",
+      "reported_at": "2021-04-04T22:24:27+00:00",
+      "category_name": "Vehicle Theft",
+      "district_name": "Udupi",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "6a140cd1-5cfe-4e23-99a7-e21c9eabd0ac",
+      "severity": "Medium",
+      "reported_at": "2021-01-03T09:41:27+00:00",
+      "category_name": "Vehicle Theft",
+      "district_name": "Belagavi",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "aadaa36a-8dcd-4bd6-a468-077ceec70cd8",
+      "severity": "Medium",
+      "reported_at": "2018-08-30T21:48:27+00:00",
+      "category_name": "Online Scam",
+      "district_name": "Mysuru",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "c7792b5c-68e7-42dd-a24b-216028a341d2",
+      "severity": "Medium",
+      "reported_at": "2023-01-20T06:59:27+00:00",
+      "category_name": "Online Scam",
+      "district_name": "Bengaluru Urban",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "78ae4b1c-7423-4719-9995-209ad73abb43",
+      "severity": "Medium",
+      "reported_at": "2018-01-25T13:03:27+00:00",
+      "category_name": "Drug Trafficking",
+      "district_name": "Belagavi",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "dec9a06b-5e83-4ea0-b6f7-b86697420b99",
+      "severity": "Medium",
+      "reported_at": "2017-04-19T02:55:27+00:00",
+      "category_name": "Drug Trafficking",
+      "district_name": "Kalaburagi",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "e65cb713-2ad2-4d4b-9e90-2c10bfe406f3",
+      "severity": "Medium",
+      "reported_at": "2023-08-17T00:11:27+00:00",
+      "category_name": "Cyber Crime",
+      "district_name": "Dakshina Kannada",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "56a664d8-4bb9-406a-afff-5bb2a45634cc",
+      "severity": "Medium",
+      "reported_at": "2017-11-22T13:15:27+00:00",
+      "category_name": "Cyber Crime",
+      "district_name": "Mysuru",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "f75e499c-51f4-42e3-8b45-0b749f0c8361",
+      "severity": "Medium",
+      "reported_at": "2023-02-05T12:28:27+00:00",
+      "category_name": "Identity Theft",
+      "district_name": "Kodagu",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "1b5682da-cb39-4900-a8e1-2e9bc525e003",
+      "severity": "Medium",
+      "reported_at": "2025-12-15T12:16:27+00:00",
+      "category_name": "Identity Theft",
+      "district_name": "Udupi",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "2dbc192e-7b0a-47ca-8f4b-fff03f5ae4c4",
+      "severity": "Medium",
+      "reported_at": "2025-07-14T19:26:27+00:00",
+      "category_name": "Burglary",
+      "district_name": "Belagavi",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "ee621ac5-2239-42c9-b9be-2936c3a3c91e",
+      "severity": "Medium",
+      "reported_at": "2019-03-03T05:32:27+00:00",
+      "category_name": "Burglary",
+      "district_name": "Kalaburagi",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "d92cf90b-bbe8-47b5-a2cf-2c411c9bf465",
+      "severity": "Medium",
+      "reported_at": "2024-03-26T16:59:27+00:00",
+      "category_name": "Burglary",
+      "district_name": "Kodagu",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "c6ae9036-5db5-4e26-8b7d-43da5412f855",
+      "severity": "Medium",
+      "reported_at": "2023-03-25T21:52:27+00:00",
+      "category_name": "Robbery",
+      "district_name": "Shivamogga",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "dcf259a8-1a56-4bf1-9bf1-bc9cafbe735d",
+      "severity": "Medium",
+      "reported_at": "2020-07-03T09:18:27+00:00",
+      "category_name": "Robbery",
+      "district_name": "Dakshina Kannada",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "12296f05-5ff9-48f4-b1ec-e86a7693e518",
+      "severity": "High",
+      "reported_at": "2017-03-23T04:06:27+00:00",
+      "category_name": "Murder",
+      "district_name": "Dakshina Kannada",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "0add5353-3563-4e82-843e-09ef9e918538",
+      "severity": "High",
+      "reported_at": "2020-05-29T08:19:27+00:00",
+      "category_name": "Murder",
+      "district_name": "Mysuru",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "7442f66e-d971-4b9f-beb4-8e2d94d02324",
+      "severity": "Medium",
+      "reported_at": "2021-04-06T05:45:27+00:00",
+      "category_name": "Missing Person",
+      "district_name": "Bengaluru Urban",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "8f2d70aa-1631-4bdb-992f-2e705a3bab0f",
+      "severity": "Medium",
+      "reported_at": "2021-02-19T07:01:27+00:00",
+      "category_name": "Missing Person",
+      "district_name": "Shivamogga",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "3e142b0f-742d-4df9-9fff-d94737aaafde",
+      "severity": "Medium",
+      "reported_at": "2024-07-16T18:07:27+00:00",
+      "category_name": "Mobile Theft",
+      "district_name": "Mysuru",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "4a80c865-d458-4fc0-9da4-e80dd648cbc1",
+      "severity": "Medium",
+      "reported_at": "2019-05-27T09:32:27+00:00",
+      "category_name": "Mobile Theft",
+      "district_name": "Bengaluru Urban",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "f63dab93-3f2f-4903-892b-297525be6ac7",
+      "severity": "Medium",
+      "reported_at": "2021-01-16T14:06:27+00:00",
+      "category_name": "Mobile Theft",
+      "district_name": "Shivamogga",
+      "station_type": "PS"
+    }
+  ],
+  "district_statistics": [
+    {
+      "district_id": "f5e6c116-26a0-4ada-bb5c-12eb769f0e03",
+      "district_name": "Belagavi",
+      "region": "Karnataka",
+      "headquarters": "Belagavi",
+      "total_crimes": 4,
+      "crime_categories": [
+        "Chain Snatching",
+        "Vehicle Theft",
+        "Drug Trafficking",
+        "Burglary"
+      ],
+      "crime_growth": 0.0,
+      "solved_cases": 0,
+      "active_cases": 4,
+      "crime_density": 4.0,
+      "arrest_rate": 0.0,
+      "risk_score": 44.0,
+      "fir_count": 4,
+      "station_count": 1,
+      "officer_count": 1
+    },
+    {
+      "district_id": "3903135e-abb2-4b2d-b330-f480703fb3e1",
+      "district_name": "Bengaluru Urban",
+      "region": "Karnataka",
+      "headquarters": "Bengaluru Urban",
+      "total_crimes": 3,
+      "crime_categories": [
+        "Missing Person",
+        "Mobile Theft",
+        "Online Scam"
+      ],
+      "crime_growth": 0.0,
+      "solved_cases": 0,
+      "active_cases": 3,
+      "crime_density": 3.0,
+      "arrest_rate": 0.0,
+      "risk_score": 33.5,
+      "fir_count": 3,
+      "station_count": 1,
+      "officer_count": 2
+    },
+    {
+      "district_id": "c28e3f98-159e-4dcd-a6f9-80c23a6f6d11",
+      "district_name": "Dakshina Kannada",
+      "region": "Karnataka",
+      "headquarters": "Dakshina Kannada",
+      "total_crimes": 4,
+      "crime_categories": [
+        "Robbery",
+        "Murder",
+        "Kidnapping",
+        "Cyber Crime"
+      ],
+      "crime_growth": 0.0,
+      "solved_cases": 0,
+      "active_cases": 4,
+      "crime_density": 4.0,
+      "arrest_rate": 0.0,
+      "risk_score": 44.0,
+      "fir_count": 4,
+      "station_count": 1,
+      "officer_count": 1
+    },
+    {
+      "district_id": "0e68fc9c-487f-45ab-aa0b-748355b102f2",
+      "district_name": "Dharwad",
+      "region": "Karnataka",
+      "headquarters": "Dharwad",
+      "total_crimes": 0,
+      "crime_categories": [],
+      "crime_growth": 0.0,
+      "solved_cases": 0,
+      "active_cases": 0,
+      "crime_density": 0.0,
+      "arrest_rate": 0.0,
+      "risk_score": 0.0,
+      "fir_count": 0,
+      "station_count": 1,
+      "officer_count": 1
+    },
+    {
+      "district_id": "e9454ef3-ed08-4ccb-9f48-381792757022",
+      "district_name": "Kalaburagi",
+      "region": "Karnataka",
+      "headquarters": "Kalaburagi",
+      "total_crimes": 3,
+      "crime_categories": [
+        "Assault",
+        "Burglary",
+        "Drug Trafficking"
+      ],
+      "crime_growth": 0.0,
+      "solved_cases": 0,
+      "active_cases": 3,
+      "crime_density": 3.0,
+      "arrest_rate": 0.0,
+      "risk_score": 25.5,
+      "fir_count": 3,
+      "station_count": 1,
+      "officer_count": 1
+    },
+    {
+      "district_id": "325a5fde-0f5c-4bc2-8c7d-f28397e9f369",
+      "district_name": "Kodagu",
+      "region": "Karnataka",
+      "headquarters": "Kodagu",
+      "total_crimes": 4,
+      "crime_categories": [
+        "Identity Theft",
+        "Burglary",
+        "Assault",
+        "Financial Fraud"
+      ],
+      "crime_growth": 0.0,
+      "solved_cases": 0,
+      "active_cases": 4,
+      "crime_density": 4.0,
+      "arrest_rate": 0.0,
+      "risk_score": 44.0,
+      "fir_count": 4,
+      "station_count": 1,
+      "officer_count": 1
+    },
+    {
+      "district_id": "890913e3-714d-4964-8438-faaa2741fd13",
+      "district_name": "Mysuru",
+      "region": "Karnataka",
+      "headquarters": "Mysuru",
+      "total_crimes": 4,
+      "crime_categories": [
+        "Cyber Crime",
+        "Online Scam",
+        "Mobile Theft",
+        "Murder"
+      ],
+      "crime_growth": 0.0,
+      "solved_cases": 4,
+      "active_cases": 0,
+      "crime_density": 4.0,
+      "arrest_rate": 0.0,
+      "risk_score": 28.0,
+      "fir_count": 4,
+      "station_count": 1,
+      "officer_count": 1
+    },
+    {
+      "district_id": "ae812f5b-08ce-489a-a803-844b0cb04727",
+      "district_name": "Shivamogga",
+      "region": "Karnataka",
+      "headquarters": "Shivamogga",
+      "total_crimes": 4,
+      "crime_categories": [
+        "Mobile Theft",
+        "Robbery",
+        "Kidnapping",
+        "Missing Person"
+      ],
+      "crime_growth": -66.67,
+      "solved_cases": 4,
+      "active_cases": 0,
+      "crime_density": 4.0,
+      "arrest_rate": 0.0,
+      "risk_score": 28.0,
+      "fir_count": 4,
+      "station_count": 1,
+      "officer_count": 1
+    },
+    {
+      "district_id": "7874b33a-ef78-4a3c-8115-ced769665d41",
+      "district_name": "Tumakuru",
+      "region": "Karnataka",
+      "headquarters": "Tumakuru",
+      "total_crimes": 0,
+      "crime_categories": [],
+      "crime_growth": 0.0,
+      "solved_cases": 0,
+      "active_cases": 0,
+      "crime_density": 0.0,
+      "arrest_rate": 0.0,
+      "risk_score": 0.5,
+      "fir_count": 0,
+      "station_count": 0,
+      "officer_count": 1
+    },
+    {
+      "district_id": "c5e9d839-5f23-4ab2-8e32-771cf1a56307",
+      "district_name": "Udupi",
+      "region": "Karnataka",
+      "headquarters": "Udupi",
+      "total_crimes": 4,
+      "crime_categories": [
+        "Identity Theft",
+        "Financial Fraud",
+        "Vehicle Theft",
+        "Chain Snatching"
+      ],
+      "crime_growth": 0.0,
+      "solved_cases": 0,
+      "active_cases": 4,
+      "crime_density": 4.0,
+      "arrest_rate": 0.0,
+      "risk_score": 34.0,
+      "fir_count": 4,
+      "station_count": 1,
+      "officer_count": 1
+    }
+  ],
+  "structured_crime_summaries": [
+    {
+      "crime_id": "2bf77d79-3cce-457c-aff8-ee333b39f382",
+      "fir_number": "FIR/2026/64356",
+      "category_name": "Chain Snatching",
+      "district_name": "Udupi",
+      "status": "Pending Trial",
+      "severity": "Medium",
+      "summary_text": "Chain Snatching in Udupi with FIR FIR/2026/64356"
+    },
+    {
+      "crime_id": "31b0774f-15eb-45db-8478-805e16525173",
+      "fir_number": "FIR/2025/53803",
+      "category_name": "Chain Snatching",
+      "district_name": "Belagavi",
+      "status": "Under Investigation",
+      "severity": "Medium",
+      "summary_text": "Chain Snatching in Belagavi with FIR FIR/2025/53803"
+    },
+    {
+      "crime_id": "5108bc79-50c7-4110-a7fc-63a237d3b0e3",
+      "fir_number": "FIR/2019/15116",
+      "category_name": "Assault",
+      "district_name": "Kalaburagi",
+      "status": "Pending Trial",
+      "severity": "Medium",
+      "summary_text": "Assault in Kalaburagi with FIR FIR/2019/15116"
+    },
+    {
+      "crime_id": "92db8a73-953c-4507-9ca4-682a39377ba1",
+      "fir_number": "FIR/2021/23854",
+      "category_name": "Assault",
+      "district_name": "Kodagu",
+      "status": "Under Investigation",
+      "severity": "Medium",
+      "summary_text": "Assault in Kodagu with FIR FIR/2021/23854"
+    },
+    {
+      "crime_id": "eb09a057-726d-4fe4-bd3d-1a53fc0f66d5",
+      "fir_number": "FIR/2018/90472",
+      "category_name": "Financial Fraud",
+      "district_name": "Kodagu",
+      "status": "Under Investigation",
+      "severity": "Medium",
+      "summary_text": "Financial Fraud in Kodagu with FIR FIR/2018/90472"
+    },
+    {
+      "crime_id": "e84e8eba-e81b-4e97-956f-736e58c3d902",
+      "fir_number": "FIR/2026/86923",
+      "category_name": "Financial Fraud",
+      "district_name": "Udupi",
+      "status": "Pending Trial",
+      "severity": "Medium",
+      "summary_text": "Financial Fraud in Udupi with FIR FIR/2026/86923"
+    },
+    {
+      "crime_id": "e8db3db0-9b46-4989-802e-85b9f97595a7",
+      "fir_number": "FIR/2017/50380",
+      "category_name": "Kidnapping",
+      "district_name": "Shivamogga",
+      "status": "Charge Sheet Filed",
+      "severity": "Medium",
+      "summary_text": "Kidnapping in Shivamogga with FIR FIR/2017/50380"
+    },
+    {
+      "crime_id": "5f71d838-ae3d-4f21-a209-64143ca81937",
+      "fir_number": "FIR/2020/22052",
+      "category_name": "Kidnapping",
+      "district_name": "Dakshina Kannada",
+      "status": "Registered",
+      "severity": "Medium",
+      "summary_text": "Kidnapping in Dakshina Kannada with FIR FIR/2020/22052"
+    },
+    {
+      "crime_id": "a9c80168-1fa9-4dd8-b01a-8038096740f1",
+      "fir_number": "FIR/2022/49240",
+      "category_name": "Vehicle Theft",
+      "district_name": "Udupi",
+      "status": "Pending Trial",
+      "severity": "Medium",
+      "summary_text": "Vehicle Theft in Udupi with FIR FIR/2022/49240"
+    },
+    {
+      "crime_id": "6a140cd1-5cfe-4e23-99a7-e21c9eabd0ac",
+      "fir_number": "FIR/2021/91596",
+      "category_name": "Vehicle Theft",
+      "district_name": "Belagavi",
+      "status": "Under Investigation",
+      "severity": "Medium",
+      "summary_text": "Vehicle Theft in Belagavi with FIR FIR/2021/91596"
+    },
+    {
+      "crime_id": "aadaa36a-8dcd-4bd6-a468-077ceec70cd8",
+      "fir_number": "FIR/2017/81073",
+      "category_name": "Online Scam",
+      "district_name": "Mysuru",
+      "status": "Charge Sheet Filed",
+      "severity": "Medium",
+      "summary_text": "Online Scam in Mysuru with FIR FIR/2017/81073"
+    },
+    {
+      "crime_id": "c7792b5c-68e7-42dd-a24b-216028a341d2",
+      "fir_number": "FIR/2024/69447",
+      "category_name": "Online Scam",
+      "district_name": "Bengaluru Urban",
+      "status": "Registered",
+      "severity": "Medium",
+      "summary_text": "Online Scam in Bengaluru Urban with FIR FIR/2024/69447"
+    },
+    {
+      "crime_id": "78ae4b1c-7423-4719-9995-209ad73abb43",
+      "fir_number": "FIR/2022/41237",
+      "category_name": "Drug Trafficking",
+      "district_name": "Belagavi",
+      "status": "Under Investigation",
+      "severity": "Medium",
+      "summary_text": "Drug Trafficking in Belagavi with FIR FIR/2022/41237"
+    },
+    {
+      "crime_id": "dec9a06b-5e83-4ea0-b6f7-b86697420b99",
+      "fir_number": "FIR/2017/65410",
+      "category_name": "Drug Trafficking",
+      "district_name": "Kalaburagi",
+      "status": "Pending Trial",
+      "severity": "Medium",
+      "summary_text": "Drug Trafficking in Kalaburagi with FIR FIR/2017/65410"
+    },
+    {
+      "crime_id": "e65cb713-2ad2-4d4b-9e90-2c10bfe406f3",
+      "fir_number": "FIR/2022/91217",
+      "category_name": "Cyber Crime",
+      "district_name": "Dakshina Kannada",
+      "status": "Registered",
+      "severity": "Medium",
+      "summary_text": "Cyber Crime in Dakshina Kannada with FIR FIR/2022/91217"
+    },
+    {
+      "crime_id": "56a664d8-4bb9-406a-afff-5bb2a45634cc",
+      "fir_number": "FIR/2026/25064",
+      "category_name": "Cyber Crime",
+      "district_name": "Mysuru",
+      "status": "Charge Sheet Filed",
+      "severity": "Medium",
+      "summary_text": "Cyber Crime in Mysuru with FIR FIR/2026/25064"
+    },
+    {
+      "crime_id": "f75e499c-51f4-42e3-8b45-0b749f0c8361",
+      "fir_number": "FIR/2021/61608",
+      "category_name": "Identity Theft",
+      "district_name": "Kodagu",
+      "status": "Under Investigation",
+      "severity": "Medium",
+      "summary_text": "Identity Theft in Kodagu with FIR FIR/2021/61608"
+    },
+    {
+      "crime_id": "1b5682da-cb39-4900-a8e1-2e9bc525e003",
+      "fir_number": "FIR/2026/67638",
+      "category_name": "Identity Theft",
+      "district_name": "Udupi",
+      "status": "Pending Trial",
+      "severity": "Medium",
+      "summary_text": "Identity Theft in Udupi with FIR FIR/2026/67638"
+    },
+    {
+      "crime_id": "2dbc192e-7b0a-47ca-8f4b-fff03f5ae4c4",
+      "fir_number": "FIR/2025/81290",
+      "category_name": "Burglary",
+      "district_name": "Belagavi",
+      "status": "Under Investigation",
+      "severity": "Medium",
+      "summary_text": "Burglary in Belagavi with FIR FIR/2025/81290"
+    },
+    {
+      "crime_id": "ee621ac5-2239-42c9-b9be-2936c3a3c91e",
+      "fir_number": "FIR/2024/36691",
+      "category_name": "Burglary",
+      "district_name": "Kalaburagi",
+      "status": "Pending Trial",
+      "severity": "Medium",
+      "summary_text": "Burglary in Kalaburagi with FIR FIR/2024/36691"
+    },
+    {
+      "crime_id": "d92cf90b-bbe8-47b5-a2cf-2c411c9bf465",
+      "fir_number": "FIR/2026/55243",
+      "category_name": "Burglary",
+      "district_name": "Kodagu",
+      "status": "Under Investigation",
+      "severity": "Medium",
+      "summary_text": "Burglary in Kodagu with FIR FIR/2026/55243"
+    },
+    {
+      "crime_id": "c6ae9036-5db5-4e26-8b7d-43da5412f855",
+      "fir_number": "FIR/2023/56114",
+      "category_name": "Robbery",
+      "district_name": "Shivamogga",
+      "status": "Charge Sheet Filed",
+      "severity": "Medium",
+      "summary_text": "Robbery in Shivamogga with FIR FIR/2023/56114"
+    },
+    {
+      "crime_id": "dcf259a8-1a56-4bf1-9bf1-bc9cafbe735d",
+      "fir_number": "FIR/2025/74438",
+      "category_name": "Robbery",
+      "district_name": "Dakshina Kannada",
+      "status": "Registered",
+      "severity": "Medium",
+      "summary_text": "Robbery in Dakshina Kannada with FIR FIR/2025/74438"
+    },
+    {
+      "crime_id": "12296f05-5ff9-48f4-b1ec-e86a7693e518",
+      "fir_number": "FIR/2022/80648",
+      "category_name": "Murder",
+      "district_name": "Dakshina Kannada",
+      "status": "Registered",
+      "severity": "High",
+      "summary_text": "Murder in Dakshina Kannada with FIR FIR/2022/80648"
+    },
+    {
+      "crime_id": "0add5353-3563-4e82-843e-09ef9e918538",
+      "fir_number": "FIR/2024/74835",
+      "category_name": "Murder",
+      "district_name": "Mysuru",
+      "status": "Charge Sheet Filed",
+      "severity": "High",
+      "summary_text": "Murder in Mysuru with FIR FIR/2024/74835"
+    },
+    {
+      "crime_id": "7442f66e-d971-4b9f-beb4-8e2d94d02324",
+      "fir_number": "FIR/2024/88215",
+      "category_name": "Missing Person",
+      "district_name": "Bengaluru Urban",
+      "status": "Registered",
+      "severity": "Medium",
+      "summary_text": "Missing Person in Bengaluru Urban with FIR FIR/2024/88215"
+    },
+    {
+      "crime_id": "8f2d70aa-1631-4bdb-992f-2e705a3bab0f",
+      "fir_number": "FIR/2021/91412",
+      "category_name": "Missing Person",
+      "district_name": "Shivamogga",
+      "status": "Charge Sheet Filed",
+      "severity": "Medium",
+      "summary_text": "Missing Person in Shivamogga with FIR FIR/2021/91412"
+    },
+    {
+      "crime_id": "3e142b0f-742d-4df9-9fff-d94737aaafde",
+      "fir_number": "FIR/2024/16511",
+      "category_name": "Mobile Theft",
+      "district_name": "Mysuru",
+      "status": "Charge Sheet Filed",
+      "severity": "Medium",
+      "summary_text": "Mobile Theft in Mysuru with FIR FIR/2024/16511"
+    },
+    {
+      "crime_id": "4a80c865-d458-4fc0-9da4-e80dd648cbc1",
+      "fir_number": "FIR/2026/13163",
+      "category_name": "Mobile Theft",
+      "district_name": "Bengaluru Urban",
+      "status": "Registered",
+      "severity": "Medium",
+      "summary_text": "Mobile Theft in Bengaluru Urban with FIR FIR/2026/13163"
+    },
+    {
+      "crime_id": "f63dab93-3f2f-4903-892b-297525be6ac7",
+      "fir_number": "FIR/2021/61396",
+      "category_name": "Mobile Theft",
+      "district_name": "Shivamogga",
+      "status": "Charge Sheet Filed",
+      "severity": "Medium",
+      "summary_text": "Mobile Theft in Shivamogga with FIR FIR/2021/61396"
+    }
+  ],
+  "rag_ready_datasets": [
+    {
+      "fir_id": "4e9eb900-9fc0-4a4c-8932-cef4fadec4c5",
+      "fir_number": "FIR/2026/67638",
+      "fir_date": "2025-12-17T12:16:27+00:00",
+      "complainant_name": "Deepa Hegde",
+      "complaint_details": "Case CASE/2026/46410: Identity Theft reported.",
+      "clean_fir_text": "fir 2026 67638 deepa hegde case case 2026 46410 identity theft reported",
+      "status": "Pending Trial",
+      "district_name": "Udupi",
+      "station_name": "Mangaluru East",
+      "investigating_officer": "IO Udupi"
+    },
+    {
+      "fir_id": "d047a5c1-6b83-4730-8f25-7f9bf75e2b57",
+      "fir_number": "FIR/2025/81290",
+      "fir_date": "2025-07-16T19:26:27+00:00",
+      "complainant_name": "Shruthi Shetty",
+      "complaint_details": "Case CASE/2024/54061: Burglary reported.",
+      "clean_fir_text": "fir 2025 81290 shruthi shetty case case 2024 54061 burglary reported",
+      "status": "Under Investigation",
+      "district_name": "Belagavi",
+      "station_name": "Belagavi Camp",
+      "investigating_officer": "IO Belagavi"
+    },
+    {
+      "fir_id": "e86689b6-5fb3-4402-b40b-2a18a2c0e6be",
+      "fir_number": "FIR/2019/15116",
+      "fir_date": "2024-08-28T22:18:27+00:00",
+      "complainant_name": "Meera Sharma",
+      "complaint_details": "Case CASE/2025/15799: Assault reported.",
+      "clean_fir_text": "fir 2019 15116 meera sharma case case 2025 15799 assault reported",
+      "status": "Pending Trial",
+      "district_name": "Kalaburagi",
+      "station_name": "Udupi Town",
+      "investigating_officer": "IO Kalaburagi"
+    },
+    {
+      "fir_id": "b54aba8b-afdc-4c13-9f60-4ce10fd64e04",
+      "fir_number": "FIR/2024/16511",
+      "fir_date": "2024-07-18T18:07:27+00:00",
+      "complainant_name": "Siddharth Reddy",
+      "complaint_details": "Case CASE/2025/66895: Mobile Theft reported.",
+      "clean_fir_text": "fir 2024 16511 siddharth reddy case case 2025 66895 mobile theft reported",
+      "status": "Charge Sheet Filed",
+      "district_name": "Mysuru",
+      "station_name": "Shivamogga Town",
+      "investigating_officer": "IO Mysuru"
+    },
+    {
+      "fir_id": "0aefaf4a-06ef-4984-a7e4-311805c2181e",
+      "fir_number": "FIR/2026/86923",
+      "fir_date": "2024-05-15T19:47:27+00:00",
+      "complainant_name": "Meera Sharma",
+      "complaint_details": "Case CASE/2021/22011: Financial Fraud reported.",
+      "clean_fir_text": "fir 2026 86923 meera sharma case case 2021 22011 financial fraud reported",
+      "status": "Pending Trial",
+      "district_name": "Udupi",
+      "station_name": "Mangaluru East",
+      "investigating_officer": "IO Udupi"
+    },
+    {
+      "fir_id": "c803203b-d40b-4a56-b65c-dfc0a3f2dfd4",
+      "fir_number": "FIR/2026/55243",
+      "fir_date": "2024-03-28T16:59:27+00:00",
+      "complainant_name": "Ananya Hegde",
+      "complaint_details": "Case CASE/2021/90950: Burglary reported.",
+      "clean_fir_text": "fir 2026 55243 ananya hegde case case 2021 90950 burglary reported",
+      "status": "Under Investigation",
+      "district_name": "Kodagu",
+      "station_name": "Vijayanagar",
+      "investigating_officer": "IO Kodagu"
+    },
+    {
+      "fir_id": "c69d1a7e-5fe0-4ec4-813b-37880677db1e",
+      "fir_number": "FIR/2022/91217",
+      "fir_date": "2023-08-19T00:11:27+00:00",
+      "complainant_name": "Prakash Sharma",
+      "complaint_details": "Case CASE/2022/30360: Cyber Crime reported.",
+      "clean_fir_text": "fir 2022 91217 prakash sharma case case 2022 30360 cyber crime reported",
+      "status": "Registered",
+      "district_name": "Dakshina Kannada",
+      "station_name": "Hubballi North",
+      "investigating_officer": "IO Dakshina Kannada"
+    },
+    {
+      "fir_id": "91f63c94-0e2a-4714-bc57-405f67092ddd",
+      "fir_number": "FIR/2026/64356",
+      "fir_date": "2023-08-05T17:03:27+00:00",
+      "complainant_name": "Lakshmi Shetty",
+      "complaint_details": "Case CASE/2023/35934: Chain Snatching reported.",
+      "clean_fir_text": "fir 2026 64356 lakshmi shetty case case 2023 35934 chain snatching reported",
+      "status": "Pending Trial",
+      "district_name": "Udupi",
+      "station_name": "Mangaluru East",
+      "investigating_officer": "IO Udupi"
+    },
+    {
+      "fir_id": "66e5b89e-71c9-492d-8d08-b3c8c1c4ffba",
+      "fir_number": "FIR/2023/56114",
+      "fir_date": "2023-03-27T21:52:27+00:00",
+      "complainant_name": "Arjun Hegde",
+      "complaint_details": "Case CASE/2020/60718: Robbery reported.",
+      "clean_fir_text": "fir 2023 56114 arjun hegde case case 2020 60718 robbery reported",
+      "status": "Charge Sheet Filed",
+      "district_name": "Shivamogga",
+      "station_name": "Devaraja",
+      "investigating_officer": "IO Shivamogga"
+    },
+    {
+      "fir_id": "17740a1f-34f6-4611-8035-02cc39d1155a",
+      "fir_number": "FIR/2021/61608",
+      "fir_date": "2023-02-07T12:28:27+00:00",
+      "complainant_name": "Kavya Reddy",
+      "complaint_details": "Case CASE/2024/15965: Identity Theft reported.",
+      "clean_fir_text": "fir 2021 61608 kavya reddy case case 2024 15965 identity theft reported",
+      "status": "Under Investigation",
+      "district_name": "Kodagu",
+      "station_name": "Vijayanagar",
+      "investigating_officer": "IO Kodagu"
+    },
+    {
+      "fir_id": "c715944e-3b16-480f-aa1b-bf17eed2a4bd",
+      "fir_number": "FIR/2024/69447",
+      "fir_date": "2023-01-22T06:59:27+00:00",
+      "complainant_name": "Prakash Sharma",
+      "complaint_details": "Case CASE/2020/24619: Online Scam reported.",
+      "clean_fir_text": "fir 2024 69447 prakash sharma case case 2020 24619 online scam reported",
+      "status": "Registered",
+      "district_name": "Bengaluru Urban",
+      "station_name": "Cubbon Park",
+      "investigating_officer": "IO Bengaluru Urban"
+    },
+    {
+      "fir_id": "eea23483-854e-4938-8310-ae00222e68cf",
+      "fir_number": "FIR/2020/22052",
+      "fir_date": "2022-01-31T07:52:27+00:00",
+      "complainant_name": "Rohan Shetty",
+      "complaint_details": "Case CASE/2020/55252: Kidnapping reported.",
+      "clean_fir_text": "fir 2020 22052 rohan shetty case case 2020 55252 kidnapping reported",
+      "status": "Registered",
+      "district_name": "Dakshina Kannada",
+      "station_name": "Hubballi North",
+      "investigating_officer": "IO Dakshina Kannada"
+    },
+    {
+      "fir_id": "40bedf0e-b442-420c-8153-ff224cb5a710",
+      "fir_number": "FIR/2017/50380",
+      "fir_date": "2021-11-03T12:33:27+00:00",
+      "complainant_name": "Harish Sharma",
+      "complaint_details": "Case CASE/2026/63535: Kidnapping reported.",
+      "clean_fir_text": "fir 2017 50380 harish sharma case case 2026 63535 kidnapping reported",
+      "status": "Charge Sheet Filed",
+      "district_name": "Shivamogga",
+      "station_name": "Devaraja",
+      "investigating_officer": "IO Shivamogga"
+    },
+    {
+      "fir_id": "ca1cb6dd-2c6c-49fe-866e-9790d94c93a6",
+      "fir_number": "FIR/2018/90472",
+      "fir_date": "2021-06-22T03:04:27+00:00",
+      "complainant_name": "Divya Murthy",
+      "complaint_details": "Case CASE/2025/57744: Financial Fraud reported.",
+      "clean_fir_text": "fir 2018 90472 divya murthy case case 2025 57744 financial fraud reported",
+      "status": "Under Investigation",
+      "district_name": "Kodagu",
+      "station_name": "Vijayanagar",
+      "investigating_officer": "IO Kodagu"
+    },
+    {
+      "fir_id": "513196c2-f959-431b-ae7b-bdb9d098fcb3",
+      "fir_number": "FIR/2024/88215",
+      "fir_date": "2021-04-08T05:45:27+00:00",
+      "complainant_name": "Rohan Shetty",
+      "complaint_details": "Case CASE/2023/78233: Missing Person reported.",
+      "clean_fir_text": "fir 2024 88215 rohan shetty case case 2023 78233 missing person reported",
+      "status": "Registered",
+      "district_name": "Bengaluru Urban",
+      "station_name": "Cubbon Park",
+      "investigating_officer": "IO Bengaluru Urban"
+    },
+    {
+      "fir_id": "f53f0a08-0329-4bca-8d4d-99356dcbe3b3",
+      "fir_number": "FIR/2022/49240",
+      "fir_date": "2021-04-06T22:24:27+00:00",
+      "complainant_name": "Nandini Murthy",
+      "complaint_details": "Case CASE/2024/76881: Vehicle Theft reported.",
+      "clean_fir_text": "fir 2022 49240 nandini murthy case case 2024 76881 vehicle theft reported",
+      "status": "Pending Trial",
+      "district_name": "Udupi",
+      "station_name": "Mangaluru East",
+      "investigating_officer": "IO Udupi"
+    },
+    {
+      "fir_id": "e9cac0ad-f04d-45eb-a747-2201c630fbc3",
+      "fir_number": "FIR/2021/91412",
+      "fir_date": "2021-02-21T07:01:27+00:00",
+      "complainant_name": "Siddharth Reddy",
+      "complaint_details": "Case CASE/2020/77853: Missing Person reported.",
+      "clean_fir_text": "fir 2021 91412 siddharth reddy case case 2020 77853 missing person reported",
+      "status": "Charge Sheet Filed",
+      "district_name": "Shivamogga",
+      "station_name": "Devaraja",
+      "investigating_officer": "IO Shivamogga"
+    },
+    {
+      "fir_id": "78622cab-1686-4ea3-aa7a-25a88e04c065",
+      "fir_number": "FIR/2021/61396",
+      "fir_date": "2021-01-18T14:06:27+00:00",
+      "complainant_name": "Vikram Murthy",
+      "complaint_details": "Case CASE/2020/37151: Mobile Theft reported.",
+      "clean_fir_text": "fir 2021 61396 vikram murthy case case 2020 37151 mobile theft reported",
+      "status": "Charge Sheet Filed",
+      "district_name": "Shivamogga",
+      "station_name": "Devaraja",
+      "investigating_officer": "IO Shivamogga"
+    },
+    {
+      "fir_id": "c0907902-2b86-41a4-87ab-4f3625c6ee99",
+      "fir_number": "FIR/2021/91596",
+      "fir_date": "2021-01-05T09:41:27+00:00",
+      "complainant_name": "Pooja Sharma",
+      "complaint_details": "Case CASE/2023/78737: Vehicle Theft reported.",
+      "clean_fir_text": "fir 2021 91596 pooja sharma case case 2023 78737 vehicle theft reported",
+      "status": "Under Investigation",
+      "district_name": "Belagavi",
+      "station_name": "Belagavi Camp",
+      "investigating_officer": "IO Belagavi"
+    },
+    {
+      "fir_id": "c511f0b6-e9eb-4e60-b978-abc3cb75f471",
+      "fir_number": "FIR/2021/23854",
+      "fir_date": "2020-10-03T10:08:27+00:00",
+      "complainant_name": "Shruthi Shetty",
+      "complaint_details": "Case CASE/2021/58100: Assault reported.",
+      "clean_fir_text": "fir 2021 23854 shruthi shetty case case 2021 58100 assault reported",
+      "status": "Under Investigation",
+      "district_name": "Kodagu",
+      "station_name": "Vijayanagar",
+      "investigating_officer": "IO Kodagu"
+    },
+    {
+      "fir_id": "36dd8465-a21a-4c86-88e7-f142c5206ed8",
+      "fir_number": "FIR/2025/74438",
+      "fir_date": "2020-07-05T09:18:27+00:00",
+      "complainant_name": "Manoj Murthy",
+      "complaint_details": "Case CASE/2025/64613: Robbery reported.",
+      "clean_fir_text": "fir 2025 74438 manoj murthy case case 2025 64613 robbery reported",
+      "status": "Registered",
+      "district_name": "Dakshina Kannada",
+      "station_name": "Hubballi North",
+      "investigating_officer": "IO Dakshina Kannada"
+    },
+    {
+      "fir_id": "2473fdf3-a138-4fb0-aaed-c08c62a4e40e",
+      "fir_number": "FIR/2024/74835",
+      "fir_date": "2020-05-31T08:19:27+00:00",
+      "complainant_name": "Arjun Hegde",
+      "complaint_details": "Case CASE/2022/48506: Murder reported.",
+      "clean_fir_text": "fir 2024 74835 arjun hegde case case 2022 48506 murder reported",
+      "status": "Charge Sheet Filed",
+      "district_name": "Mysuru",
+      "station_name": "Shivamogga Town",
+      "investigating_officer": "IO Mysuru"
+    },
+    {
+      "fir_id": "30c4c820-4dcc-4a06-ba56-7f6115eecc92",
+      "fir_number": "FIR/2026/13163",
+      "fir_date": "2019-05-29T09:32:27+00:00",
+      "complainant_name": "Rahul Hegde",
+      "complaint_details": "Case CASE/2026/71546: Mobile Theft reported.",
+      "clean_fir_text": "fir 2026 13163 rahul hegde case case 2026 71546 mobile theft reported",
+      "status": "Registered",
+      "district_name": "Bengaluru Urban",
+      "station_name": "Cubbon Park",
+      "investigating_officer": "IO Bengaluru Urban"
+    },
+    {
+      "fir_id": "b846a78b-da3b-4292-b788-f02140a4cc4f",
+      "fir_number": "FIR/2024/36691",
+      "fir_date": "2019-03-05T05:32:27+00:00",
+      "complainant_name": "Aishwarya Reddy",
+      "complaint_details": "Case CASE/2020/66653: Burglary reported.",
+      "clean_fir_text": "fir 2024 36691 aishwarya reddy case case 2020 66653 burglary reported",
+      "status": "Pending Trial",
+      "district_name": "Kalaburagi",
+      "station_name": "Udupi Town",
+      "investigating_officer": "IO Kalaburagi"
+    },
+    {
+      "fir_id": "a68fcc0f-312e-46b0-b61c-4d8a693ab4fd",
+      "fir_number": "FIR/2017/81073",
+      "fir_date": "2018-09-01T21:48:27+00:00",
+      "complainant_name": "Vikram Murthy",
+      "complaint_details": "Case CASE/2025/99497: Online Scam reported.",
+      "clean_fir_text": "fir 2017 81073 vikram murthy case case 2025 99497 online scam reported",
+      "status": "Charge Sheet Filed",
+      "district_name": "Mysuru",
+      "station_name": "Shivamogga Town",
+      "investigating_officer": "IO Mysuru"
+    },
+    {
+      "fir_id": "60e72d5c-09a9-4322-98ac-924b80e8c4dd",
+      "fir_number": "FIR/2022/41237",
+      "fir_date": "2018-01-27T13:03:27+00:00",
+      "complainant_name": "Ananya Hegde",
+      "complaint_details": "Case CASE/2023/92284: Drug Trafficking reported.",
+      "clean_fir_text": "fir 2022 41237 ananya hegde case case 2023 92284 drug trafficking reported",
+      "status": "Under Investigation",
+      "district_name": "Belagavi",
+      "station_name": "Belagavi Camp",
+      "investigating_officer": "IO Belagavi"
+    },
+    {
+      "fir_id": "e399da81-1442-4dd5-9b1b-76a1eae3c733",
+      "fir_number": "FIR/2026/25064",
+      "fir_date": "2017-11-24T13:15:27+00:00",
+      "complainant_name": "Kiran Shetty",
+      "complaint_details": "Case CASE/2025/37119: Cyber Crime reported.",
+      "clean_fir_text": "fir 2026 25064 kiran shetty case case 2025 37119 cyber crime reported",
+      "status": "Charge Sheet Filed",
+      "district_name": "Mysuru",
+      "station_name": "Shivamogga Town",
+      "investigating_officer": "IO Mysuru"
+    },
+    {
+      "fir_id": "46e0d4c4-51b7-43fd-aff9-86e903296f0f",
+      "fir_number": "FIR/2017/65410",
+      "fir_date": "2017-04-21T02:55:27+00:00",
+      "complainant_name": "Nandini Murthy",
+      "complaint_details": "Case CASE/2022/50461: Drug Trafficking reported.",
+      "clean_fir_text": "fir 2017 65410 nandini murthy case case 2022 50461 drug trafficking reported",
+      "status": "Pending Trial",
+      "district_name": "Kalaburagi",
+      "station_name": "Udupi Town",
+      "investigating_officer": "IO Kalaburagi"
+    },
+    {
+      "fir_id": "4d6e19f2-5a2c-4ba8-8853-eba7de4d4db8",
+      "fir_number": "FIR/2022/80648",
+      "fir_date": "2017-03-25T04:06:27+00:00",
+      "complainant_name": "Aarav Reddy",
+      "complaint_details": "Case CASE/2022/49683: Murder reported.",
+      "clean_fir_text": "fir 2022 80648 aarav reddy case case 2022 49683 murder reported",
+      "status": "Registered",
+      "district_name": "Dakshina Kannada",
+      "station_name": "Hubballi North",
+      "investigating_officer": "IO Dakshina Kannada"
+    },
+    {
+      "fir_id": "9197bc05-9e2e-4e78-9705-9ba049deeeef",
+      "fir_number": "FIR/2025/53803",
+      "fir_date": "2016-10-30T17:19:27+00:00",
+      "complainant_name": "Kavya Reddy",
+      "complaint_details": "Case CASE/2023/29285: Chain Snatching reported.",
+      "clean_fir_text": "fir 2025 53803 kavya reddy case case 2023 29285 chain snatching reported",
+      "status": "Under Investigation",
+      "district_name": "Belagavi",
+      "station_name": "Belagavi Camp",
+      "investigating_officer": "IO Belagavi"
+    }
+  ],
+  "vector_ready_metadata": [
+    {
+      "id": "4e9eb900-9fc0-4a4c-8932-cef4fadec4c5",
+      "text": "fir 2026 67638 deepa hegde case case 2026 46410 identity theft reported",
+      "metadata": {
+        "fir_number": "FIR/2026/67638",
+        "district_name": "Udupi",
+        "status": "Pending Trial"
+      }
+    },
+    {
+      "id": "d047a5c1-6b83-4730-8f25-7f9bf75e2b57",
+      "text": "fir 2025 81290 shruthi shetty case case 2024 54061 burglary reported",
+      "metadata": {
+        "fir_number": "FIR/2025/81290",
+        "district_name": "Belagavi",
+        "status": "Under Investigation"
+      }
+    },
+    {
+      "id": "e86689b6-5fb3-4402-b40b-2a18a2c0e6be",
+      "text": "fir 2019 15116 meera sharma case case 2025 15799 assault reported",
+      "metadata": {
+        "fir_number": "FIR/2019/15116",
+        "district_name": "Kalaburagi",
+        "status": "Pending Trial"
+      }
+    },
+    {
+      "id": "b54aba8b-afdc-4c13-9f60-4ce10fd64e04",
+      "text": "fir 2024 16511 siddharth reddy case case 2025 66895 mobile theft reported",
+      "metadata": {
+        "fir_number": "FIR/2024/16511",
+        "district_name": "Mysuru",
+        "status": "Charge Sheet Filed"
+      }
+    },
+    {
+      "id": "0aefaf4a-06ef-4984-a7e4-311805c2181e",
+      "text": "fir 2026 86923 meera sharma case case 2021 22011 financial fraud reported",
+      "metadata": {
+        "fir_number": "FIR/2026/86923",
+        "district_name": "Udupi",
+        "status": "Pending Trial"
+      }
+    },
+    {
+      "id": "c803203b-d40b-4a56-b65c-dfc0a3f2dfd4",
+      "text": "fir 2026 55243 ananya hegde case case 2021 90950 burglary reported",
+      "metadata": {
+        "fir_number": "FIR/2026/55243",
+        "district_name": "Kodagu",
+        "status": "Under Investigation"
+      }
+    },
+    {
+      "id": "c69d1a7e-5fe0-4ec4-813b-37880677db1e",
+      "text": "fir 2022 91217 prakash sharma case case 2022 30360 cyber crime reported",
+      "metadata": {
+        "fir_number": "FIR/2022/91217",
+        "district_name": "Dakshina Kannada",
+        "status": "Registered"
+      }
+    },
+    {
+      "id": "91f63c94-0e2a-4714-bc57-405f67092ddd",
+      "text": "fir 2026 64356 lakshmi shetty case case 2023 35934 chain snatching reported",
+      "metadata": {
+        "fir_number": "FIR/2026/64356",
+        "district_name": "Udupi",
+        "status": "Pending Trial"
+      }
+    },
+    {
+      "id": "66e5b89e-71c9-492d-8d08-b3c8c1c4ffba",
+      "text": "fir 2023 56114 arjun hegde case case 2020 60718 robbery reported",
+      "metadata": {
+        "fir_number": "FIR/2023/56114",
+        "district_name": "Shivamogga",
+        "status": "Charge Sheet Filed"
+      }
+    },
+    {
+      "id": "17740a1f-34f6-4611-8035-02cc39d1155a",
+      "text": "fir 2021 61608 kavya reddy case case 2024 15965 identity theft reported",
+      "metadata": {
+        "fir_number": "FIR/2021/61608",
+        "district_name": "Kodagu",
+        "status": "Under Investigation"
+      }
+    },
+    {
+      "id": "c715944e-3b16-480f-aa1b-bf17eed2a4bd",
+      "text": "fir 2024 69447 prakash sharma case case 2020 24619 online scam reported",
+      "metadata": {
+        "fir_number": "FIR/2024/69447",
+        "district_name": "Bengaluru Urban",
+        "status": "Registered"
+      }
+    },
+    {
+      "id": "eea23483-854e-4938-8310-ae00222e68cf",
+      "text": "fir 2020 22052 rohan shetty case case 2020 55252 kidnapping reported",
+      "metadata": {
+        "fir_number": "FIR/2020/22052",
+        "district_name": "Dakshina Kannada",
+        "status": "Registered"
+      }
+    },
+    {
+      "id": "40bedf0e-b442-420c-8153-ff224cb5a710",
+      "text": "fir 2017 50380 harish sharma case case 2026 63535 kidnapping reported",
+      "metadata": {
+        "fir_number": "FIR/2017/50380",
+        "district_name": "Shivamogga",
+        "status": "Charge Sheet Filed"
+      }
+    },
+    {
+      "id": "ca1cb6dd-2c6c-49fe-866e-9790d94c93a6",
+      "text": "fir 2018 90472 divya murthy case case 2025 57744 financial fraud reported",
+      "metadata": {
+        "fir_number": "FIR/2018/90472",
+        "district_name": "Kodagu",
+        "status": "Under Investigation"
+      }
+    },
+    {
+      "id": "513196c2-f959-431b-ae7b-bdb9d098fcb3",
+      "text": "fir 2024 88215 rohan shetty case case 2023 78233 missing person reported",
+      "metadata": {
+        "fir_number": "FIR/2024/88215",
+        "district_name": "Bengaluru Urban",
+        "status": "Registered"
+      }
+    },
+    {
+      "id": "f53f0a08-0329-4bca-8d4d-99356dcbe3b3",
+      "text": "fir 2022 49240 nandini murthy case case 2024 76881 vehicle theft reported",
+      "metadata": {
+        "fir_number": "FIR/2022/49240",
+        "district_name": "Udupi",
+        "status": "Pending Trial"
+      }
+    },
+    {
+      "id": "e9cac0ad-f04d-45eb-a747-2201c630fbc3",
+      "text": "fir 2021 91412 siddharth reddy case case 2020 77853 missing person reported",
+      "metadata": {
+        "fir_number": "FIR/2021/91412",
+        "district_name": "Shivamogga",
+        "status": "Charge Sheet Filed"
+      }
+    },
+    {
+      "id": "78622cab-1686-4ea3-aa7a-25a88e04c065",
+      "text": "fir 2021 61396 vikram murthy case case 2020 37151 mobile theft reported",
+      "metadata": {
+        "fir_number": "FIR/2021/61396",
+        "district_name": "Shivamogga",
+        "status": "Charge Sheet Filed"
+      }
+    },
+    {
+      "id": "c0907902-2b86-41a4-87ab-4f3625c6ee99",
+      "text": "fir 2021 91596 pooja sharma case case 2023 78737 vehicle theft reported",
+      "metadata": {
+        "fir_number": "FIR/2021/91596",
+        "district_name": "Belagavi",
+        "status": "Under Investigation"
+      }
+    },
+    {
+      "id": "c511f0b6-e9eb-4e60-b978-abc3cb75f471",
+      "text": "fir 2021 23854 shruthi shetty case case 2021 58100 assault reported",
+      "metadata": {
+        "fir_number": "FIR/2021/23854",
+        "district_name": "Kodagu",
+        "status": "Under Investigation"
+      }
+    },
+    {
+      "id": "36dd8465-a21a-4c86-88e7-f142c5206ed8",
+      "text": "fir 2025 74438 manoj murthy case case 2025 64613 robbery reported",
+      "metadata": {
+        "fir_number": "FIR/2025/74438",
+        "district_name": "Dakshina Kannada",
+        "status": "Registered"
+      }
+    },
+    {
+      "id": "2473fdf3-a138-4fb0-aaed-c08c62a4e40e",
+      "text": "fir 2024 74835 arjun hegde case case 2022 48506 murder reported",
+      "metadata": {
+        "fir_number": "FIR/2024/74835",
+        "district_name": "Mysuru",
+        "status": "Charge Sheet Filed"
+      }
+    },
+    {
+      "id": "30c4c820-4dcc-4a06-ba56-7f6115eecc92",
+      "text": "fir 2026 13163 rahul hegde case case 2026 71546 mobile theft reported",
+      "metadata": {
+        "fir_number": "FIR/2026/13163",
+        "district_name": "Bengaluru Urban",
+        "status": "Registered"
+      }
+    },
+    {
+      "id": "b846a78b-da3b-4292-b788-f02140a4cc4f",
+      "text": "fir 2024 36691 aishwarya reddy case case 2020 66653 burglary reported",
+      "metadata": {
+        "fir_number": "FIR/2024/36691",
+        "district_name": "Kalaburagi",
+        "status": "Pending Trial"
+      }
+    },
+    {
+      "id": "a68fcc0f-312e-46b0-b61c-4d8a693ab4fd",
+      "text": "fir 2017 81073 vikram murthy case case 2025 99497 online scam reported",
+      "metadata": {
+        "fir_number": "FIR/2017/81073",
+        "district_name": "Mysuru",
+        "status": "Charge Sheet Filed"
+      }
+    },
+    {
+      "id": "60e72d5c-09a9-4322-98ac-924b80e8c4dd",
+      "text": "fir 2022 41237 ananya hegde case case 2023 92284 drug trafficking reported",
+      "metadata": {
+        "fir_number": "FIR/2022/41237",
+        "district_name": "Belagavi",
+        "status": "Under Investigation"
+      }
+    },
+    {
+      "id": "e399da81-1442-4dd5-9b1b-76a1eae3c733",
+      "text": "fir 2026 25064 kiran shetty case case 2025 37119 cyber crime reported",
+      "metadata": {
+        "fir_number": "FIR/2026/25064",
+        "district_name": "Mysuru",
+        "status": "Charge Sheet Filed"
+      }
+    },
+    {
+      "id": "46e0d4c4-51b7-43fd-aff9-86e903296f0f",
+      "text": "fir 2017 65410 nandini murthy case case 2022 50461 drug trafficking reported",
+      "metadata": {
+        "fir_number": "FIR/2017/65410",
+        "district_name": "Kalaburagi",
+        "status": "Pending Trial"
+      }
+    },
+    {
+      "id": "4d6e19f2-5a2c-4ba8-8853-eba7de4d4db8",
+      "text": "fir 2022 80648 aarav reddy case case 2022 49683 murder reported",
+      "metadata": {
+        "fir_number": "FIR/2022/80648",
+        "district_name": "Dakshina Kannada",
+        "status": "Registered"
+      }
+    },
+    {
+      "id": "9197bc05-9e2e-4e78-9705-9ba049deeeef",
+      "text": "fir 2025 53803 kavya reddy case case 2023 29285 chain snatching reported",
+      "metadata": {
+        "fir_number": "FIR/2025/53803",
+        "district_name": "Belagavi",
+        "status": "Under Investigation"
+      }
+    }
+  ],
+  "feature_ready_datasets": [
+    {
+      "crime_id": "2bf77d79-3cce-457c-aff8-ee333b39f382",
+      "severity": "Medium",
+      "reported_at": "2023-08-03T17:03:27+00:00",
+      "category_name": "Chain Snatching",
+      "district_name": "Udupi",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "31b0774f-15eb-45db-8478-805e16525173",
+      "severity": "Medium",
+      "reported_at": "2016-10-28T17:19:27+00:00",
+      "category_name": "Chain Snatching",
+      "district_name": "Belagavi",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "5108bc79-50c7-4110-a7fc-63a237d3b0e3",
+      "severity": "Medium",
+      "reported_at": "2024-08-26T22:18:27+00:00",
+      "category_name": "Assault",
+      "district_name": "Kalaburagi",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "92db8a73-953c-4507-9ca4-682a39377ba1",
+      "severity": "Medium",
+      "reported_at": "2020-10-01T10:08:27+00:00",
+      "category_name": "Assault",
+      "district_name": "Kodagu",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "eb09a057-726d-4fe4-bd3d-1a53fc0f66d5",
+      "severity": "Medium",
+      "reported_at": "2021-06-20T03:04:27+00:00",
+      "category_name": "Financial Fraud",
+      "district_name": "Kodagu",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "e84e8eba-e81b-4e97-956f-736e58c3d902",
+      "severity": "Medium",
+      "reported_at": "2024-05-13T19:47:27+00:00",
+      "category_name": "Financial Fraud",
+      "district_name": "Udupi",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "e8db3db0-9b46-4989-802e-85b9f97595a7",
+      "severity": "Medium",
+      "reported_at": "2021-11-01T12:33:27+00:00",
+      "category_name": "Kidnapping",
+      "district_name": "Shivamogga",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "5f71d838-ae3d-4f21-a209-64143ca81937",
+      "severity": "Medium",
+      "reported_at": "2022-01-29T07:52:27+00:00",
+      "category_name": "Kidnapping",
+      "district_name": "Dakshina Kannada",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "a9c80168-1fa9-4dd8-b01a-8038096740f1",
+      "severity": "Medium",
+      "reported_at": "2021-04-04T22:24:27+00:00",
+      "category_name": "Vehicle Theft",
+      "district_name": "Udupi",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "6a140cd1-5cfe-4e23-99a7-e21c9eabd0ac",
+      "severity": "Medium",
+      "reported_at": "2021-01-03T09:41:27+00:00",
+      "category_name": "Vehicle Theft",
+      "district_name": "Belagavi",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "aadaa36a-8dcd-4bd6-a468-077ceec70cd8",
+      "severity": "Medium",
+      "reported_at": "2018-08-30T21:48:27+00:00",
+      "category_name": "Online Scam",
+      "district_name": "Mysuru",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "c7792b5c-68e7-42dd-a24b-216028a341d2",
+      "severity": "Medium",
+      "reported_at": "2023-01-20T06:59:27+00:00",
+      "category_name": "Online Scam",
+      "district_name": "Bengaluru Urban",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "78ae4b1c-7423-4719-9995-209ad73abb43",
+      "severity": "Medium",
+      "reported_at": "2018-01-25T13:03:27+00:00",
+      "category_name": "Drug Trafficking",
+      "district_name": "Belagavi",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "dec9a06b-5e83-4ea0-b6f7-b86697420b99",
+      "severity": "Medium",
+      "reported_at": "2017-04-19T02:55:27+00:00",
+      "category_name": "Drug Trafficking",
+      "district_name": "Kalaburagi",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "e65cb713-2ad2-4d4b-9e90-2c10bfe406f3",
+      "severity": "Medium",
+      "reported_at": "2023-08-17T00:11:27+00:00",
+      "category_name": "Cyber Crime",
+      "district_name": "Dakshina Kannada",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "56a664d8-4bb9-406a-afff-5bb2a45634cc",
+      "severity": "Medium",
+      "reported_at": "2017-11-22T13:15:27+00:00",
+      "category_name": "Cyber Crime",
+      "district_name": "Mysuru",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "f75e499c-51f4-42e3-8b45-0b749f0c8361",
+      "severity": "Medium",
+      "reported_at": "2023-02-05T12:28:27+00:00",
+      "category_name": "Identity Theft",
+      "district_name": "Kodagu",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "1b5682da-cb39-4900-a8e1-2e9bc525e003",
+      "severity": "Medium",
+      "reported_at": "2025-12-15T12:16:27+00:00",
+      "category_name": "Identity Theft",
+      "district_name": "Udupi",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "2dbc192e-7b0a-47ca-8f4b-fff03f5ae4c4",
+      "severity": "Medium",
+      "reported_at": "2025-07-14T19:26:27+00:00",
+      "category_name": "Burglary",
+      "district_name": "Belagavi",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "ee621ac5-2239-42c9-b9be-2936c3a3c91e",
+      "severity": "Medium",
+      "reported_at": "2019-03-03T05:32:27+00:00",
+      "category_name": "Burglary",
+      "district_name": "Kalaburagi",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "d92cf90b-bbe8-47b5-a2cf-2c411c9bf465",
+      "severity": "Medium",
+      "reported_at": "2024-03-26T16:59:27+00:00",
+      "category_name": "Burglary",
+      "district_name": "Kodagu",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "c6ae9036-5db5-4e26-8b7d-43da5412f855",
+      "severity": "Medium",
+      "reported_at": "2023-03-25T21:52:27+00:00",
+      "category_name": "Robbery",
+      "district_name": "Shivamogga",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "dcf259a8-1a56-4bf1-9bf1-bc9cafbe735d",
+      "severity": "Medium",
+      "reported_at": "2020-07-03T09:18:27+00:00",
+      "category_name": "Robbery",
+      "district_name": "Dakshina Kannada",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "12296f05-5ff9-48f4-b1ec-e86a7693e518",
+      "severity": "High",
+      "reported_at": "2017-03-23T04:06:27+00:00",
+      "category_name": "Murder",
+      "district_name": "Dakshina Kannada",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "0add5353-3563-4e82-843e-09ef9e918538",
+      "severity": "High",
+      "reported_at": "2020-05-29T08:19:27+00:00",
+      "category_name": "Murder",
+      "district_name": "Mysuru",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "7442f66e-d971-4b9f-beb4-8e2d94d02324",
+      "severity": "Medium",
+      "reported_at": "2021-04-06T05:45:27+00:00",
+      "category_name": "Missing Person",
+      "district_name": "Bengaluru Urban",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "8f2d70aa-1631-4bdb-992f-2e705a3bab0f",
+      "severity": "Medium",
+      "reported_at": "2021-02-19T07:01:27+00:00",
+      "category_name": "Missing Person",
+      "district_name": "Shivamogga",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "3e142b0f-742d-4df9-9fff-d94737aaafde",
+      "severity": "Medium",
+      "reported_at": "2024-07-16T18:07:27+00:00",
+      "category_name": "Mobile Theft",
+      "district_name": "Mysuru",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "4a80c865-d458-4fc0-9da4-e80dd648cbc1",
+      "severity": "Medium",
+      "reported_at": "2019-05-27T09:32:27+00:00",
+      "category_name": "Mobile Theft",
+      "district_name": "Bengaluru Urban",
+      "station_type": "PS"
+    },
+    {
+      "crime_id": "f63dab93-3f2f-4903-892b-297525be6ac7",
+      "severity": "Medium",
+      "reported_at": "2021-01-16T14:06:27+00:00",
+      "category_name": "Mobile Theft",
+      "district_name": "Shivamogga",
+      "station_type": "PS"
+    }
+  ]
+}

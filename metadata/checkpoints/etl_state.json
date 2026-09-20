@@ -1,0 +1,90 @@
+{
+  "districts": {
+    "load": true,
+    "last_updated": "2026-07-12T00:02:00.025142"
+  },
+  "roles": {
+    "load": true,
+    "last_updated": "2026-07-12T00:02:00.096400"
+  },
+  "crime_categories": {
+    "load": true,
+    "last_updated": "2026-07-12T00:02:00.181583"
+  },
+  "police_stations": {
+    "load": true,
+    "last_updated": "2026-07-12T00:02:00.270033"
+  },
+  "suspects": {
+    "load": true,
+    "last_updated": "2026-07-12T00:02:00.647265"
+  },
+  "victims": {
+    "load": true,
+    "last_updated": "2026-07-12T00:02:01.043391"
+  },
+  "witnesses": {
+    "load": true,
+    "last_updated": "2026-07-12T00:02:01.287544"
+  },
+  "vehicles": {
+    "load": true,
+    "last_updated": "2026-07-12T00:02:01.409964"
+  },
+  "weapons": {
+    "load": true,
+    "last_updated": "2026-07-12T00:02:01.516889"
+  },
+  "officers": {
+    "load": true,
+    "last_updated": "2026-07-12T00:02:01.662072"
+  },
+  "firs": {
+    "load": true,
+    "last_updated": "2026-07-12T00:02:02.062960"
+  },
+  "crimes": {
+    "load": true,
+    "last_updated": "2026-07-12T00:02:02.386271"
+  },
+  "evidence": {
+    "load": true,
+    "last_updated": "2026-07-12T00:02:02.791119"
+  },
+  "users": {
+    "load": true,
+    "last_updated": "2026-07-12T00:02:02.862680"
+  },
+  "fir_suspects": {
+    "load": true,
+    "last_updated": "2026-07-12T00:02:03.039965"
+  },
+  "fir_victims": {
+    "load": true,
+    "last_updated": "2026-07-12T00:02:03.294521"
+  },
+  "fir_witnesses": {
+    "load": true,
+    "last_updated": "2026-07-12T00:02:03.401532"
+  },
+  "fir_vehicles": {
+    "load": true,
+    "last_updated": "2026-07-12T00:02:03.512851"
+  },
+  "fir_weapons": {
+    "load": true,
+    "last_updated": "2026-07-12T00:02:03.632535"
+  },
+  "fir_evidence": {
+    "load": true,
+    "last_updated": "2026-07-12T00:02:03.893868"
+  },
+  "crime_suspects": {
+    "load": true,
+    "last_updated": "2026-07-12T00:02:04.111263"
+  },
+  "user_roles": {
+    "load": true,
+    "last_updated": "2026-07-12T00:02:04.170070"
+  }
+}

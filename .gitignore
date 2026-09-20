@@ -1,0 +1,38 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+CREDS.TXT
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# JavaScript and build output
+node_modules/
+dist/
+dist-server/
+build-server/
+release/
+release-*/
+
+# Local databases and runtime data
+datasets/*.db
+datasets/*.sqlite
+datasets/*.sqlite3
+logs/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
